@@ -89,7 +89,7 @@
  DEN_neutrality_ADJ:0 "Danois"
  DEN_communism_ADJ:0 "Danois"
  BAV_neutrality:0 "Bavière"
- BAV_neutrality_DEF:0 "La Bavière"
+ BAV_neutrality_DEF:0 "Bavière"
  BAV_neutrality_ADJ:0 "Bavarois"
  WUR_neutrality:0 "Wurtemberg"
  WUR_neutrality_DEF:0 "Le Wurtemberg"
@@ -1465,3 +1465,4 @@
  
  SPQR_UNIFIED_communism:0 "Res Publica Proletariorum Romanorum"
  SPQR_UNIFIED_communism_DEF:0 "Res Publica Proletariorum Romanorum"
+ 

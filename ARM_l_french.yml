@@ -304,3 +304,4 @@
  ARM_event.8.t:0 "Les Volontaires rentrent chez eux !"
  ARM_event.8.desc:0 "Après des combats héroïques pour assurer la libération de notre patrie de l'oppression étrangère, les volontaires qui ont répondu à l'appel de se battre pour [ROOT.GetName] sont rentrés chez eux. Ils ont défilé dans le centre-ville sous les aclamations de la foule."
  ARM_event.8.a:0 "Nous nous sommes libérés !"
+ 
