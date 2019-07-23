@@ -3,11 +3,11 @@
  #####-----> Game Rules Localization <><> <><> <><> <><> <><>
  
  ###---> Game Setup: Country Boosts <><> <><> <><>
- CUSTOM_DIFFICULTY_GROUP_NAME:0 "Configuration de la partie : Boosts des pays"
+ CUSTOM_DIFFICULTY_GROUP_NAME:0 "Config. de la partie : Boosts des pays"
  
  ###---> Game Setup: Focus Trees <><> <><> <><>
- RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Configuration de la partie : Arbres des priorités"
- USE_MOD_FOCUS_TREE:0 "Configuration de la partie : Arbre des priorités (Expérimental)"
+ RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Config. de la partie : Arbres des priorités"
+ USE_MOD_FOCUS_TREE:0 "Config. de la partie : Arbre des priorités (Expérimental)"
  
  RULE_OPTION_R56_TREE:0 "Arbre des priorités de Road to 56"
  RULE_OPTION_R56_TREE_DESC:0 "Utiliser l'arbre de priorités par défaut de Road to 56 qui est inclu dans le mod."
@@ -26,7 +26,7 @@
  SAF_FOCUS_TREE_SELECTION:0 "@SAF Sélection de l'arbre des priorités de l'Afrique du Sud" 
   
  ###---> Game Setup: AI Behavior <><> <><> <><>
- RULE_GROUP_AI_BEHAVIOR:0 "Configuration de la partie : Comportement de l'IA (NOUVEAU)"
+ RULE_GROUP_AI_BEHAVIOR:0 "Config. de la partie : Comportement de l'IA (NOUVEAU)"
  RULE_OPTION_DEFAULT_AI_DESC:0 "L'IA prendra des décisions basées sur d'autres paramètres de gameplay, tels que l'option de forcer les priorités historiques et d'autres scénarios de gameplay."
  RULE_OPTION_MONARCHIST:0 "Monarchiste"
  
@@ -71,7 +71,7 @@
  RULE_OPTION_MONARCHIST_SIA_AI_DESC:0 "L'IA siamoise va restaurer la monarchie en faisant revenir Rama VII, en empruntant le chemin approprié dans l'arbre des priorités nationales."
  
  ###---> Game Setup: World Map <><> <><> <><>
- RULE_GROUP_GAME_SETUP:0 "Configuration de la partie : Carte du monde"
+ RULE_GROUP_GAME_SETUP:0 "Config. de la partie : Carte du monde"
  
  #adding flags base game titles
  ENG_FRAGMENTATION_STATUS:0 "@ENG Division du Royaume-Uni"
