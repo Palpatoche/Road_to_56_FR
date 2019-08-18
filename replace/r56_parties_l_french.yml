@@ -66,7 +66,7 @@
  BOL_communism_party_long:0 "Partido Obrero Revolucionario"
  
  #BUL
- BUL_neutrality_party:0 "Maison de Saxe-Cobourg"
+ BUL_neutrality_party:0 "Le régime des autorités"
  
  #CHL
  CHL_fascism_party:0 "VPS"
@@ -129,24 +129,6 @@
  FRI_fascism_party:0 "Cuong De's Faction"
  FRI_democratic_party:0 "VNQDD"
  
- #GRE
- GRE_1_neutrality:0 "Byzance"
- GRE_1_fascism:0 "Empire Bizantin"
- GRE_1_democratic:0 "République Constitutionnelle Byzantine"
- GRE_1_communism:0 "Commune Byzantine"
- GRE_1_neutrality_DEF:0 "Byzance"
- GRE_1_fascism_DEF:0 "L'Empire Bizantin"
- GRE_1_democratic_DEF:0 "La République Constitutionnelle Byzantine"
- GRE_1_communism_DEF:0 "La Commune Byzantine"
- GRE_2_neutrality:0 "Macédoine"
- GRE_2_fascism:0 "Royaume de Macédoine"
- GRE_2_democratic:0 "République de Macédoine"
- GRE_2_communism:0 "Commune Macédonienne"
- GRE_2_neutrality_DEF:0 "La Macédoine"
- GRE_2_fascism_DEF:0 "Le Royaume de Macédoine"
- GRE_2_democratic_DEF:0 "La République de Macédoine"
- GRE_2_communism_DEF:0 "La Commune Macédonienne"
- 
  #GXC
  GXC_neutrality_party:0 "Nouvelle Clique du Guangxi"
  
@@ -176,7 +158,7 @@
  
  #MEN
  MEN_mongal_council_long:0 "Comité des Affaires Politiques de l'Autonomie Locale Mongole"
- MEN_mongal_council:0 "Comité Politique Mongol"     
+ MEN_mongal_council:0 "Comité Politique Mongol"
  
  #MAN
  MAN_fascism_party:0 "Manshukokukyowakai"
@@ -214,6 +196,14 @@
  PRU_fascism_party_long:0 "Assemblée Constituante"
  PRU_communism_party:0 "PCP"
  PRU_communism_party_long:0 "Partido Comunista del Perú"
+ 
+ #SAF
+ SAF_fascism_party:0 "PNP"
+ SAF_fascism_party_long:0 "Purified National Party"
+ SAF_neutrality_party:0 "United"
+ SAF_neutrality_party_long:0 "United National Party Of South Africa"
+ SAF_anc:0 "ANC"
+ SAF_anc_long:0 "African National Congress"
  
  #SCA
  SCA_fascism_party:0 "CN"

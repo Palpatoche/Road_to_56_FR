@@ -19,7 +19,7 @@
  GEN_Refinery_desc:0 ""
  GEN_Autarky:0 "Réformer les Taxes"
  GEN_Autarky_desc:0 ""
- ABC_establish_a_general_staff:0 "Établir un État-Major"
+ ABC_establish_a_general_staff:0 "L'État-Major [ROOT.GetAdjective]"
  ABC_establish_a_general_staff_desc:0 ""
  ABC_army_reform:0 "Réforme de l'Armée"
  ABC_army_reform_desc:0 " "
