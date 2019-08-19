@@ -80,6 +80,8 @@
  RAJ_FRAGMENTATION_STATUS:0 "@RAJ Division de l'Inde"
 
  RULE_OPTION_YUG_FRAGMENTED_DESC:0 "Toutes les nations libérables en Yougoslavie sont libérées en tant que nations libres et indépendantes dès le début de la partie. Si vous sélectionnez la Yougoslavie, vous commencerez avec la Serbie."
+ RULE_OPTION_YUG_FRAGMENTED_SERBIA:0 "YOUG divisée - Serbie"
+ RULE_OPTION_YUG_FRAGMENTED_SERBIA_DESC:0 "Lorsque vous sélectionnerez la Yougoslavie, vous commencerez avec la Serbie." 
  RULE_OPTION_YUG_FRAGMENTED_CROATIA:0 "YOUG divisée - Croatie"
  RULE_OPTION_YUG_FRAGMENTED_CROATIA_DESC:0 "Lorsque vous sélectionnerez la Yougoslavie, vous commencerez avec la Croatie." 
 
@@ -98,6 +100,12 @@
  RULE_OPTION_CZE_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Tchécoslovaquie sont libérées en tant que nations fantoches dès le début de la partie."
  RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED:0 "Irlande unie"
  RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED_DESC:0 "Au lieu de libérer l'Irlande du Nord avec les autres pays formant le Royaume-Uni, l'Éire en prendra le contrôle." 
+ DEN_FRAGMENTATION_STATUS:0 "@DEN Division du Danemark"
+ RULE_OPTION_DEN_FRAGMENTED:0 "Danemark divisé"
+ RULE_OPTION_DEN_FRAGMENTED_DESC:0 "Toutes les nations libérables au Danemark sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_DEN_DECENTRALIZED:0 "Danemark décentralisé"
+ RULE_OPTION_DEN_DECENTRALIZED_DESC:0 "Toutes les nations libérables au Danemark sont libérées en tant que nations fantoches dès le début de la partie."
+ 
  SPR_FRAGMENTATION_STATUS:0 "@SPR Division de l'Espagne"
  RULE_OPTION_SPR_FRAGMENTED:0 "Espagne divisée"
  RULE_OPTION_SPR_FRAGMENTED_DESC:0 "Toutes les nations libérables en l'Espagne sont libérées en tant que nations libres et indépendantes dès le début de la partie."
@@ -144,3 +152,4 @@
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Tous les pays d'Amérique centrale sont annexés par le Honduras, vous obtenez des états nationaux sur ces pays et votre nom change pour les États-Unis d'Amérique centrale."
  
  #####-----> End of File <><> <><> <><> <><> <><>
+ 
