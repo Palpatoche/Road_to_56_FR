@@ -4,12 +4,12 @@
   
   #Marco Angeli di Sartèna
 
-  COR_communism:0 "Corsican People's Republic" 
-  COR_fascism:0 "Corsican State"
-  COR_democratic:0 "Corsica"
-  COR_neutrality:0 "Corsica" 
+  COR_communism:0 "République populaire corse" 
+  COR_fascism:0 "État corse"
+  COR_democratic:0 "Corse"
+  COR_neutrality:0 "Corse" 
 
- COR_fascism_ADJ:0 "Corsican"
- COR_democratic_ADJ:0 "Corsican"
- COR_neutrality_ADJ:0 "Corsican"
- COR_communism_ADJ:0 "Corsican"
+ COR_fascism_ADJ:0 "corse"
+ COR_democratic_ADJ:0 "corse"
+ COR_neutrality_ADJ:0 "corse"
+ COR_communism_ADJ:0 "corse"
