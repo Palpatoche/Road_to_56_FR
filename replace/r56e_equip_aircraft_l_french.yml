@@ -11,7 +11,7 @@ l_french:
  transport_plane_equipment_1_desc:0 "§LCes appareils sont dédiés au transport des parachutistes.§!"
  
 #-> Dive bombers <><>
- cas:1 "Bombardier en piqué"
+ cas:1 "Bomb. en piqué"
  CAS_equipment:0 "Bombardier en piqué"
  CAS_equipment_desc:0 "Les bombardiers en piqué sont conçus pour fournir un soutien aérien rapproché en combat terrestre."
  CAS_equipment_1:0 "Bombardier en piqué 36"
@@ -25,7 +25,7 @@ l_french:
  CAS_equipment_3_desc:0 "L'efficacité croissante des canons anti-aériens et des intercepteurs de l'ennemi oblige à une nouvelle évolution de nos appareils d'appui aérien rapproché. Notre nouveau modèle doit être doté d'un moteur plus puissant, d'un fuselage assurant une meilleure protection et plus adapté aux bombardements en piqué, en plus d'une capacité de charge accrue."
  
 #-> Carrier-based dive bombers <><>
- cv_cas:1 "Bombardier en piqué embarqué"
+ cv_cas:1 "Bomb. en piqué embarqué"
  cv_CAS_equipment:0 "Bombardier en piqué embarqué"
  cv_CAS_equipment_desc:0 "Les bombardiers en piqué embarqués sont conçus pour attaquer les navires de surface."
  cv_CAS_equipment_1:0 "Bombardier en piqué embarqué 36"
@@ -56,7 +56,7 @@ l_french:
  fighter_equipment_3_desc:0 "Si les générations de chasseurs précédentes n'ont pas démérité, nous devons tirer parti de tout avantage que peut offrir un modèle plus avancé. Cet appareil sera à la pointe de la technologie, avec son moteur à piston qui lui offrira un rayon d'action plus long, une grande puissance, un surcroît d'agilité et un armement redoutable."
   
 #-> Light fighter-bombers <><>
- fighter_bomber:0 "Chasseur-bombardier"
+ fighter_bomber:0 "Chasseur-bomb."
  fighter_bomber_equipment:0 "Chasseur-bombardier"
  fighter_bomber_equipment_desc:0 "Les chasseurs-bombardiers sont des variantes des chasseurs de première ligne actuels ou obsolètes, équipés de kits de bombes et de points d'appui plus durs, ainsi que de certaines modifications structurelles qui effectuent des missions d'interdiction et de soutien aérien rapproché pour les troupes terrestres."
  fighter_bomber_equipment_2:0 "Chasseur-bombardier 40"
@@ -126,7 +126,7 @@ l_french:
  heavy_fighter_equipment_3_desc:0 "Si les chasseurs lourds ont montré leur capacité à remplir des missions diverses, nous devons concevoir un nouveau modèle, capable à la fois de combattre les chasseurs ennemis par une agilité accrue, et d'intercepter les bombardiers toujours plus rapides et mieux protégés de nos adversaires."
  
 #-> Heavy fighter-bomber <><>
- hfighter_bomber:0 "Chasseur-bombardier lourd"
+ hfighter_bomber:0 "Chasseur-bomb. lourd"
  hfighter_bomber_equipment:0 "Chasseur-bombardier lourd"
  hfighter_bomber_equipment_desc:0 "Les chasseurs-bombardiers lourds sont des variantes des chasseurs de première ligne actuels ou obsolètes, équipés de kits de bombes et de points d'appui plus durs, ainsi que de certaines modifications structurelles qui effectuent des missions d'interdiction et de soutien aérien rapproché pour les troupes terrestres."
  hfighter_bomber_equipment_1:0 "Chasseur-bombardier lourd 36"
@@ -215,7 +215,7 @@ l_french:
 
 #-> Rocket interceptor <><>
  rocket_interceptor_equipment_desc:0 "L'§Yintercepteur à moteur-fusée§! a un faible rayon d'action mais est propulsé par un moteur-fusée chimique permettant une très grande vitesse."
- rocket_interceptor_equipment:0 "Intercepteur à moteur-fusée"
+ rocket_interceptor_equipment:0 "Intercept. à fusée"
  rocket_interceptor_equipment_1:0 "Intercepteur à moteur-fusée 43"
  rocket_interceptor_equipment_1_short:0 "Intercepteur à moteur-fusée I"
  rocket_interceptor_equipment_1_desc:0 "Intercepteur expérimental à courte portée, propulsé par un moteur-fusée chimique peu fiable."
@@ -279,10 +279,10 @@ l_french:
  
 
 #-> Suicide craft/rocket suicide craft <><>
- suicide_craft_equipment:0 "Suicide Craft"
+ suicide_craft_equipment:0 "Engin suicide"
  suicide_craft_equipment_desc:0 "Une bombe à courte portée pilotée par un moteur de fusée chimique."
- rocket_suicide_equipment_1:0 "Suicide Strike Craft"
- rocket_suicide_equipment_1_short:0 "Suicide Craft"
+ rocket_suicide_equipment_1:0 "Engin suicide"
+ rocket_suicide_equipment_1_short:0 "Engin suicide"
  rocket_suicide_equipment_1_desc:0 "Préparez-vous à un voyage mouvementé."
  
 
