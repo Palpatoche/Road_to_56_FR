@@ -13,7 +13,7 @@ l_french:
 #-> Dive bombers <><>
  cas:1 "Bomb. en piqué"
  CAS_equipment:0 "Bombardier en piqué"
- CAS_equipment_desc:0 "Les bombardiers en piqué sont conçus pour fournir un soutien aérien rapproché en combat terrestre."
+ CAS_equipment_desc:0 "Les §Ybombardiers en piqué§! sont conçus pour fournir un soutien aérien rapproché en combat terrestre."
  CAS_equipment_1:0 "Bombardier en piqué 36"
  CAS_equipment_1_short:0 "Bombardier en piqué I"
  CAS_equipment_1_desc:0 "Notre doctrine d'appui aérien rapproché nécessite un avion capable d'effectuer des frappes de précision. Bien que la capacité de charge de ces avions soit moindre que celle des bombardiers tactiques, ils peuvent néanmoins attaquer et détruire de petites cibles inopinées en les mitraillant ou par des bombardements en piqué."
@@ -27,7 +27,7 @@ l_french:
 #-> Carrier-based dive bombers <><>
  cv_cas:1 "Bomb. en piqué embarqué"
  cv_CAS_equipment:0 "Bombardier en piqué embarqué"
- cv_CAS_equipment_desc:0 "Les bombardiers en piqué embarqués sont conçus pour attaquer les navires de surface."
+ cv_CAS_equipment_desc:0 "Les §Ybombardiers en piqué embarqués§! sont conçus pour attaquer les navires de surface."
  cv_CAS_equipment_1:0 "Bombardier en piqué embarqué 36"
  cv_CAS_equipment_1_short:0 "Bombardier en piqué embarqué I"
  cv_CAS_equipment_1_desc:0 "Un appareil d'appui aérien rapproché de base, simplement adapté au décollage et à l'atterrissage sur un porte-avions."
@@ -58,7 +58,7 @@ l_french:
 #-> Light fighter-bombers <><>
  fighter_bomber:0 "Chasseur-bomb."
  fighter_bomber_equipment:0 "Chasseur-bombardier"
- fighter_bomber_equipment_desc:0 "Les chasseurs-bombardiers sont des variantes des chasseurs de première ligne actuels ou obsolètes, équipés de kits de bombes et de points d'appui plus durs, ainsi que de certaines modifications structurelles qui effectuent des missions d'interdiction et de soutien aérien rapproché pour les troupes terrestres."
+ fighter_bomber_equipment_desc:0 "Les §Ychasseurs-bombardiers§! sont des variantes des chasseurs de première ligne actuels ou obsolètes, équipés de kits de bombes et de points d'appui plus durs, ainsi que de certaines modifications structurelles qui effectuent des missions d'interdiction et de soutien aérien rapproché pour les troupes terrestres."
  fighter_bomber_equipment_2:0 "Chasseur-bombardier 40"
  fighter_bomber_equipment_2_short:0 "Chasseur-bombardier III"
  fighter_bomber_equipment_2_desc:0 "Un des premiers chasseurs modifié pour un rôle d'attaque au sol."
@@ -69,7 +69,7 @@ l_french:
 #-> Carrier-based light fighters <><>
  cv_fighter:0 "Chasseur embarqué"
  cv_fighter_equipment:0 "Chasseur embarqué"
- cv_fighter_equipment_desc:0 "Fighters are fast and nimble and can do many jobs. Everything from fighting for air superiority, protect your bombers and intercept the enemies bombers."
+ cv_fighter_equipment_desc:0 "Rapide et agile, le §Ychasseur embarqué§! peut accomplir de nombreux types de missions, depuis le combat pour s'assurer la supériorité aérienne et la protection de nos bombardiers jusqu'à l'interception des appareils ennemis."
  cv_fighter_equipment_0:0 "Chasseur embarqué 30"
  cv_fighter_equipment_0_short:0 "Chasseur embarqué I"
  cv_fighter_equipment_0_desc:0 "Un chasseur de base, simplement adapté au décollage et à l'atterrissage sur un porte-avions."
@@ -86,7 +86,7 @@ l_french:
 #-> Torpedo bombers <><>
  nav_bomber:0 "Bombardier-torpilleur"
  nav_bomber_equipment:0 "Bombardier-torpilleur"
- nav_bomber_equipment_desc:0 "Les bombardiers-torpilleurs sont capables d'effectuer des attaques contre les navires ennemis."
+ nav_bomber_equipment_desc:0 "Les §Ybombardiers-torpilleurs§! sont capables d'effectuer des attaques contre les navires ennemis."
  nav_bomber_equipment_1:0 "Bombardier-torpilleur 36"
  nav_bomber_equipment_1_short:0 "Bombardier-torpilleur I"
  nav_bomber_equipment_1_desc:0 "Au cours de la prochaine décennie, l'aéronavale jouera probablement un rôle déterminant dans la guerre navale, notamment contre les sous-marins, dont l'importance ne cesse de croître. Les appareils capables de combattre en mer seront nécessaires, aussi bien pour le bombardement en piqué que pour les missions de reconnaissance."
@@ -100,7 +100,7 @@ l_french:
 #-> Carrier-based torpedo bombers <><>
  #cv_nav_bomber:0 "Bombardier-torpilleur embarqué"
  #cv_nav_bomber_equipment:0 "Bombardier-torpilleur embarqué"
- #cv_nav_bomber_equipment_desc:0 "Les bombardiers-torpilleurs sont capables d'effectuer des attaques contre les navires ennemis."
+ #cv_nav_bomber_equipment_desc:0 "Les §Ybombardiers-torpilleurs embarqués§! sont capables d'effectuer des attaques contre les navires ennemis."
  #cv_nav_bomber_equipment_1:0 "Bombardier-torpilleur embarqué 36"
  #cv_nav_bomber_equipment_1_short:0 "Bombardier-torpilleur embarqué I"
  #cv_nav_bomber_equipment_1_desc:0 "Un bombardier naval de base, simplement adapté au décollage et à l'atterrissage sur un porte-avions."
@@ -128,7 +128,7 @@ l_french:
 #-> Heavy fighter-bomber <><>
  hfighter_bomber:0 "Chasseur-bomb. lourd"
  hfighter_bomber_equipment:0 "Chasseur-bombardier lourd"
- hfighter_bomber_equipment_desc:0 "Les chasseurs-bombardiers lourds sont des variantes des chasseurs de première ligne actuels ou obsolètes, équipés de kits de bombes et de points d'appui plus durs, ainsi que de certaines modifications structurelles qui effectuent des missions d'interdiction et de soutien aérien rapproché pour les troupes terrestres."
+ hfighter_bomber_equipment_desc:0 "Les §Ychasseurs-bombardiers lourds§! sont des variantes des chasseurs de première ligne actuels ou obsolètes, équipés de kits de bombes et de points d'appui plus durs, ainsi que de certaines modifications structurelles qui effectuent des missions d'interdiction et de soutien aérien rapproché pour les troupes terrestres."
  hfighter_bomber_equipment_1:0 "Chasseur-bombardier lourd 36"
  hfighter_bomber_equipment_1_short:0 "Chasseur-bombardier lourd I"
  hfighter_bomber_equipment_1_desc:0 "Un des premiers chasseurs lourds modifié pour un rôle d'attaque au sol."
@@ -140,7 +140,7 @@ l_french:
 #-> Medium bomber <><>
  tac_bomber:0 "Bombardier moyen"
  tac_bomber_equipment:0 "Bombardier moyen"
- tac_bomber_equipment_desc:0 "Les bombardiers moyens sont des bombardiers rapides qui peuvent aider les troupes au sol et bombarder les bâtiments ennemis."
+ tac_bomber_equipment_desc:0 "Les §Ybombardiers moyens§! sont des bombardiers rapides qui peuvent aider les troupes au sol et bombarder les bâtiments ennemis."
  tac_bomber_equipment_0:0 "Bombardier moyen 30"
  tac_bomber_equipment_0_short:0 "Bombardier moyen I"
  tac_bomber_equipment_0_desc:0 "Beaucoup considèrent que la prochaine guerre ne pourra être remportée qu'en bombardant l'ennemi jusqu'à son anéantissement total. Il nous faut donc à tout prix commencer à concevoir notre propre bombardier, capable d'emporter une charge importante aussi rapidement que possible."
@@ -199,7 +199,7 @@ l_french:
 #-> Maritime patrol <><> 
  flying_boat:0 "Patrouille maritime"
  flying_boat_equipment:0 "Patrouille maritime"
- flying_boat_equipment_desc:0 "Les avions de patrouille maritime effectuent des missions de surveillance, de lutte contre les navires et les sous-marins sur de grandes distances, protégeant les zones maritimes nationales, les routes commerciales et les opérations navales alliées."
+ flying_boat_equipment_desc:0 "Les §Yavions de patrouille maritime§! effectuent des missions de surveillance, de lutte contre les navires et les sous-marins sur de grandes distances, protégeant les zones maritimes nationales, les routes commerciales et les opérations navales alliées."
  flying_boat_equipment_0:0 "Patrouille maritime 30"
  flying_boat_equipment_0_short:0 "Patrouille maritime I"
  flying_boat_equipment_0_desc:0 "La valeur militaire des hydravions était bien reconnue, et tous les pays qui bordaient l'eau les exploitaient à des fins militaires au moment du déclenchement de la guerre. Ils ont été utilisés dans diverses tâches allant de la patrouille anti-sous-marine au sauvetage aéromaritime et à la détection des tirs de cuirassés."
@@ -255,7 +255,7 @@ l_french:
 #-> Jet medium bomber <><>
  jet_tac_bomber:0 "Bomb. tact. à réact."
  jet_tac_bomber_equipment:0 "Bomb. tact. à réact."
- jet_tac_bomber_equipment_desc:0 "Petit et rapide, le §Ybombardier tactique§! peut appuyer les troupes terrestres et bombarder les bâtiments ennemis."
+ jet_tac_bomber_equipment_desc:0 "Petit et rapide, le §Ybombardier tactique à réaction§! peut appuyer les troupes terrestres et bombarder les bâtiments ennemis."
  jet_tac_bomber_equipment_1:0 "Bombardier tactique à réaction 45"
  jet_tac_bomber_equipment_1_short:0 "Bombardier tactique à réaction I"
  jet_tac_bomber_equipment_1_desc:0 "L'avènement des chasseurs à réaction exige des bombardiers capables d'égaler, si ce n'est surpasser leur vitesse. Ce sera la mission de notre première génération de bombardiers moyens et de chasseurs-bombardiers équipés de moteurs à réaction."
