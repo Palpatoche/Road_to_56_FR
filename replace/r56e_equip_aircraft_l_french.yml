@@ -2,6 +2,17 @@
 ###Lamp's Eqpt Icons (5 Jun @ 7:02pm)
 
 l_french:
+
+######## Added with The Road to 56 : Traduction Française ########
+ AIR_TITLE_CV_FIGHTER:0 "Chasseur embarqué"
+ AIR_TITLE_DIVE_BOMBER:0 "Bomb. en piqué"
+ AIR_TITLE_CV_DIVE_BOMBER:0 "Bomb. en piqué embarqué"
+ AIR_TITLE_TORPEDO_BOMBER:0 "Bomb.-torpilleur"
+ AIR_TITLE_MEDIUM_BOMBER:0 "Bombardier moyen"
+ AIR_TITLE_MARITIME_PATROL:0 "Patrouille maritime"
+ AIR_TITLE_HEAVY_BOMBER:0 "Bombardier lourd"
+##################################################################
+
 #-> Transport planes <><>
  transport_plane:0 "Avion de transport"
  transport_plane_equipment:0 "Avion de transport"
