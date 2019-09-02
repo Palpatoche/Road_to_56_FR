@@ -341,10 +341,10 @@
  CAR_neutrality_DEF:0 "la République centrafricaine"
  CAR_communism:0 "République socialiste d'Afrique"
  CAR_communism_DEF:0 "la République socialiste d'Afrique"
- CAR_fascism_ADJ:0 "africains"
- CAR_democratic_ADJ:0 "africains"
- CAR_neutrality_ADJ:0 "africains"
- CAR_communism_ADJ:0 "africains"
+ CAR_fascism_ADJ:0 "centrafricain"
+ CAR_democratic_ADJ:0 "centrafricain"
+ CAR_neutrality_ADJ:0 "centrafricain"
+ CAR_communism_ADJ:0 "centrafricain"
  
  #CDI
  CDI_neutrality:0 "Côte d'Ivoire"
