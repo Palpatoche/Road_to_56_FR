@@ -1132,46 +1132,46 @@
  
  ### ROYALIST SECTION ###
  
- austria.5000.t:0 "L'Autriche propose le Pacte de Défense des Alpes"
- austria.5000.d:0 ""
- austria.5000.a:0 "Oui"
- austria.5000.b:0 "Non"
+ austria.5000.t:0 "L'Autriche propose le Pacte de défense des Alpes"
+ austria.5000.d:0 "Apparemment, dans le but d'éviter les tactiques prédatrices des Allemands dans leur nord, nous avons rencontré des diplomates autrichiens avec une proposition de pacte défensif. L'objectif est clairement de renforcer les liens que nous entretenons déjà avec leur nation, ce qui pourrait également avoir un effet dissuasif sur l'expansion allemande. Quelle devrait être notre réponse ?"
+ austria.5000.a:0 "Oui, il est temps de formaliser notre amitié."
+ austria.5000.b:0 "Non, nous ne pouvons pas risquer de mettre les Allemands en colère."
  
  austria.5001.t:0 "L'Italie rejette notre proposition"
- austria.5001.d:0 ""
- austria.5001.a:0 "Intéressant."
+ austria.5001.d:0 "De toute évidence, par crainte de nouvelles représailles allemandes, les Italiens ont décliné notre proposition généreuse."
+ austria.5001.a:0 "Si nous devons rester seuls, nous le ferons."
  
  news.6000.t:0 "L'Autriche et l'Italie signent un pacte de défense"
- news.6000.d:0 ""
- news.6000.a:0 "Confirmer"
+ news.6000.d:0 "Surnommés « Pacte de défense des Alpes », de nouveaux organes de presse signalent que l'Autriche et l'Italie sont parvenues à un accord sur la question de la défense mutuelle. On ne sait pas si l'Italie entend profiter de son nouvel allié pour mettre fin à l'expansionnisme allemand, ou simplement pour consolider ses frontières nord. Quoi qu'il en soit, l'idée que la souveraineté de l'Autriche soit violée sans conflit semble s'être évaporée du jour au lendemain."
+ news.6000.a:0 "Autrefois ennemis, aujourd'hui amis."
  
- austria.5002.t:0 "Les Nationalistes Socialistes ont tenté un coup d'État"
+ austria.5002.t:0 "Les nationalistes socialistes ont tenté un coup d'État"
  austria.5002.d:0 "Des fanatiques nazis ont pénétré de force dans la chambre du Parlement, tuant de nombreux hommes politiques et provoquant un tollé général. Ils ont publiquement exigé qu'ils soient rétablis dans leurs fonctions de pouvoir. Leur coup d'État a été repoussé - mais leur demande remplit l'endroit où siégeaient de bons et honnêtes politiciens."
  austria.5002.a:0 "C'est cependant une chance de renforcer notre position."
  austria.5002.b:0 "Si nous ne nous plions pas à leurs demandes, ils pourraient bien trouver le moyen de commettre une autre atrocité."
  
  austria.5003.t:0 "L'Autriche propose le Traité de Vénétie"
- austria.5003.d:0 ""
+ austria.5003.d:0 "Les diplomates autrichiens se sont à nouveau adressés à nous, cherchant maintenant à formaliser notre pacte en une alliance à part entière. Quelle sera notre réponse ?"
  austria.5003.a:0 "Signer le traité"
- austria.5003.b:0 "L'Italie reste seule"
+ austria.5003.b:0 "Nous refusons de signer ce traité"
  
  austria.5004.t:0 "L'Italie rejette la proposition"
- austria.5004.d:0 ""
- austria.5004.a:0 "Confirmer"
+ austria.5004.d:0 "Incapables de doubler nos relations libres, les lâches Italiens ont rejeté notre proposition si gracieuse."
+ austria.5004.a:0 "Peut-être devrions-nous chercher des alliances ailleurs."
  
  austria.5005.t:0 "Offre d'intervention autrichienne"
  austria.5005.d:0 "Au milieu de la guerre pour l'avenir de l'Italie, les diplomates autrichiens nous ont contactés et ont offert leur aide pour rétablir l'Italie dans sa monarchie. Ils demandent une chose : le retour des terres acquises lors de la Grande Guerre."
  austria.5005.a:0 "Une offre équitable pour une aide précieuse."
  austria.5005.b:0 "Le prix est trop raide ; les renvoyer."
  
- austria.5006.t:0 "L'Autriche propose un Traité de Liechtenstein"
- austria.5006.d:0 ""
- austria.5006.a:0 "Oui"
- austria.5006.b:0 "Non"
+ austria.5006.t:0 "L'Autriche propose le Traité du Liechtenstein"
+ austria.5006.d:0 "Des diplomates autrichiens sont arrivés avec une proposition de traité. Son objectif est clairement d'élargir leur liste d'alliés en cas de conflit armé. Avec la montée de l'expansionnisme allemand et le fait que l'Europe semble se diriger vers une autre guerre, il serait peut-être sage d'écouter leurs paroles et d'envisager sérieusement leur offre."
+ austria.5006.a:0 "Oui, nous devons chercher des alliés dans le cas d'une nouvelle guerre en Europe."
+ austria.5006.b:0 "Nous ne pouvons accepter une proposition qui pourrait saper notre neutralité."
  
  austria.5007.t:0 "La Suisse refuse notre traité"
- austria.5007.d:0 ""
- austria.5007.a:0 "Zut."
+ austria.5007.d:0 "Qu'il s'agisse d'une position purement neutre à l'égard du reste du monde ou simplement de divergences entre leur gouvernement et le nôtre, les Suisses ont rejeté notre proposition d'alliance."
+ austria.5007.a:0 "Merde."
  
  austria.5008.t:0 "L'Autriche exige le Tyrol du Sud et l'Istrie"
  austria.5008.d:0 "L'Autriche, sentant notre temps de faiblesse, nous a envoyé des diplomates « demandant » le retour des provinces autrefois autrichiennes du Tyrol du Sud et de l'Istrie."
@@ -1179,8 +1179,8 @@
  austria.5008.b:0 "Ils n'oseraient pas prendre les terres pour lesquelles nous nous sommes battus et ont été gagnés, même maintenant. Nous restons fermes."
  
  austria.5009.t:0 "Le Royaume d'Italie rejette nos exigences"
- austria.5009.d:0 ""
- austria.5009.a:0 "Zut."
+ austria.5009.d:0 "Une fois de plus, les Italiens ont refusé de reconnaître nos revendications légitimes sur les terres du Tyrol du Sud et de l'Istrie. Bien que notre tentative de reconquête diplomatique de ces terres ait échoué, une approche plus directe serait peut-être plus efficace."
+ austria.5009.a:0 "La diplomatie a échoué, peut-être qu'une autre voie est possible."
  
  austria.5010.t:0 "L'Autriche propose une alliance"
  austria.5010.d:0 "Notre ancienne nation sœur, l’Autriche, a proposé une alliance entre nous. Bien que le lien ne soit pas aussi fort que celui de notre monarque commun, ce serait un retour à nos anciennes relations."
@@ -1197,7 +1197,7 @@
  austria.5012.a:0 "L'équité de la demande ne peut être niée."
  austria.5012.b:0 "Elle est et restera sous la domination allemande."
  
- austria.5013.t:0 "L'Autriche nous invite au Pacte de Défense des Alpes"
+ austria.5013.t:0 "L'Autriche nous invite au Pacte de défense des Alpes"
  austria.5013.d:0 "En tant que puissance centrale dans la région des Alpes, l’Autriche est toujours à la recherche d’alliés potentiels - des alliés, apparemment, comme nous. Une lettre de l'ambassade d'Autriche nous a invités à un "Pacte de Défense des Alpes"."
  austria.5013.a:0 "Ce sont des temps instables et les alliés sont toujours les bienvenus."
  austria.5013.b:0 "L’Autriche est puissante et, avec le pouvoir, viennent des ennemis dangereux que nous préférerions ne pas partager."
@@ -1212,38 +1212,38 @@
  austria.5015.a:0 "Bien sûr. Les relations austro-yougoslaves n'ont jamais été meilleures."
  austria.5015.b:0 "Aussi bonnes que soient nos relations, nous ne souhaitons pas être tenus pour responsables de la défense des autres."
  
- austria.5016.t:0 "Résistance Croate"
- austria.5016.d:0 ""
- austria.5016.a:0 "Oui"
+ austria.5016.t:0 "Résistance croate"
+ austria.5016.d:0 "Alors que les Croates étaient un Bannate dans notre vieil empire, il semble qu'ils aient profité du changement de propriétaire pour commencer à former une résistance active contre nos forces."
+ austria.5016.a:0 "Ils finiront bien par revenir à la raison."
  
- austria.5017.t:0 "Nationalisme Serbe"
- austria.5017.d:0 ""
- austria.5017.a:0 "Oui"
+ austria.5017.t:0 "Nationalisme serbe"
+ austria.5017.d:0 "Une fois de plus, les Serbes causent des problèmes à nos forces, sous la forme d'un sentiment nationaliste continu en faveur d'un concept malheureux de « Royaume de Serbie » une fois de plus. Ils ne montrent aucun signe de recul dans l'immédiat, alors nos forces doivent être en alerte."
+ austria.5017.a:0 "Serbien muss sterbien !"
  
- austria.5018.t:0 "Ultimatum Transylvanien"
+ austria.5018.t:0 "Ultimatum transylvanien"
  austria.5018.d:0 "L'Autriche-Hongrie nous a demandé le retour de la Transylvanie à son règne. Ils ont déjà gouverné la région - mais la Grande Guerre a changé cela. La menace qu'ils posent maintenant, cependant, est très réelle."
  austria.5018.a:0 "Nous ne pouvons pas faire face à une guerre seul contre l'empire austro-hongrois."
  austria.5018.b:0 "Après leur défaite dans la Grande Guerre, ils n'oseraient pas."
  
  austria.5019.t:0 "La Roumanie refuse notre ultimatum"
- austria.5019.d:0 ""
- austria.5019.a:0 "Oui"
+ austria.5019.d:0 "Il semble que le gouvernement roumain ne reconnaisse pas le pouvoir de la nation avec laquelle il traite, et il a donc refusé notre ultimatum."
+ austria.5019.a:0 "Si la plume échoue, l'épée doit être tirée !"
  
- austria.5020.t:0 "Les nationalistes roumains apparaissent en Transylvanie"
- austria.5020.d:0 ""
- austria.5020.a:0 "Oui"
+ austria.5020.t:0 "Des nationalistes roumains apparaissent en Transylvanie"
+ austria.5020.d:0 "Apparemment mécontents du passage de la main des Roumains à celle des Autrichiens, nous constatons une menace très réelle sur le terrain sous la forme d'une agitation nationaliste. Cela entravera quelque peu nos efforts pour intégrer pleinement la région."
+ austria.5020.a:0 "Nous devons redoubler d'efforts."
  
- austria.5021.t:0 "La guerre est finie !"
- austria.5021.d:0 ""
- austria.5021.a:0 "Oui"
+ austria.5021.t:0 "La Transylvanie est tombée !"
+ austria.5021.d:0 "Nos forces ont réussi à sécuriser la province de Transylvanie. Cependant, même pendant les premières heures de notre occupation, il est devenu clair que ce ne sera pas une intégration facile du territoire."
+ austria.5021.a:0 "Continuons de surveiller la situation."
  
- austria.5022.t:0 "La guerre est finie !"
- austria.5022.d:0 ""
- austria.5022.a:0 "Oui"
+ austria.5022.t:0 "Les Balkans ont été écrasés !"
+ austria.5022.d:0 "Après de nombreuses effusions de sang, les territoires dont notre Empire était destiné à régner ont été récupérés et, dans certains cas, nous avons même étendu l'empire de nos ancêtres. Bien que ce soit un grand jour pour tout l'Empire, les nouveaux citoyens sont très réticents à se joindre à nous dans nos célébrations jubilatoires."
+ austria.5022.a:0 "Ils nous rejoindront à temps."
  
  austria.5023.t:0 "La Yougoslavie a cédé la Slovénie"
- austria.5023.d:0 ""
- austria.5023.a:0 "Oui"
+ austria.5023.d:0 "Le gouvernement yougoslave, que ce soit par crainte d'un conflit armé ou simplement parce qu'il s'est rendu compte que la terre ne lui appartenait pas de droit, a accepté nos demandes pour la Slovénie."
+ austria.5023.a:0 "Une province de l'Empire une fois de plus !"
  
  #Research
  AUS_support_weapons:0 "Schwarlose M. 7"
@@ -1264,22 +1264,22 @@
  AUS_paratroopers3:0 "Jagdkommando III"
  
  AUS_motorised_infantry:0 "Raupenschlepper Ost"
- AUS_motorised_infantry_desc:0 "Raupenschlepper Ost, littéralement "Tracteur chenillé - Est", est plus communément abrégé en RSO. Ce véhicule léger entièrement chenillé a été conçu pour remédier aux mauvaises performances des véhicules à roues et à demi chenillés dans la boue et la neige lors des premiers automne et hiver de la Wehrmacht sur le front soviétique."
+ AUS_motorised_infantry_desc:0 "Raupenschlepper Ost, littéralement « Tracteur chenillé - Est », est plus communément abrégé en RSO. Ce véhicule léger entièrement chenillé a été conçu pour remédier aux mauvaises performances des véhicules à roues et à demi chenillés dans la boue et la neige lors des premiers automne et hiver de la Wehrmacht sur le front soviétique."
  
- AUS_interwar_artillery:0 "Artillerie de l'Entre-deux-guerres"
+ AUS_interwar_artillery:0 "Artillerie de l'entre-deux-guerres"
  AUS_interwar_artillery_desc:0 "Les leçons tirées du développement de différents types d'artillerie peuvent être appliquées de manière croisée à la conception d'autres pièces."
  AUS_artillery1:0 "Artillerie I"
  AUS_artillery1_desc:0 "Avec des matériaux et des mécanismes plus modernes, les obusiers et les fusils de campagne de la Grande Guerre peuvent être reclassés et modernisés pour la guerre moderne."
- AUS_artillery2:0 "Amélioration de l'Artillerie I"
+ AUS_artillery2:0 "Amélioration de l'artillerie I"
  AUS_artillery2_desc:0 "L'amélioration d'anciennes pièces peut nous mener jusqu'à présent. De nouveaux modèles d'obusiers seront nécessaires, tirant parti des nouveaux dispositifs de recul hydraulique et des canons plus longs."
- AUS_artillery3:0 "Amélioration de l'Artillerie II"
+ AUS_artillery3:0 "Amélioration de l'artillerie II"
  AUS_artillery3_desc:0 "Pour permettre l'utilisation de canons plus lourds sur des voitures plus légères, des freins de bouche peuvent être inclus dans les conceptions d'obus."
  AUS_artillery4:0 "Artillerie IV"
  AUS_artillery4_desc:0 "Le développement d’une artillerie légère pouvant être brisée pour le transport permettra d’apporter un soutien d’artillerie à des zones auparavant difficiles à atteindre."
- AUS_artillery5:0 "Amélioration d'Artillerie Avancée"
+ AUS_artillery5:0 "Amélioration d'artillerie avancée"
  AUS_artillery5_desc:0 "Les modèles d'artillerie avec des silhouettes plus basses seront plus difficiles à cibler pour l'ennemi."
  
- austrian_research_name:0 "Groupe de Recherche du Pacte de Défense des Alpes"
+ austrian_research_name:0 "Groupe de recherche du Pacte de défense des Alpes"
  austrian_research_desc:0 ""
  
  #UNITS

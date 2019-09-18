@@ -1,9 +1,86 @@
 ﻿l_french:
 
+ generic_resource_extraction_effort:0 "Efforts d'extraction de ressources"
+
  open_kajaran_mine:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
  extract_northern_armenia_deposits:0 "Exploiter l'aluminium du nord de l'Arménie"
  develop_south_bolivian_oil_field:0 "Développer le gisement de pétrole du sud de la Bolivie"
+ develop_sherwood_forest_oil_field:0 "Développer le gisement de pétrole de la forêt de Sherwood"
+ develop_kelham_hills_oil_field:0 "Développer le gisement de pétrole des collines de Kelham"
  exploit_bahrain_oil_fields:0 "Exploiter les gisements de pétrole de Bahreïn"
  expand_qatar_oil_fields:0 "Exploiter les gisements de pétrole du Qatar"
  exploit_kuwait_oil_fields:0 "Exploiter les gisements de pétrole du Koweït"
+ glen_davis_shale_oil_works:0 "Glen Davis Shale Oil Works"
+ restart_tasmanian_shale_extraction:0 "Redémarrer l'extraction du schiste de Tasmanie"
  exploit_pyrenean_oil_field:0 "Exploiter le gisement de pétrole pyrénéen"
+ expand_lakes_entrance_oil_field:0 "Agrandire le gisement de pétrole de Lakes Entrance"
+ develop_petitjean_oil_field:0 "Développer le gisement de pétrole de Petitjean"
+ develop_tramutola_oil_field:0 "Développer le gisement pétrolier de Tramutola"
+ develop_fushum_oil_deposits:0 "Développer les gisements de pétrole Fushum"
+ develop_fusin_oil_deposits:0 "Développer les gisements de pétrole Fusin"
+ mine_galicia_tungsten:0 "Miner le tungstène de Galice"
+ exploit_yumen_oil_field:0 "Exploiter le gisement de pétrole de Yumen"
+ expand_yumen_oil_field:0 "Étendre le gisement de pétrole de Yumen"
+ develop_paraiba_tungsten_deposits:0 "Développer les dépôts de tungstène de Paraïba"
+ develop_rio_grande_do_norte_tungsten_deposits:0 "Développer les dépôts de tungstène du Rio Grande do Norte"
+ develop_karamay_oil_field:0 "Développer le gisement de pétrole de Karamay"
+ develop_jilin_oil_field:0 "Développer le gisement pétrolier de Jilin"
+ develop_dushanzi_oil_field:0 "Développer le gisement pétrolier de Douchanzi"
+ develop_dushanzi_oil_field_with_soviet_help:0 "Développer le gisement pétrolier de Douchanzi avec l'aide soviétique"
+ develop_nauru_phosphate_deposits:0 "Développer les dépôts de phosphate de Nauru"
+ develop_zambales_chromium_deposits:0 "Développer les dépôts de chrome de Zambales"
+ expand_luzon_chromium_deposits:0 "Agrandir les dépôts de chrome de Luzon"
+ develop_malay_aluminium_deposits:0 "Développer les dépôts d'aluminium de Malaisie"
+ develop_kuantan_aluminium_deposits:0 "Développer les dépôts d'aluminium de Kuantan"
+
+
+
+
+ open_kajaran_mine_wtt:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
+ extract_northern_armenia_deposits_wtt:0 "Exploiter l'aluminium du nord de l'Arménie"
+ develop_south_bolivian_oil_field_wtt:0 "Développer le gisement de pétrole du sud de la Bolivie"
+ develop_sherwood_forest_oil_field_wtt:0 "Développer le gisement de pétrole de la forêt de Sherwood"
+ develop_kelham_hills_oil_field_wtt:0 "Développer le gisement de pétrole des collines de Kelham"
+ exploit_bahrain_oil_fields_wtt:0 "Exploiter les gisements de pétrole de Bahreïn"
+ expand_qatar_oil_fields_wtt:0 "Exploiter les gisements de pétrole du Qatar"
+ exploit_kuwait_oil_fields_wtt:0 "Exploiter les gisements de pétrole du Koweït"
+ glen_davis_shale_oil_works_wtt:0 "Glen Davis Shale Oil Works"
+ restart_tasmanian_shale_extraction_wtt:0 "Redémarrer l'extraction du schiste de Tasmanie"
+ exploit_pyrenean_oil_field_wtt:0 "Exploiter le gisement de pétrole pyrénéen"
+ expand_lakes_entrance_oil_field_wtt:0 "Agrandire le gisement de pétrole de Lakes Entrance"
+ develop_petitjean_oil_field_wtt:0 "Développer le gisement de pétrole de Petitjean"
+ develop_tramutola_oil_field_wtt:0 "Développer le gisement pétrolier de Tramutola"
+ develop_fushum_oil_deposits_wtt:0 "Développer les gisements de pétrole Fushum"
+ develop_fusin_oil_deposits_wtt:0 "Développer les gisements de pétrole Fusin"
+ mine_galicia_tungsten_wtt:0 "Miner le tungstène de Galice"
+ exploit_yumen_oil_field_wtt:0 "Exploiter le gisement de pétrole de Yumen"
+ expand_yumen_oil_field_wtt:0 "Étendre le gisement de pétrole de Yumen"
+ develop_paraiba_tungsten_deposits_wtt:0 "Développer les dépôts de tungstène de Paraïba"
+ develop_rio_grande_do_norte_tungsten_deposits_wtt:0 "Développer les dépôts de tungstène du Rio Grande do Norte"
+ develop_karamay_oil_field_wtt:0 "Développer le gisement de pétrole de Karamay"
+ develop_jilin_oil_field_wtt:0 "Développer le gisement pétrolier de Jilin"
+ develop_dushanzi_oil_field_wtt:0 "Développer le gisement pétrolier de Douchanzi"
+ develop_dushanzi_oil_field_with_soviet_help_wtt:0 "Développer le gisement pétrolier de Douchanzi avec l'aide soviétique"
+ develop_nauru_phosphate_deposits_wtt:0 "Développer les dépôts de phosphate de Nauru"
+ develop_zambales_chromium_deposits_wtt:0 "Développer les dépôts de chrome de Zambales"
+ expand_luzon_chromium_deposits_wtt:0 "Agrandir les dépôts de chrome de Luzon"
+ develop_malay_aluminium_deposits_wtt:0 "Développer les dépôts d'aluminium de Malaisie"
+ develop_kuantan_aluminium_deposits_wtt:0 "Développer les dépôts d'aluminium de Kuantan"
+
+
+ #ADAPTATION OF wtt
+ r56_develop_north_sakhalin_oil_deposits:0 "Développer les gisements pétroliers de Sakhaline du Nord"
+ develop_north_sakhalin_oil_deposits:0 "Développer les gisements pétroliers de Sakhaline du Nord"
+ r56_develop_shandong_aluminium_deposits:0 "Développer les dépôts d'aluminium du Shandong"
+ r56_develop_suiyuan_steel_deposits:0 "Développer les dépôts d'acier du Suiyuan"
+ develop_cornwall_tungsten_deposits_1:0 "Réouvrir la mine Hemerdon"
+ develop_cornwall_tungsten_deposits_2:0 "Agrandir la mine Hemerdon"
+ r56_develop_cornwall_tungsten_deposits_1:0 "Réouvrir la mine Hemerdon"
+ r56_develop_cornwall_tungsten_deposits_2:0 "Agrandir la mine Hemerdon"
+
+ #Flags
+ kelham_hills_oil_field_developed:0 "Le gisement de pétrole des collines de Kelham est exploité"
+
+
+ #North West  EnglandThe Formby Oilfield was discovered by D’Arcy Exploration in 1939.
+ #Midland Valley of ScotlandIn 1937, Anglo American discovered the small Midlothian oilfield,

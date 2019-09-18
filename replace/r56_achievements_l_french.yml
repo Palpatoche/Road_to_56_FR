@@ -4,9 +4,9 @@ l_french:
 
 ###---> Achievements <><> <><> <><>
  r56_local_text_achievements_group: "Collapse Me"
- 
+
 #-> Achievement Tooltips <><>
-    r56_tooltip_achievements_01: "Le Nekrowombicon"
+        r56_tooltip_achievements_01: "Le purgeur purgé \n §RA terminé la priorité "Contre-coup d'État" de l'arbre soviétique§!"
         r56_tooltip_achievements_02: "Le Nekrowombicon"
         r56_tooltip_achievements_03: "Le Nekrowombicon"
         r56_tooltip_achievements_04: "Le Nekrowombicon"
@@ -21,6 +21,7 @@ l_french:
         r56_tooltip_achievements_13: "Le Nekrowombicon"
         r56_tooltip_achievements_14: "Le Nekrowombicon"
         r56_tooltip_achievements_15: "Le Nekrowombicon"
- 
- 
+        r56_tooltip_achievements_16: "Le Nekrowombicon"
+
+
 #####-----> End of File <><> <><> <><> <><> <><>

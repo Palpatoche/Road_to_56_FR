@@ -460,6 +460,11 @@
  DEN_neutrality_ADJ:0 "danois"
  DEN_communism_ADJ:0 "danois"
  
+ #GRE
+ GRE_balkans_communism:0 "Union socialiste des Balkans"
+ GRE_balkans_communism_DEF:0 "l'Union socialiste des Balkans"
+ GRE_balkans_communism_ADJ:0 "Union socialiste des Balkans"
+ 
  #DJB
  DJB_fascism:0 "Royaume de Djibouti"
  DJB_fascism_DEF:0 "le Royaume de Djibouti"
@@ -1007,6 +1012,11 @@
  NGR_neutrality_ADJ:0 "nigérien"
  NGR_communism_ADJ:0 "nigérien"
  
+ #NIC
+ NIC_democratic:0 "Nicaragua"
+ NIC_democratic_DEF:0 "le Nicaragua"
+ 
+
  #NIG
  NIG_fascism:0 "Royaume du Nigeria"
  NIG_fascism_DEF:0 "le Royaume du Nigeria"

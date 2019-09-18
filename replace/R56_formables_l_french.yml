@@ -4,12 +4,12 @@
  generic_recent_political_unification:0 "Unification politique récente"
  generic_recent_army_unification:0 "Unification militaire récente"
  generic_recent_economic_unification:0 "Unification économique récente"
- 
+
 ###Decisions###
  political_unification:0 "Unification politique"
  army_unification:0 "Unification militaire"
  economic_unification:0 "Unification économique"
- 
+
 #Improved Byzantium
  byz_integrate_albania:0 "Intégrer l'Albanie"
  byz_albania_integrated:0 "Albanie intégrée"
@@ -26,7 +26,7 @@
  form_transcaucasia_category:0 "Réaliser l'Unité Caucasienne"
  form_transcaucasia_category_desc:0 "Nous aspirons depuis longtemps à être une Transcaucasie unie. Une fois auparavant, un État transcaucasien uni a été dissous, mais cette fois, nous sommes ici pour rester. Unis, nous devrions rétablir la deuxième union transcaucasienne."
  form_transcaucasia:0 "Former la Transcaucasie"
- form_caucasia_foreign:0 "Former la Transcaucasie" 
+ form_caucasia_foreign:0 "Former la Transcaucasie"
  form_turkestan_category:0 "Réaliser l'Unité de l'Asie Centrale"
  form_turkestan_category_desc:0 "Nous aspirons depuis longtemps à être une Asie Centrale unie. Un jour, un État uni du Turkestan a été dissout, mais cette fois, nous sommes ici pour rester. L'union devrait restaurer le deuxième État du Turkestan."
  form_turkestan:0 "Former le Turkestan"
@@ -63,7 +63,7 @@
  form_country_tajikistan_coring_states_tt:0 "Les états §YTadjiks§! deviennent des état nationaux.\n"
  form_country_kyrgyzstan_coring_states_tt:0 "Les états §YKirghizes§! deviennent des état nationaux.\n"
  form_country_sinkiang_coring_states_tt:0 "Les états §YSin-kiang§! deviennent des état nationaux.\n"
- 
+
 #Celtic Union#
  form_celtic_union:0 "Former une Union Celtique"
  CEL_UNIFIED_integrate_galicia:0 "Intégrer la Galice"
@@ -71,8 +71,8 @@
  CEL_UNIFIED_communism:0 "Union des républiques socialistes celtes"
  CEL_UNIFIED_democratic:0 "République celtique"
  CEL_UNIFIED_neutrality:0 "République celtique"
- CEL_UNIFIED_ADJ:0 "Celtique" 
- 
+ CEL_UNIFIED_ADJ:0 "Celtique"
+
  #Country Names#
  CAU_fascism:1 "Empire Transcaucasien"
  CAU_fascism_DEF:1 "L'Empire Transcaucasien"
@@ -86,7 +86,7 @@
  CAU_democratic_ADJ:0 "Transcaucasien"
  CAU_neutrality_ADJ:0 "Transcaucasien"
  CAU_communism_ADJ:0 "Transcaucasien"
- 
+
 form_nation_mod_category:0 "Unification Nationale"
 form_nation_mod_category_desc:0 "Notre destin peut être réalisé par l'unification des voisins afin de réaliser une union plus grande."
 form_peru_bolivia:0 "Unir le Pérou et la Bolivie"

@@ -99,7 +99,7 @@
  SH_battleship_2_desc:0 "An improvement on our earlier super heavy design with stronger weapons and improved fire control systems."
  ### ENG - ENGLAND ###
  ENG_submarine_ww1:0 "Improved H Class "
- ENG_submarine_ww1_desc:0 "The Improved H Class submarines were medium-sized WW1 vessels, a few of which were still in service at the start of World War Two and saw limited action, despite being largely obsolete." 
+ ENG_submarine_ww1_desc:0 "The Improved H Class submarines were medium-sized WW1 vessels, a few of which were still in service at the start of World War Two and saw limited action, despite being largely obsolete."
  ENG_submarine_1:0 "Oberon Class "
  ENG_submarine_1_desc:0 "The Oberon was the first British patrol submarine developed in the 1920s, with intermediate range and six bow and two stern 21 inch torpedo tubes, as well as a four-inch gun. They heralded the beginning of the O, P and R class submarines that characteristed British submarine development at the time."
  #ENG_submarine_1b: "O/P/R Class"
@@ -264,7 +264,7 @@
  FRA_battleship_adv_dn_desc:0 "France's first super-dreadnought design was the Bretagne class, three ships with five twin 340mm turrets all on the centreline, reasonable armour for the time and capable of 20 knots speed. These ships were modernised between the wars, with increased speed and gun range, as well as anti-aircraft armament, and were still useful (if slow) combat units at the start of World War Two."
  FRA_battleship_1:0 "Lyon Class"
  FRA_battleship_1_desc:0 "Never built due to first the impact of World War One on French shipbuilding, and then post-war naval treaties, these ships were to have displaced 29,000 tons and be armed with sixteen 13.4mm guns, giving them a strong broadside, although at the expense of less displacement being available for armour. Speed was designed to reach 23 knots."
- #FRA_battleship_1b: "Bretagne Class" 
+ #FRA_battleship_1b: "Bretagne Class"
  FRA_battleship_2:0 "Richelieu Class "
  FRA_battleship_2_desc:0 "The Richelieu-class battleships were the last battleships commissioned into the French Navy. They were an improved design of the Dunkerque and authorized under the 1935 and 1938 naval programs. They had excellent AA armament, speed and range, which made it an excellent capital ship. Out of the four ordered, only two were launched and one was completed before the Fall of France. There were numerous attempts to finish the remaining ships using different designs, proposed for use as anti-aircraft battleships, battleship-carrier hybrids, or full scale carriers."
  FRA_battleship_3:0 "Alsace Class"
@@ -682,7 +682,7 @@
  USA_heavy_cruiser_3_desc:0 "A development from the USS Wichita (drawing strongly on the Brooklyn Class lineage), the Baltimore class were substantially larger than earlier US heavy cruisers, displacing around 14,500 tons.  With nine 8-inch guns, a strong anti-aircraft complement and robust armour arrangements, they were powerful ships."
  USA_heavy_cruiser_4:0 "Des Moines Class "
  USA_heavy_cruiser_4_desc:0 "The Des Moines class were a new lineage of heavy cruisers designed to mount the new rapid-fire eight inch gun that had been developed. At 17,255 tons standard, they were very large ships, but their fast-firing guns, strong armour and anti-aircraft armament also made them very powerful, with near-battleship levels of firepower."
- USA_battle_cruiser_late_ww1:0 "Lexington Class" 
+ USA_battle_cruiser_late_ww1:0 "Lexington Class"
  USA_battle_cruiser_late_ww1_desc:0 "The Lexington Class was initially a reaction to Japan's Kongo class battlecruiser. Ordered by the Naval Act of 1916, the ships were intended to carry 16" guns in dual turrets and be capable of 33 knots. After construction began, the US entered into the Washington Naval Treaty and the USS Lexington and USS Saratoga was converted to Carriers."
  USA_battle_cruiser_2:0 "Alaska Class "
  USA_battle_cruiser_2_desc:0 "The Alaska Class was a response to suspeccted Japanese "super cruisers." Designed to carry 12" guns and handle up to 10" shell fire, the class was capable of cruiser speeds but sacrificed under water protection."
@@ -754,7 +754,7 @@
  ARG_heavy_cruiser_4_desc:0 "San Martín had an overall length of 344 feet 2 inches (104.9 m), a beam of 50 feet 8 inches (15.4 m), and a mean draft (ship) of 23 feet 4 inches (7.1 m). She displaced 6,773 metric tons (6,666 long tons) at normal load. The ship was powered by two vertical triple-expansion steam engines, each driving one shaft, using steam from eight Scotch marine boilers. The engines were designed for a maximum output of 13,500 indicated horsepower (10,100 kW) and a speed of 20 knots (37 km/h; 23 mph). She had a cruising range of 6,000 nautical miles (11,000 km; 6,900 mi) at 10 knots (19 km/h; 12 mph)."
  ARG_battle_cruiser_1:0 "El Plata Class"
  ARG_battle_cruiser_1_desc:0 " El Plata was 186 feet (56.7 m) long overall, with a beam of 44 feet (13.4 m) and a draft of 9.5–10.5 feet (2.9–3.2 m). She displaced 1,535–1,677 long tons (1,560–1,704 t)
- ARG_battle_cruiser_2:0 "Los Andes Class" 
+ ARG_battle_cruiser_2:0 "Los Andes Class"
  ARG_battleship_1:0 "Libertad Class "
  ARG_battleship_1_desc:0 "Libertad was a battleship designed mainly for coastal and riverine use, being classified by the Argentine Navy as "Riverine Battleship" (Spanish: Acorazado de Río); in the 1902 edition of Jane's Fighting Ships it was listed as "Coast Service Battleship". The ship was 73.15 metres (240 ft) long overall and 70.10 metres (230 ft) between perpendiculars, with a beam of 13.11 metres (43 ft) and a draft of 3.96 metres (13 ft). Displacement was 2,370 tonnes (2,330 long tons)."
  ARG_battleship_2:0 "Rivadavia Class "
@@ -766,8 +766,8 @@
  ARG_SH_battleship_1:0 "General San Martín Class"
  ARG_SH_battleship_2:0 "Sol de Mayo Class"
  ARG_carrier_1:0 "Malvinas Class"
- ARG_carrier_2:0 "Presidente Roca Class"  
- ARG_carrier_3:0 "Almirante Domecq Garcia Class" 
+ ARG_carrier_2:0 "Presidente Roca Class"
+ ARG_carrier_3:0 "Almirante Domecq Garcia Class"
  ARG_carrier_4:0 "Colossus Class"
 ### AST - AUSTRALIA ###
  AST_submarine_ww1:0 "Improved H Class"
@@ -856,11 +856,11 @@
  BRA_light_cruiser_scout_desc:0 "The Bahia class was a class of two British-built scout cruisers built for Brazil and delivered in 1910. The ships were heavily refit and modernized in the 1920s but were still a relatively obsolete design by the start of World War II. During the war, the cruisers primarily performed convoy escort duties."
  BRA_battleship_dn:0 "Minas Gerais Class "
  BRA_battleship_dn_desc:0 "The Minas Gerais was a class of two dreadnought battleships built by the U.K. for Brazil in the early 1900s. They were active during World War II but far too obsolete for any serious duty, instead being used as coastal defense ships along the Brazilian coast."
- 
+
  ### BUL - BULGARIA ###
  BUL_submarine_1:0 "Podvodnik No. 18 Class"
  BUL_submarine_2:0 "Sozopol Class"
- BUL_submarine_3:0 "Burgas Class" 
+ BUL_submarine_3:0 "Burgas Class"
  BUL_submarine_4:0 "Atiya Class"
  BUL_destroyer_1:0 "Drazki Class"
  BUL_destroyer_2:0 "Belomorets Class"
@@ -886,7 +886,7 @@
  BUL_carrier_2:0 "Alexander Joseph Class"
  BUL_carrier_3:0 "Ferdinand I Class"
  BUL_carrier_4:0 "Boris III Class"
- 
+
  ### CAN - CANADA ###
  CAN_submarine_ww1:0 "Improved H Class "
  CAN_submarine_ww1_desc:0 "The Improved H Class submarines were medium-sized WW1 vessels, a few of which were still in service at the start of World War Two (although none in the Royal Canadian Navy)."
@@ -1047,11 +1047,11 @@
  COL_battleship_1:0 "El Dorado Class"
  COL_battleship_2:0 "Almirante Padilla Class"
  COL_battleship_3:0 "Capitán Tono Class"
- COL_battleship_4:0 "Almirante Brión Class" 
+ COL_battleship_4:0 "Almirante Brión Class"
  COL_SH_battleship_1:0 "Simón Bolívar Class"
  COL_SH_battleship_2:0 "Gran Colombia Class"
  COL_carrier_1:0 "Antonio Nariño Class"
- COL_carrier_2:0 "7 de Agosto Class" 
+ COL_carrier_2:0 "7 de Agosto Class"
  COL_carrier_3:0 "20 De Julio Class"
  COL_carrier_4:0 "Nueva Granada Class"
 
@@ -1122,16 +1122,16 @@
  ECU_heavy_cruiser_3:0 "Isla San Cristobal Class"
  ECU_heavy_cruiser_4:0 "Isla Isabela Class"
  ECU_battle_cruiser_1:0 "Guayaquil Class"
- ECU_battle_cruiser_2:0 "Quito Class" 
- ECU_battleship_1:0 "Guayas Class" 
+ ECU_battle_cruiser_2:0 "Quito Class"
+ ECU_battleship_1:0 "Guayas Class"
  ECU_battleship_2:0 "Comandante Morán Valverde Class"
  ECU_battleship_3:0 "Presidente Eloy Alfaro Class"
- ECU_battleship_4:0 "Presidente Rocafuerte Class" 
+ ECU_battleship_4:0 "Presidente Rocafuerte Class"
  ECU_SH_battleship_1:0 "Carondelet Class"
  ECU_SH_battleship_2:0 "Mariscal Sucre Class"
  ECU_carrier_1:0 "Gangotena Class"
  ECU_carrier_2:0 "Atahualpa Class"
- ECU_carrier_3:0 "Presidente García Moreno Class" 
+ ECU_carrier_3:0 "Presidente García Moreno Class"
  ECU_carrier_4:0 "Cóndor de los Andes Class"
 
  ### EST - ESTONIA ###
@@ -1168,11 +1168,11 @@
  FIN_battleship_4:0 "Gustav Horn Class"
  FIN_SH_battleship_1:0 "Karhu Class"
  FIN_SH_battleship_2:0 "Hiiden Class"
- FIN_carrier_1:0 "Sprengtporten Class" 
- FIN_carrier_2:0 "Nordström Class" 
- FIN_carrier_3:0 "Gadolinite Class" 
+ FIN_carrier_1:0 "Sprengtporten Class"
+ FIN_carrier_2:0 "Nordström Class"
+ FIN_carrier_3:0 "Gadolinite Class"
  FIN_carrier_4:0 "Mannerheim Class"
- 
+
  ### GRE - GREECE ###
  GRE_submarine_1:0 "Katsonis Class "
  GRE_submarine_1_desc:0 "The Katsonis-class submarines were built in France for the Hellenic Navy in the late 1920s. Both ships of the class served during World War II. They displaced nearly 580 tons and were armed with six 533mm torpedo tubes."
@@ -1219,9 +1219,9 @@
  GRE_SH_battleship_2:0 "Hephaestus Class"
  GRE_carrier_1:0 "Apollo Class"
  GRE_carrier_2:0 "Ares Class"
- GRE_carrier_3:0 "Athena Class" 
+ GRE_carrier_3:0 "Athena Class"
  GRE_carrier_4:0 "Zeus Class"
- 
+
  ### HOL - NETHERLANDS ###
  HOL_submarine_ww1:0 "K V Class "
  HOL_submarine_ww1_desc:0 "The K V class consisted of three relatively small (560 ton) submarines built in the Netherlands to a British design. Laid down in 1916, they were completed in the early 1920s and only one was in service at the start of World War Two to see service in the Pacific."
@@ -1259,47 +1259,47 @@
  HOL_armoured_cruiser_2_desc:0 "The Dutch cruiser Soerabaja, originally named De Zeven Provinciën, was a coastal defense ship ('panterschip') built and commissioned in the Netherlands prior to World War I. She displaced over 6,500 tons and was armed with two 280mm and four 150mm guns as her main armament. She served during World War II until she was sunk by Japanese bombers in 1942."
  HOL_battle_cruiser_1:0 "Design 1047 "
  HOL_battle_cruiser_1_desc:0 "A planned class of three battlecruisers to defend against Japanese expansion in the Pacific, they were designed with assistance from Germany and would have used the same type of 280mm guns mounted on the German Scharnhorst Class. They were to be more lightly armoured than the Scharnhorsts, but with a faster top speed (34 knots). Authorised in February 1940, the German invasion put a stop to their development."
- 
+
  # Iceland
  ICE_submarine_1:0 "Draugr Class"
  ICE_submarine_2:0 "Norn Class"
  ICE_submarine_3:0 "Haugbui Class"
  ICE_submarine_4:0 "Warg Class"
- 
+
  ICE_carrier_1:0 "Herfjötur Class"
  ICE_carrier_2:0 "Svipul Class"
  ICE_carrier_3:0 "Þrúðr Class"
  ICE_carrier_4:0 "Kára Class"
- 
+
  ICE_battleship_1:0 "Örvar-Oddr Class"
  ICE_battleship_2:0 "Hjalmar Class"
  ICE_battleship_3:0 "Vignir Class"
  ICE_battleship_4:0 "Gusisnautar Class"
- 
+
  ICE_SH_battleship_1:0 "Lyngbakr Class"
  ICE_SH_battleship_2:0 "Kraken Class"
- 
+
  ICE_battle_cruiser_1:0 "Lindworm Class"
  ICE_battle_cruiser_2:0 "Hafgufa Class"
- 
+
  ICE_heavy_cruiser_1:0 "Garmr Class"
  ICE_heavy_cruiser_2:0 "Hel Class"
  ICE_heavy_cruiser_3:0 "Hyrrokkin Class"
  ICE_heavy_cruiser_4:0 "Fenrir Class"
- 
+
  ICE_light_cruiser_1:0 "Óðinn Class"
  ICE_light_cruiser_1_desc:0 "The Óðinn was the first ship ever built for Iceland's newly formed coastguard, arriving in Iceland in 1926. It was a small steel ship with a displacement of 512 tonnes and armed with a 57mm cannon. Due to financial mismanagement, the Icelandic government would be forced to sell the ship to Sweden in 1936."
  ICE_light_cruiser_2:0 "Gautur Class"
  ICE_light_cruiser_2_desc:0 "Built in 1938, the Gauter was originally named Óðinn, replacing the old Óðinn which had been sold to Sweden in 1936. While Gauter's equipment was newer, it was significantly smaller and made of Oak, displacing only 85 tonnes. When a new Óðinn was launched in 1959, this vessel was renamed the Gauter until it was finally decommissioned in 1964."
  ICE_light_cruiser_3:0 "Aldaföðr Class"
  ICE_light_cruiser_4:0 "Hroptatýr Class"
- 
+
  ICE_destroyer_1:0 "Islands Falk Class"
  ICE_destroyer_1_desc:0 "The Islands Falk was the first ship built for the purpose of Iceland's defence in 1906, two years after Iceland was granted Home Rule by Denmark. The Islands Falk is one of the larger ships that Iceland has owned. The ship had a displacement of 730 tonnes and was armed with two 75mm cannons and two 47mm cannons. The Islands Falk would serve until 1943 when the germans took it over and used it as a shipping vessel. Sadly, it did not survive the war."
  ICE_destroyer_2:0 "Munin Class"
  ICE_destroyer_3:0 "Hugin Class"
  ICE_destroyer_4:0 "Hábrók Class"
- 
+
 ### IRE - IRELAND ###
 IRE_submarine_1:0 "Holland Class"
 IRE_submarine_1_desc:0 "Named after the Irish engineer who developed the first U-boat formally commissioned by the U.S Navy, the Holland Class is an early Irish attempt into the secretive world of U-boat warfare. It had numerous issues and saw very little actual service, but proved a useful platform to build on for future members of the U-boat family."
@@ -1335,21 +1335,21 @@ IRE_SH_battleship_1:0 "Balor Class"
 IRE_SH_battleship_1_desc:0 "Named after the mythological Irish demon king, the Balor class of super-heavy battleship is a formidable monster of a ship that will no doubt help to secure supremacy of the Irish Sea if properly supported by a fleet of screens."
 IRE_SH_battleship_2:0 "Bánánach Class"
 IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce than the Balor, the Bánánach boasts a main armament of 12 x 18'/50 calibre guns to offer almost unmatched firepower relative to other Irish designs."
- 
+
  ### LAT - LATVIA ###
  LAT_submarine_1:0 "Ronis Class "
  LAT_submarine_1_desc:0 "The Ronis class consisted of two submarines built in France for the Latvian Navy. They were commissioned in 1927. They were small, displacing only 390 tons, and were armed with six 533mm torpedo tubes."
  ### LIT - LITHUANIA -- all generic ###
   ### MEX - MEXICO ###
  MEX_submarine_1:0 "Monterrey Class"
- MEX_submarine_2:0 "Tijuana Class" 
- MEX_submarine_3:0 "Puebla Class" 
- MEX_submarine_4:0 "Guadalajara Class" 
- MEX_destroyer_1:0 "18 De Mayo Class"  
- MEX_destroyer_2:0 "Netzahualcóyotl Class" 
+ MEX_submarine_2:0 "Tijuana Class"
+ MEX_submarine_3:0 "Puebla Class"
+ MEX_submarine_4:0 "Guadalajara Class"
+ MEX_destroyer_1:0 "18 De Mayo Class"
+ MEX_destroyer_2:0 "Netzahualcóyotl Class"
  MEX_destroyer_3:0 "Cuauhtémoc class"
  MEX_destroyer_4:0 "Quetzacoatl Class"
- MEX_light_cruiser_1:0 "Vicente Guerrero Class"   
+ MEX_light_cruiser_1:0 "Vicente Guerrero Class"
  MEX_light_cruiser_2:0 "Veracruz Class"
  MEX_light_cruiser_3:0 "Baja California Class"
  MEX_light_cruiser_4:0 "Commodore Manuel Azueta Class"
@@ -1357,19 +1357,19 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  MEX_heavy_cruiser_2:0 "Godínez Class"
  MEX_heavy_cruiser_3:0 "De la Vega Class"
  MEX_heavy_cruiser_4:0 "Berriozabal Class"
- MEX_battle_cruiser_1:0 "Benito Juarez Class" 
+ MEX_battle_cruiser_1:0 "Benito Juarez Class"
  MEX_battle_cruiser_2:0 "Guadalupe Class"
  MEX_battleship_1:0 "Anáhuac Class"
- MEX_battleship_2:0 "México Class" 
+ MEX_battleship_2:0 "México Class"
  MEX_battleship_3:0 "Chichén Itzá Class"
- MEX_battleship_4:0 "Tenochtitlan Class" 
- MEX_SH_battleship_1:0 "Azteca Class"  
- MEX_SH_battleship_2:0 "Montezuma Class" 
- MEX_carrier_1:0 "Don Miguel Hidalgo  Class" 
- MEX_carrier_2:0 "Presidente Cárdenas Class" 
- MEX_carrier_3:0 "Cinco de Mayo Class" 
+ MEX_battleship_4:0 "Tenochtitlan Class"
+ MEX_SH_battleship_1:0 "Azteca Class"
+ MEX_SH_battleship_2:0 "Montezuma Class"
+ MEX_carrier_1:0 "Don Miguel Hidalgo  Class"
+ MEX_carrier_2:0 "Presidente Cárdenas Class"
+ MEX_carrier_3:0 "Cinco de Mayo Class"
  MEX_carrier_4:0 "El Águila Real Class"
-  
+
  ### NOR - NORWAY ###
  #NOR_submarine_ww1:0 "A Class "
  #NOR_submarine_ww1_desc:0 "Built by Germany for Norway just before the outbreak of the first World War, this class of three submarines survived to see the start of the second. They were small, coastal boats displacing 268 tons surfaced with three 450mm torpedo tubes. Their long diving times made them very vulnerable to modern warships and aircraft."
@@ -1533,7 +1533,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  POR_carrier_5:0 "Classe Duarte II"
  POR_carrier_6:0 "Classe Miguel II"
  POR_carrier_7:0 "Classe Afonso Henriques"
- 
+
  ### PRU - PERU ###
  #PRU_submarine_ww1:0 "Ferré Class"
  #PRU_submarine_ww1_desc:0 "These were French Labeuf-type submarines, built in France and brought to Peru. They had four 450mm torpedo tubes in the bow and carried six on patrol.  A lack of spare parts shortened their careers considerably, and they were stricken in 1919."
@@ -1572,14 +1572,14 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  PRU_battleship_1:0 "Huáscar Class"
  PRU_battleship_2:0 "Independencia Class"
  PRU_battleship_3:0 "Apurímac Class"
- PRU_battleship_4:0 "Pachacuti Class" 
+ PRU_battleship_4:0 "Pachacuti Class"
  PRU_SH_battleship_1:0 "Cuzco Class"
  PRU_SH_battleship_2:0 "Inca Class"
  PRU_carrier_1:0 "Machu Picchu Class"
  PRU_carrier_2:0 "Lima Class"
  PRU_carrier_3:0 "Túpac Amaru II Class"
  PRU_carrier_4:0 "Presidente Benavides Class"
- 
+
 ### RAJ - BRITISH RAJ ###
  RAJ_submarine_ww1:0 "Improved H Class "
  RAJ_submarine_ww1_desc:0 "The Improved H Class submarines were medium-sized WW1 vessels, a few of which were still in service at the start of World War Two (although none in the Royal Canadian Navy)."
@@ -1649,7 +1649,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  RAJ_carrier_3_desc:0 "The Implacable class was an improved version of the Illustrious class carriers, with a larger air wing (60 aircraft) but retaining the armoured flight deck. Heavy armor and AA weaponry provided a strong defense for the ships, while powerful engines and a large fuel store gave the ships long operational range."
  RAJ_carrier_4:0 "Malta Class "
  RAJ_carrier_4_desc:0 "Never completed by Britain, and never even considered by India, if India had built a 1944 type fleet carrier, it is likely to have been of this design.  The Malta class built on wartime experience to have a large hangar, supporting over 80 aircraft, strong anti-air armament and well-designed armour and damage control."
- 
+
  ### ROM - ROMANIA ###
  ROM_submarine_1:0 "Delfinul Class "
  ROM_submarine_1_desc:0 "The Delfinul was a Romanian submarine built in Italy for the Romanian Navy. It was launched in 1930 and the ship displaced 650 tons and was armed with six 533mm torpedo tubes."
@@ -1693,10 +1693,10 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  ROM_SH_battleship_1:0 "Ion Antonescu Class"
  ROM_SH_battleship_2:0 "Ștefan cel Mare Class"
  ROM_carrier_1:0 "Alexandru Ioan Cuza Class"
- ROM_carrier_2:0 "Alexandru Averescu Class" 
- ROM_carrier_3:0 "Horia Macellariu Class" 
+ ROM_carrier_2:0 "Alexandru Averescu Class"
+ ROM_carrier_3:0 "Horia Macellariu Class"
  ROM_carrier_4:0 "Michael I Class"
- 
+
  ### SAF - SOUTH AFRICA ###
  SAF_submarine_ww1:0 "Improved H Class "
  SAF_submarine_ww1_desc:0 "The Improved H Class submarines were medium-sized WW1 vessels, a few of which were still in service at the start of World War Two (although none in the Royal Canadian Navy)."
@@ -1766,7 +1766,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SAF_carrier_3_desc:0 "The Implacable class was an improved version of the Illustrious class carriers, with a larger air wing (60 aircraft) but retaining the armoured flight deck. Heavy armor and AA weaponry provided a strong defense for the ships, while powerful engines and a large fuel store gave the ships long operational range."
  SAF_carrier_4:0 "Malta Class "
  SAF_carrier_4_desc:0 "Never completed by Britain, and never even considered by South Africa, if South Africa had built a 1944 type fleet carrier, it is likely to have been of this design.  The Malta class built on wartime experience to have a large hangar, supporting over 80 aircraft, strong anti-air armament and well-designed armour and damage control."
- 
+
  ### SIA - SIAM ###
  SIA_submarine_1:0 "Sammanakkha Class"
  SIA_submarine_2:0 "Vilun Class "
@@ -1781,7 +1781,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SIA_destroyer_2_desc:0 "The Phra Ruang was a former British R-class destroyer that was sold to The Royal Thai Navy in 1920. The ship displaced just over 1,000 tons and was armed with three 120mm/45 QF Mk IV guns and four 533mm torpedo tubes. They had good speed, range, and reliability for their vintage."
  SIA_destroyer_3:0 "Chonburi Class"
  SIA_destroyer_4:0 "Sarasin Class"
- SIA_destroyer_5:0 "Khamromsin Class" 
+ SIA_destroyer_5:0 "Khamromsin Class"
  SIA_destroyer_6:0 "Ratanakosin Class"
  SIA_light_cruiser_1:0 "Samui Class"
  SIA_light_cruiser_2:0 "Pha Ngan Class"
@@ -1794,7 +1794,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SIA_heavy_cruiser_2:0 "Sri Ayuthia Class"
  SIA_heavy_cruiser_2_desc:0 "The Sri Ayuthia class coastal defense ships were perhaps the last ships of this type built in the world, with both ships of the class built in Japan and commissioned for the Royal Thai Navy in 1938. The design was comparable to a small cruiser (or large destroyer) in size, to a battleship in speed, and to a heavy cruiser in armament. Its main guns were four 203mm/53 3-Shiki cannon. They were lightly armored compared to contemporary heavy cruisers."
  SIA_heavy_cruiser_3:0 "Pranburi Class"
- SIA_heavy_cruiser_4:0 "Chao Phraya Class" 
+ SIA_heavy_cruiser_4:0 "Chao Phraya Class"
  SIA_heavy_cruiser_5:0 "Lopburi Class"
  SIA_heavy_cruiser_6:0 "Tapi Class"
  SIA_battle_cruiser_1:0 "Phraya Nak Class"
@@ -1818,7 +1818,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SIA_carrier_5:0 "Phraya Krutt Class"
  SIA_carrier_6:0 "Mahawong Class"
  SIA_carrier_7:0 "Ban Phlu Luang Class"
- 
+
  ### SPA - NATIONALIST SPAIN ###
  #SPA_submarine_ww1:0 "B Class "
  #SPA_submarine_ww1_desc:0 "The B class were the first submarines built within Spain for the Spanish Navy. The six ships of the class were commissioned between 1922 and 1925. They were designed as single-hulled ships, and consequently their reliability was subpar. They were medium-sized submarines, displacing over 550 tons. They were armed with four 450mm torpedo tubes."
@@ -1859,7 +1859,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SPA_heavy_cruiser_1:0 "Canarias Class "
  SPA_heavy_cruiser_1_desc:0 "The two heavy cruisers of the Canarias class were built to the specifications of the Washington Naval treay. They were launched in the early 1930s but not completed until 1936. They displaced nearly 10,700 tons and had good speed. They were relatively lightly armored but sported eight 203mm/50 Vickers-Armstrong Mk D guns as their main armament."
  SPA_heavy_cruiser_2:0 "Baleares Class"
- SPA_heavy_cruiser_2_desc:0 "The two ships of the class were built upon a British design and were a modified version of the Royal Navy′s County class. Baleares was constructed in Spain by the Vickers-Armstrongs subsidiary Sociedad Española de Construcción Naval." 
+ SPA_heavy_cruiser_2_desc:0 "The two ships of the class were built upon a British design and were a modified version of the Royal Navy′s County class. Baleares was constructed in Spain by the Vickers-Armstrongs subsidiary Sociedad Española de Construcción Naval."
  SPA_heavy_cruiser_3:0 "Alfonso XII Class"
  SPA_heavy_cruiser_4:0 "Emperador Carlos V Class"
  SPA_battle_cruiser_1:0 "Rayo Class"
@@ -1871,8 +1871,8 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SPA_battleship_2:0 "Reina Victoria Eugenia Class"
  SPA_battleship_2_desc:0 "The Reina Victoria Eugenia class was a class of three battleships of the Spanish Navy authorized as the Plan de la Segunda Escuadra under the Navy Law of 1913. The class, as well as the lead ship, were named for King Alfonso XIII's English queen consort, Victoria Eugenie of Battenberg. The other two ships were classified as "B" and "C". It was supposed to be designed by Vickers-Armstrongs, and built by John Brown."
  SPA_battleship_3:0 "Littorio Class"
- SPA_battleship_3_desc:0 "After his victory in the Spanish Civil War, Francisco Franco's plans for the Spanish Navy included the acquisition of four modern battleships, and a variation on the Italian Littorio-class battleships was the favored candidate to fill the requirement. In late 1939, a Spanish mission to Italy received assurances of technical support for the construction of ships of the class in Spanish yards, and a slipway of sufficient size to construct two ships at a time was built at Ferrol." 
- SPA_battleship_4:0 "San Ildefonso Class" 
+ SPA_battleship_3_desc:0 "After his victory in the Spanish Civil War, Francisco Franco's plans for the Spanish Navy included the acquisition of four modern battleships, and a variation on the Italian Littorio-class battleships was the favored candidate to fill the requirement. In late 1939, a Spanish mission to Italy received assurances of technical support for the construction of ships of the class in Spanish yards, and a slipway of sufficient size to construct two ships at a time was built at Ferrol."
+ SPA_battleship_4:0 "San Ildefonso Class"
  SPA_SH_battleship_1:0 "Purísima Concepcion Class"
  SPA_SH_battleship_2:0 "Santa Ana class"
  SPA_SH_battleship_3:0 "Ferdinand Magellan Class"
@@ -1883,7 +1883,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SPA_carrier_3_desc:0 "In Spain, the Independence Class was in the form of Dédalo aircraft carrier. Dédalo was formerly the World War II-era light aircraft carrier USS Cabot, which was acquired from the United States."
  SPA_carrier_4:0 "Príncipe de Asturias Class"
  SPA_carrier_4_desc:0 "The ship supports a maximum of 29 fixed wing and rotary wing aircraft with up to 12 on deck and 17 aircraft in the hangar. The hangar which measures 2,398 m² is accessed by two flight deck lifts. The 5,100 square metres (55,000 sq ft) flight deck is 176 metres (577 ft) in length. Operating V/STOL aircraft, the carrier has the characteristic "ski-jump" (12° here), with the runway sightly off the longitudinal axis, tilted portside."
- 
+
  ### SPR - REPUBLICAN SPAIN ###
  #SPR_submarine_ww1:0 "B Class "
  #SPR_submarine_ww1_desc:0 "The B class were the first submarines built within Spain for the Spanish Navy. The six ships of the class were commissioned between 1922 and 1925. They were designed as single-hulled ships, and consequently their reliability was subpar. They were medium-sized submarines, displacing over 550 tons. They were armed with four 450mm torpedo tubes."
@@ -1924,7 +1924,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SPR_heavy_cruiser_1:0 "Canarias Class "
  SPR_heavy_cruiser_1_desc:0 "The two heavy cruisers of the Canarias class were built to the specifications of the Washington Naval treay. They were launched in the early 1930s but not completed until 1936. They displaced nearly 10,700 tons and had good speed. They were relatively lightly armored but sported eight 203mm/50 Vickers-Armstrong Mk D guns as their main armament."
  SPR_heavy_cruiser_2:0 "Baleares Class"
- SPR_heavy_cruiser_2_desc:0 "The two ships of the class were built upon a British design and were a modified version of the Royal Navy′s County class. Baleares was constructed in Spain by the Vickers-Armstrongs subsidiary Sociedad Española de Construcción Naval." 
+ SPR_heavy_cruiser_2_desc:0 "The two ships of the class were built upon a British design and were a modified version of the Royal Navy′s County class. Baleares was constructed in Spain by the Vickers-Armstrongs subsidiary Sociedad Española de Construcción Naval."
  SPR_heavy_cruiser_3:0 "Alfonso XII Class"
  SPR_heavy_cruiser_4:0 "Emperador Carlos V Class"
  SPR_battle_cruiser_1:0 "Rayo Class"
@@ -1936,8 +1936,8 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SPR_battleship_2:0 "Reina Victoria Eugenia Class"
  SPR_battleship_2_desc:0 "The Reina Victoria Eugenia class was a class of three battleships of the Spanish Navy authorized as the Plan de la Segunda Escuadra under the Navy Law of 1913. The class, as well as the lead ship, were named for King Alfonso XIII's English queen consort, Victoria Eugenie of Battenberg. The other two ships were classified as "B" and "C". It was supposed to be designed by Vickers-Armstrongs, and built by John Brown."
  SPR_battleship_3:0 "Littorio Class"
- SPR_battleship_3_desc:0 "After his victory in the Spanish Civil War, Francisco Franco's plans for the Spanish Navy included the acquisition of four modern battleships, and a variation on the Italian Littorio-class battleships was the favored candidate to fill the requirement. In late 1939, a Spanish mission to Italy received assurances of technical support for the construction of ships of the class in Spanish yards, and a slipway of sufficient size to construct two ships at a time was built at Ferrol." 
- SPR_battleship_4:0 "San Ildefonso Class" 
+ SPR_battleship_3_desc:0 "After his victory in the Spanish Civil War, Francisco Franco's plans for the Spanish Navy included the acquisition of four modern battleships, and a variation on the Italian Littorio-class battleships was the favored candidate to fill the requirement. In late 1939, a Spanish mission to Italy received assurances of technical support for the construction of ships of the class in Spanish yards, and a slipway of sufficient size to construct two ships at a time was built at Ferrol."
+ SPR_battleship_4:0 "San Ildefonso Class"
  SPR_SH_battleship_1:0 "Purísima Concepcion Class"
  SPR_SH_battleship_2:0 "Santa Ana class"
  SPR_SH_battleship_3:0 "Ferdinand Magellan Class"
@@ -1948,7 +1948,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SPR_carrier_3_desc:0 "In Spain, the Independence Class was in the form of Dédalo aircraft carrier. Dédalo was formerly the World War II-era light aircraft carrier USS Cabot, which was acquired from the United States."
  SPR_carrier_4:0 "Príncipe de Asturias Class"
  SPR_carrier_4_desc:0 "The ship supports a maximum of 29 fixed wing and rotary wing aircraft with up to 12 on deck and 17 aircraft in the hangar. The hangar which measures 2,398 m² is accessed by two flight deck lifts. The 5,100 square metres (55,000 sq ft) flight deck is 176 metres (577 ft) in length. Operating V/STOL aircraft, the carrier has the characteristic "ski-jump" (12° here), with the runway sightly off the longitudinal axis, tilted portside."
- 
+
  ### SWE - SWEDEN ###
  #SWE_submarine_ww1:0 "Hajen Class "
  #SWE_submarine_ww1_desc:0 "The Hajen class, commissioned in 1920, had submarines that displaced 422 tons surfaced and were armed with four 450mm torpedo tubes. They had a diving depth of only 30m."
@@ -1998,7 +1998,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  SWE_battleship_3:0 "Fenrir Class"
  SWE_battleship_4:0 "Thor Class"
  SWE_SH_battleship_1:0 "Jörmungandr Class"
- SWE_SH_battleship_2:0 "Ragnarok Class" 
+ SWE_SH_battleship_2:0 "Ragnarok Class"
  SWE_carrier_1:0 "Gustav II Class"
  SWE_carrier_2:0 "Carolus XII Class"
  SWE_carrier_3:0 "Gustav I Class"
@@ -2068,30 +2068,30 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  #URG_destroyer_early_ww1_desc:0 "The Uruguay was a large torpedo gunboat built in Germany for the Uruguayan Navy prior to World War I. It displaced around 1,400 tons and was armed with two 120mm/45 Krupp QF guns and a selection of guns of smaller calibre, as well as two 450mm torpedo tubes. At a top speed of 23 knots, they fairly slow compared with other pre-WW1 destroyers, let alone more modern vessels."
  URG_destroyer_1:0 "Uruguay Class"
  URG_destroyer_1_desc:0 "The Uruguay was a large torpedo gunboat built in Germany for the Uruguayan Navy prior to World War I. It displaced around 1,400 tons and was armed with two 120mm/45 Krupp QF guns and a selection of guns of smaller calibre, as well as two 450mm torpedo tubes. At a top speed of 23 knots, they fairly slow compared with other pre-WW1 destroyers, let alone more modern vessels."
- URG_destroyer_2:0 "Dieciocho de Julio Class" 
- URG_destroyer_3:0 "Rocha Class" 
- URG_destroyer_4:0 "18 De Julio Class"            
- URG_light_cruiser_1:0 "Maldonado Class" 
+ URG_destroyer_2:0 "Dieciocho de Julio Class"
+ URG_destroyer_3:0 "Rocha Class"
+ URG_destroyer_4:0 "18 De Julio Class"
+ URG_light_cruiser_1:0 "Maldonado Class"
  URG_light_cruiser_2:0 "Capitan Miranda Class"
  URG_light_cruiser_3:0 "Vanguardia Class"
- URG_light_cruiser_4:0 "Intrépido Class" 
+ URG_light_cruiser_4:0 "Intrépido Class"
  URG_heavy_cruiser_1:0 "Paysandú Class"
- URG_heavy_cruiser_2:0 "Salto Class" 
+ URG_heavy_cruiser_2:0 "Salto Class"
  URG_heavy_cruiser_3:0 "Río Negro Class"
  URG_heavy_cruiser_4:0 "Colonia Class"
  URG_battle_cruiser_1:0 "República Oriental Class"
  URG_battle_cruiser_2:0 "Honor y Patria Class"
  URG_battleship_1:0 "Comandante Pedro Campbell Class"
- URG_battleship_2:0 "General Lavalleja Class" 
+ URG_battleship_2:0 "General Lavalleja Class"
  URG_battleship_3:0 "Presidente Oribe Class"
- URG_battleship_4:0 "Montevideo Class" 
+ URG_battleship_4:0 "Montevideo Class"
  URG_SH_battleship_1:0 "General Artigas Class"
  URG_SH_battleship_2:0 "Banda Oriental Class"
  URG_carrier_1:0 "General Suárez Class"
  URG_carrier_2:0 "General Rivera Class"
  URG_carrier_3:0 "Presidente Ordóñez Class"
  URG_carrier_4:0 "25 De Agosto Class"
- 
+
  ### VEN - VENEZUELA ###
  VEN_submarine_1:0 "Capana Class"
  VEN_submarine_2:0 "Los Llanos Class"
@@ -2099,7 +2099,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  VEN_submarine_4:0 "Caribe Class"
  VEN_destroyer_1:0 "Aragua Class"
  VEN_destroyer_2:0 "Zulia Class"
- VEN_destroyer_3:0 "Almirante Clemente Class"      
+ VEN_destroyer_3:0 "Almirante Clemente Class"
  VEN_destroyer_4:0 "Nueva Esparta Class"
  VEN_light_cruiser_1:0 "Guaiquerí Class"
  VEN_light_cruiser_2:0 "Warao Class"
@@ -2109,19 +2109,19 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  VEN_heavy_cruiser_2:0 "Yavire Class"
  VEN_heavy_cruiser_3:0 "Naiguata Class"
  VEN_heavy_cruiser_4:0 "Tamanaco Class"
- VEN_battle_cruiser_1:0 "Rafael Urdaneta Class" 
+ VEN_battle_cruiser_1:0 "Rafael Urdaneta Class"
  VEN_battle_cruiser_2:0 "Manuel Piar Class"
- VEN_battleship_1:0 "Felipe Larrazabal Class" 
- VEN_battleship_2:0 "Lino de Clemente Class" 
+ VEN_battleship_1:0 "Felipe Larrazabal Class"
+ VEN_battleship_2:0 "Lino de Clemente Class"
  VEN_battleship_3:0 "General Soublette Class"
  VEN_battleship_4:0 "Almirante Brion Class"
- VEN_SH_battleship_1:0 "Caracas Class"  
+ VEN_SH_battleship_1:0 "Caracas Class"
  VEN_SH_battleship_2:0 "Simón Bolívar Class"
- VEN_carrier_1:0 "Santiago Mariño Class" 
- VEN_carrier_2:0 "Antonio Páez Class" 
- VEN_carrier_3:0 "Mariscal Sucre Class" 
+ VEN_carrier_1:0 "Santiago Mariño Class"
+ VEN_carrier_2:0 "Antonio Páez Class"
+ VEN_carrier_3:0 "Mariscal Sucre Class"
  VEN_carrier_4:0 "Francisco de Miranda Class"
- 
+
  ### VIC - VICHY FRANCE ###
  VIC_submarine_1:0 "600 Series"
  VIC_submarine_1_desc:0 "The 600-ton Series of submarines were France's first modern post WWI submarines. They were medium sized displacing around 600tons though they were seagoing ones, they were designated as coastal submarines and used mostly in the warm waters of the Mediterranean. Three classes of four ships were each built of this type: Sirène, Ariane and Circé classes. They were the basis of the bigger 630-ton Series the Argonaute, Diane and Orion classes."
@@ -2168,7 +2168,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  VIC_battle_cruiser_2_desc:0 "The Dunkerques were designed to counter the German Deutschland-class pocket battleships. They were the apex of a series design studies from the mid 1920's to early 1930's. Authorized in the 1931 and 1934 naval programs, they were similar to the British Nelson-class battleships, with all of their main turrets concentrated forward. This resulted in a shorter belt armor and thus a smaller ship to fit into the Naval Treaties limitations."
  VIC_battleship_1:0 "Courbet Class"
  VIC_battleship_1_desc:0 "The Courbet-class battleships were the first super-dreadnoughts built for the French Navy before and during the First World War. Authorized in the 1910 and 1911 naval programs, they saw limited service during World War I, but were active during WW2. Though they had thicker armor and stronger guns than the previous Dante class battleships, they were still inferior to contemporary USN and RN battleships. They displaced just over 22,000 tons and their only modernizations before WW2 were an improved AA armament and improved boilers."
- #VIC_battleship_1b: "Bretagne Class" 
+ #VIC_battleship_1b: "Bretagne Class"
  VIC_battleship_2:0 "Richelieu Class"
  VIC_battleship_2_desc:0 "The Richelieu-class battleships were the last battleships commissioned into the French Navy. They were an improved design of the Dunkerque and authorized under the 1935 and 1938 naval programs. They had excellent AA armament, speed and range, which made it an excellent capital ship. Out of the four ordered, only two were launched and one was completed before the Fall of France. There were numerous attempts to finish the remaining ships using different designs, proposed for use as anti-aircraft battleships, battleship-carrier hybrids, or full scale carriers."
  VIC_battleship_3:0 "Gascogne Class"
@@ -2187,7 +2187,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  VIC_carrier_3_desc:0 "The Jean Bart carrier was a mid-war proposal to convert the unfinished Richelieu class battleship Jean Bart into a full scale carrier in a similar way to the Japanese IJN Shinano. The hull's large size would be resulted in a large aircraft component and together with the big engines a long range and fast carrier. The heavy AA armament of US origin would have provided a good defense against aircraft and smaller surface combatants."
  VIC_carrier_4:0 "Clemenceau Class"
  VIC_carrier_4_desc:0 "The Clemenceau class aircraft carrier (Project name PA-28) were the first postwar carrier design of the French Navy. The design would be similar to the unfinished Joffre class carriers, though the installed equipment and weaponry would be of modern French products. The acquisition of the USN and RN escort carriers and the economical state of postwar France prevented these ships from being laid down. Not to be confused with the latter Clemenceau class aircraft carriers (Project name PA-54), which were laid down in 1955 and 1957."
- 
+
 ### YUG - YUGOSLAVIA ###
  YUG_submarine_1:0 "Hrabri Class"
  YUG_submarine_1_desc:0 "The two Hrabri class submarines were originally laid down as British L-class submarines for the Royal Navy, but were sold and ultimately completed for Yugoslavia using a modified design in 1928. They were large submarines, displacing 975 tons surfaced, and were armed with six 533mm torpedo tubes and two four-inch guns."
@@ -2210,15 +2210,15 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  YUG_light_cruiser_2:0 "Ljubljana Class"
  YUG_light_cruiser_3:0 "Priština Class"
  YUG_light_cruiser_4:0 "Novi Sad Class"
- YUG_heavy_cruiser_1:0 "Skopje Class" 
- YUG_heavy_cruiser_2:0 "Podgorica Class" 
+ YUG_heavy_cruiser_1:0 "Skopje Class"
+ YUG_heavy_cruiser_2:0 "Podgorica Class"
  YUG_heavy_cruiser_3:0 "Zagreb Class"
  YUG_heavy_cruiser_4:0 "Sarajevo Class"
  YUG_battle_cruiser_1:0 "Ragusa Class"
  YUG_battle_cruiser_2:0 "Maribor Class"
  YUG_battleship_1:0 "Alexander I Class"
  YUG_battleship_2:0 "Peter I Class"
- YUG_battleship_3:0 "Karađorđević Class" 
+ YUG_battleship_3:0 "Karađorđević Class"
  YUG_battleship_4:0 "Peter II Class "
  YUG_SH_battleship_1:0 "Peter Krešimir IV Class"
  YUG_SH_battleship_2:0 "Josip Broz Tito Class "
@@ -2226,7 +2226,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  YUG_carrier_2:0 "Živojin Mišić Class"
  YUG_carrier_3:0 "Prince Paul Class"
  YUG_carrier_4:0 "Nikola Tesla Class"
- 
+
  BRA_submarine_1:0 "Classe Humaitá"
  BRA_submarine_2:0 "Classe Tupi"
  BRA_submarine_3:0 "Classe Guarani"
@@ -2309,7 +2309,7 @@ IRE_SH_battleship_2_desc:0 "Bigger, badder, and even more expensive to produce t
  AUS_carrier_1:0 "Babenberg Class"
  AUS_carrier_1_desc:0 "Babenberg Class"
  AUS_carrier_2:0 "Anton Haus Class"
- AUS_carrier_2_desc:0 "Anton Haus Class" 
+ AUS_carrier_2_desc:0 "Anton Haus Class"
  AUS_carrier_3:0 "Franz Joseph Class"
  AUS_carrier_3_desc:0 "Franz Joseph Class"
  AUS_carrier_4:0 "Maximilian I Class"
