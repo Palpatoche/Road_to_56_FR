@@ -614,7 +614,7 @@
  FRA_commission_fortified_regions_desc:0 "Nous pouvons recréer l'ancienne Commission d'organisation des régions fortifiées de 1927 pour étudier nos fortifications frontalières actuelles et actualiser nos plans de défense."
  FRA_extend_the_maginot_line:0 "Extension de la ligne Maginot"
  FRA_extend_the_maginot_line_desc:0 "En cas d'invasion, la Belgique n'aura pas les moyens de se défendre, et les armées ennemies pourront franchir son territoire. Pour faire face au problème, nous devrions prolonger la ligne Maginot pour empêcher toute tentative invasion d'entrer en France."
- FRA_de_gaulle_strategy:0 "Stratégie de Charles de Gaulle"
+ FRA_de_gaulle_strategy:0 "Plan de Charles de Gaulle"
  FRA_de_gaulle_strategy_desc:0 "Nous ne pouvons pas rester les bras croisés alors que des ennemis s'approchent de nos frontières. Et nous ne pouvons laisser nos alliés se débrouiller seuls dans un scénario de guerre. Préparons notre armée ! Gamelin est l'homme de la situation."
  FRA_motorized_focus:0 "Priorité à la motorisation"
  FRA_motorized_focus_desc:0 "Si nous trouvons le moyen d'améliorer la production de véhicules d'infanterie, nous aurons la capacité d'assurer le soutien et le renfort des troupes sur le front."
@@ -876,7 +876,7 @@
  worldnews.4.d:0 "TO DO"
  worldnews.4.a:0 "TO DO"
  worldnews.5.t:0 "L'exposition universelle de Paris" 
- worldnews.5.d:0 "La France est fière de lancer en grande fanfare l'exposition universelle de 1937. À Paris, sur environ 101 hectares, 44 pays proposent cent quatre-vingt-dix pavillons sur le thème des arts et techniques appliqués à la vie moderne. Près de 32 millions de visiteurs se précipiteront pour venir. À l'époque, Paris retiendra le palais de Chaillot, le palais de la découverte et le palais de Tokyo. L'esprit et le nouvel art triomphent partout. Le monde veut croire un instant que l'exposition réunira enfin tout ce qui unit les hommes. Mais les esprits sont frappés par des pavillons soviétiques et allemands monumentaux qui se font face pour se défier : l'un avec une statue de vingt-cinq mètres d'ouvrière et de Kolkhoz Woman brandissant une faucille et un marteau, l'autre avec une sculpture monumentale d'un aigle tenant une croix gammée dans ses serres."
+ worldnews.5.d:0 "La France est fière de lancer en grande fanfare l'exposition universelle de 1937. À Paris, sur environ 101 hectares, 44 pays proposent cent quatre-vingt-dix pavillons sur le thème des arts et techniques appliqués à la vie moderne. Près de 32 millions de visiteurs se précipiteront pour venir. À l'époque, Paris retiendra le palais de Chaillot, le palais de la découverte et le palais de Tokyo. L'esprit et le nouvel art triomphent partout. Le monde veut croire un instant que l'exposition réunira enfin tout ce qui unit les hommes. Mais les esprits sont frappés par des pavillons soviétiques et allemands monumentaux qui se font face pour se défier : l'un avec une statue de vingt-cinq mètres « L'Ouvrier et la Kolkhozienne » brandissant une faucille et un marteau, l'autre avec une sculpture monumentale d'un aigle tenant une croix gammée dans ses serres."
  worldnews.5.a:0 "Un grand succès mondial"
 
  ############################
