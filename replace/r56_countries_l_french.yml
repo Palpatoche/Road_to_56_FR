@@ -363,6 +363,8 @@
  #CHI
  CHI_JAP_fascism:0 "Gouvernement nationaliste réorganisé"
  CHI_JAP_fascism_DEF:0 "le Gouvernement nationaliste réorganisé"
+ CHI_JAP_neutrality:0 "Gouvernement nationaliste réorganisé"
+ CHI_JAP_neutrality_DEF:0 "le Gouvernement nationaliste réorganisé"
 
  #CHD
  CHD_neutrality:0 "Tchad"
@@ -1480,3 +1482,7 @@
  #DOM
  DOM_neutrality:0 "République dominicaine"
  DOM_neutrality_DEF:0 "la République dominicaine"
+
+ # SPR
+ SPR_neutrality:0 "Royaume d'Espagne"
+ SPR_neutrality_DEF:0 "le Royaume d'Espagne"

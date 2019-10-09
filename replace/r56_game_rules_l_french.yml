@@ -3,10 +3,10 @@
  #####-----> Game Rules Localization <><> <><> <><> <><> <><>
 
  ###---> Country Boosts <><> <><> <><>
- CUSTOM_DIFFICULTY_GROUP_NAME:0 "Boosts de pays"
+ CUSTOM_DIFFICULTY_GROUP_NAME:0 "Boosts de pays (NOUVEAU)"
 
  ###---> Focus Tree Selection <><> <><> <><>
- RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Sélection des arbres des priorités"
+ RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Sélection des arbres des priorités (NOUVEAU : @MEX)"
 
  RULE_OPTION_R56_TREE:0 "Arbre des priorités de Road to 56"
  RULE_OPTION_R56_TREE_DESC:0 "Utiliser l'arbre de priorités par défaut de Road to 56 qui est inclu dans le mod."
@@ -14,10 +14,11 @@
  RULE_OPTION_STANDARD_TREE_DESC:0 "Utiliser l'arbre de priorités standard. Inclut des ajustements et des changements mineurs."
 
  HOL_FOCUS_TREE_SELECTION:0 "@HOL Pays-Bas"
+ MEX_FOCUS_TREE_SELECTION:0 "@MEX Mexico (NEW)"
  SAF_FOCUS_TREE_SELECTION:0 "@SAF Afrique du Sud"
 
  ###---> AI Behavior <><> <><> <><>
- RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA (NOUVEAU : @FRA @ITA)"
+ RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA (RAMENÉ EN ARRIÈRE : @FRA @ITA)"
  RULE_OPTION_DEFAULT_AI_DESC:0 "L'IA prendra des décisions basées sur d'autres paramètres de gameplay, tels que l'option de forcer les priorités historiques et d'autres scénarios de gameplay."
  RULE_OPTION_MONARCHIST:0 "Monarchiste"
 
@@ -55,6 +56,9 @@
  RULE_OPTION_FASCIST_ROME_PROTOCOLS:0 "Fasciste - Militariser les Protocoles de Rome"
  RULE_OPTION_FASCIST_ROME_PROTOCOLS_ITA_AI_DESC:0 "L'IA italienne tentera de militariser les protocoles de Rome avec l'Autriche et la Hongrie. Ceci sera suivi d'une tentative d'expansion territoriale en Europe et d'une faction croissante de membres latins, en empruntant la voie appropriée dans l'arbre des priorités nationales."
 
+ #-> MEX: Mexico <><>
+ MEX_AI_BEHAVIOR:0 "@MEX Mexique (RAMENÉ EN ARRIÈRE)"
+ 
  #-> SIA: Siam <><>
  SIA_AI_BEHAVIOR:0 "@SIA Siam"
  RULE_OPTION_DEMOCRATIC_LIBERAL_SIA:0 "Démocratique - Libéral"

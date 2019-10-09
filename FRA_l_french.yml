@@ -15,6 +15,17 @@
  france.150.d:0 "Suite à l'énorme appel à la grève lancé par la CGT, dont l'influence au cours des derniers mois avait atteint un point tel que le gouvernement a dû faire des compromis de plus en plus drastiques, des centaines de milliers de travailleurs se sont mobilisés à Paris vers le palais Bourbon, qui a rappelé pour beaucoup les émeutes du 6 février 1934. Cette dernière a ensuite forcé l'entrée au parlement alors que dans le reste de la ville, les débordements de l'armée et une forte violence ne pouvaient être contenus par la police. Sous la direction de Léon Jouhaux, cette dernière a déclaré la fin de la troisième République et la transition vers un régime anti-capitaliste et syndicaliste."
  france.150.a:0 "Les travailleurs contrôle maintenant la situation"
 
+ france.151.t:0 "Mort de Franchet d'Espèrey"
+ france.151.d:0 "Louis Félix Marie François Franchet d'Espèrey, maréchal et chef de l'État français, est décédé dans la nuit. Il a été enterré et a reçu les honneurs militaires avant d'être transféré aux Invalides.\n\nLa mort du maréchal a été soudaine pour beaucoup de Français, mais aussi pour le gouvernement, car aucune procédure de succession n'avait été mise en place pour le moment. Ainsi, les différents ministres ont été convoqués d'urgence pour décider qui nommer comme successeur.\n\nPour beaucoup, le choix favori est celui d'Henri Giraud, ministre de la Guerre et très proche de Franchet d'Espèrey tout au long de sa carrière militaire.\n\nCependant, un autre candidat est capable de tenir tête à Giraud. C'est François Mitterrand, ministre de l'Intérieur, qui, bien qu'encore simple journaliste il y a quelques années, a pu gravir les échelons du gouvernement à toute vitesse, ce qui lui a permis d'acquérir une grande notoriété qui pourrait bien jouer en sa faveur."
+ france.151.a:0 "Giraud est le choix évident"
+ france.151.b:0 "Mitterrand semble prometteur"
+
+ france.152.t:0 "Victoire du Front populaire en France"
+ france.152.d:0 "Le Front Populaire, une alliance politique composée d'une grande partie des mouvements de gauche français, dont la SFIO, le Parti radical et le Parti communiste, a remporté les élections législatives françaises avec 57% des voix. De nombreuses grèves ont été organisées pour soutenir le front. Léon Blum, le chef de la SFIO, a été nommé Premier ministre.\n\nLeur programme s'articule autour de la défense de la démocratie, notamment par leur opposition aux ligues d'extrême droite, leur pacifisme, la mise en œuvre de nombreuses réformes sociales telles que les congés payés ainsi que la volonté de relancer l'économie en développant la consommation."
+ france.152.a:0 "Tout est possible !"
+ france.152.b:0 "Bonne chance à eux"
+ france.152.c:0 "Ils ne sont rien de plus que des bolcheviks dégoûtants"
+ 
  FRA_economic_reforms:0 "Réformes économiques"
  FRA_economic_reforms_desc:0 "L'économie française est dans une situation précaire. Nous devons engager des réformes économiques pour éliminer l'inflation, stabiliser le franc et réduire le déficit national."
  FRA_devaluation:0 "Dévaluation du franc"

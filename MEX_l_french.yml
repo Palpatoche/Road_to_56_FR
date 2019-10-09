@@ -921,18 +921,6 @@
  para_tech:0 "Paratroopers"
  
  ###NAMES
- MEX_fascism:0 "Mexique synarchiste"
- MEX_fascism_DEF:0 "le Mexique synarchiste"
- MEX_democratic:0 "États-Unis du Mexique"
- MEX_democratic_DEF:0 "les États-Unis du Mexique"
- MEX_neutrality:0 "Mexique"
- MEX_neutrality_DEF:0 "le Mexique"
- MEX_communism:0 "République syndicaliste mexicaine"
- MEX_communism_DEF:0 "la République syndicaliste mexicaine"
- MEX_fascism_ADJ:0 "mexicain"
- MEX_democratic_ADJ:0 "mexicain"
- MEX_neutrality_ADJ:0 "mexicain"
- MEX_communism_ADJ:0 "mexicain"
  USA_MEX_autonomy_dominion:0 "Dominion d'Amérique du Nord"
  USA_MEX_autonomy_colony:0 "41 colonies"
  USA_MEX_autonomy_puppet:0 "Territoires mexicains d'Amérique du Nord"
