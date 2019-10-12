@@ -390,7 +390,7 @@
  FRA_rewrite_protectorate_treaties_desc:0 "Les traités que la France impose au Maroc et à la Tunisie étaient déséquilibrés et ne suivent pas le credo de la République. Il est temps de mettre fin à l'ancienne zone impérialiste française."
  FRA_rewrite_protectorate_treaties_tooltip:0 "Le §YMaroc§! et la §YTunisie§! vont devenir des §YÉtats associés§!. Ils pourront aussi faire des priorités politiques sans conditions et s'enfermer dans une diplomatie pro-française."
  FRA_autonomy_indochina:0 "Autonomie pour l'Indochine"
- FRA_autonomy_indochina_desc:0 "Les pays de la région Indochine sont la perle de l'empire colonial français, mais rien n'a été fait sur le plan politique depuis la colonisation. Nous devons y remédier."
+ FRA_autonomy_indochina_desc:0 "Les pays de la région d'Indochine sont la perle de l'empire colonial français, mais rien n'a été fait sur le plan politique depuis la colonisation. Nous devons y remédier."
  FRA_autonomy_indochina_tooltip:0 "Le §YViêt Nam§!, le §YCambodge§! et le §YLaos§! vont devenir des §YÉtats associés§!. Ils pourront aussi faire des priorités politiques sans conditions et s'enfermer dans une diplomatie pro-française."
  FRA_self_government_for_the_colonies:0 "Auto-administration coloniale"
  FRA_self_government_for_the_colonies_desc:0 "Nous devrions accorder plus d'autonomie aux provinces d'outre-mer qui ne sont pas fortement liées à la France. Une collectivité locale est plus efficace pour gérer l'administration loin de la France."
