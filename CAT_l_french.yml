@@ -3,14 +3,14 @@
  CAT_deploy_the_aragonese_fleet:0 "Déployer la flotte aragonaise" 
 
  CAT_fascism:0 "État catalan"
- CAT_fascism_DEF:0 "L'État catalan"
+ CAT_fascism_DEF:0 "l'État catalan"
  CAT_democratic:0 "République catalane"
- CAT_democratic_DEF:0 "La République catalane"
+ CAT_democratic_DEF:0 "la République catalane"
  CAT_neutrality:0 "Catalogne"
- CAT_neutrality_DEF:0 "La Catalogne"
+ CAT_neutrality_DEF:0 "la Catalogne"
  CAT_communism:0 "République populaire catalane"
- CAT_communism_DEF:0 "La République populaire catalane"
- CAT_fascism_ADJ:0 "Catalan"
+ CAT_communism_DEF:0 "la République populaire catalane"
+ CAT_fascism_ADJ:0 "catalan"
 
  
  CAT_miquel_badia:0 "Miquel Badia"

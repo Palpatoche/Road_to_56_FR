@@ -8,7 +8,7 @@
 
  ARM_liberators:0 "Libérateur de l'Arménie"
  
- Armenian_question_category:0 "La Question Arménienne"
+ Armenian_question_category:0 "La question arménienne"
  Armenian_question_category_desc:0 "Le sort du peuple arménien était déjà au cœur des discussions autour du traité de Versailles, mais les aspirations du nationaliste arménien ont été balayées par le traité de Kars et l'oppression soviétique. De nombreux Arméniens vivent en exil et espèrent qu'un jour, une Arménie libre apparaîtra à nouveau sur les cartes." 
  ARM_form_armenian_national_council:0 "Former un conseil national arménien"
  ARM_establish_armenian_legion:0 "Recruter une légion arménienne"
@@ -298,10 +298,10 @@
  ARM_event.6.desc:0 "Même si la livraison a été retardée, les chasseurs promis ont finalement été livrés."
  ARM_event.6.a:0 "Excellent !"
  ARM_event.7.t:0 "Les volontaires arméniens veulent rentrer !"
- ARM_event.7.desc:0 "Les unités de volontaires ont été formées dans le but de combattre l'[SOV.GetName] et de libérer l’Arménie. Avec la défaite de l'état [SOV.GetAdjective], ces volontaires ont le sentiment que leur mission est accomplie et ils veulent être renvoyés chez eux."
+ ARM_event.7.desc:0 "Les unités de volontaires ont été formées dans le but de combattre [SOV.GetLeLaLNP] [SOV.GetName] et de libérer l’Arménie. Avec la défaite de l'État [SOV.GetAdjMS], ces volontaires ont le sentiment que leur mission est accomplie et ils veulent être renvoyés chez eux."
  ARM_event.7.a:0 "Les convaincre de rester un peu plus longtemps" 
  ARM_event.7.b:0 "Dissoudre leur unité." 
  ARM_event.8.t:0 "Les volontaires rentrent chez eux !"
- ARM_event.8.desc:0 "Après des combats héroïques pour assurer la libération de notre patrie de l'oppression étrangère, les volontaires qui ont répondu à l'appel de se battre pour [ROOT.GetName] sont rentrés chez eux. Ils ont défilé dans le centre-ville sous les aclamations de la foule."
+ ARM_event.8.desc:0 "Après des combats héroïques pour assurer la libération de notre patrie de l'oppression étrangère, les volontaires qui ont répondu à l'appel de se battre pour [ROOT.GetLeLaLNP] [ROOT.GetName] sont rentrés chez eux. Ils ont défilé dans le centre-ville sous les aclamations de la foule."
  ARM_event.8.a:0 "Nous nous sommes libérés !"
  
