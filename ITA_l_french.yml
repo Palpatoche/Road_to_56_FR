@@ -161,7 +161,7 @@
 
 
  r56_italy.28.t:0 "Le Front de Stresa refusé"
- r56_italy.28.d:0 "Le gouvernement de [From.GetName] a décidé de rejeter notre proposition de Front de Stresa. Aussi devrons nous continuer sans leur aide."
+ r56_italy.28.d:0 "Le gouvernement [From.GetAdjMS] a décidé de rejeter notre proposition de Front de Stresa. Aussi devrons nous continuer sans leur aide."
  r56_italy.28.a:0 "Nous poursuivrons notre chemin sans eux..."
 
  r56_italy.29.t:0 "Le Budget de la Regia Marina en question"
@@ -170,7 +170,7 @@
  r56_italy.29.b:0 "Le budget est très bien comme il est."
  r56_italy.29.c:0 "Concentrons-nous encore plus sur la Regia Marina !"
 
- r56_italy.30.t:0 "Evénement pour décider si Italo Balbo meurt"
+ r56_italy.30.t:0 "Événement pour décider si Italo Balbo meurt"
  r56_italy.30.d:0 "Vous n'êtes pas censés voir ça"
  r56_italy.30.a:0 "Ok"
 
