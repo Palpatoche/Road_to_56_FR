@@ -3,9 +3,9 @@
 l_french:
  
  ###---> Decisions <><> <><> <><>
- r56_decision_category_lootbox: "Alfie's Lootbox Emporium"
- r56_decision_category_lootbox_desc: "Arrêtez-vous un instant et achetez des boîtes à butin pour débloquer des produits incroyables qui n'affectent absolument pas le gameplay ! Cet marché n'est pas responsable des dommages causés à votre compte personnel de Poids politique."
- r56_decision_lootbox_openbox: "Ouvrir la boîte à butin"
+ r56_decision_category_lootbox: "Marché des boîtes à butin d'Alfie"
+ r56_decision_category_lootbox_desc: "Arrêtez-vous un instant et achetez des boîtes à butin pour débloquer des produits incroyables qui n'affectent absolument pas le gameplay ! Ce marché n'est pas responsable des dommages causés à votre compte personnel de poids politique."
+ r56_decision_lootbox_openbox: "Ouvrir une boîte à butin"
  r56_tooltip_lootbox_openbox: "Un avion arrivera et lâchera une boîte à butin déverrouillée qui contient des gadgets qui n'auront aucun impact sur le gameplay !\n\nA une chance extrêmement rare de contenir une récompense §YMYTHIQUE§! ! Au cours du mois d'octobre et au début de novembre, vous avez une chance supplémentaire de recevoir une récompense §MHANTÉE§! !\n\n§RCette blague prendra fin en novembre.§!"
  
  ###---> Tooltips <><> <><> <><>
