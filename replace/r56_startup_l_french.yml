@@ -4,23 +4,23 @@ l_french:
 
  ###---> Welcome to the Road! <><> <><> <><>
  r56.startup.event.01.title: "Bienvenue sur la Route !"
- r56.startup.event.01.description: "Salutations de la part de l'Équipe de Road to 56 !\n\nS'il vous plaît, aidez-nous à rendre votre expérience de jeu aussi optimale que possible en indiquant si cette session est pour un jeu multijoueur ou non. Cela nous aide vraiment à équilibrer tout et à réduire les bugs.\n\nMerci de jouer à notre mod, et passez une bonne journée !"
+ r56.startup.event.01.description: "Salutations de la part de l'équipe de Road to 56 !\n\nS'il vous plaît, aidez-nous à rendre votre expérience de jeu aussi optimale que possible en indiquant si cette session est pour un jeu multijoueur ou non. Cela nous aide vraiment à tout équilibrer et à réduire les bugs.\n\nMerci de jouer à notre mod, et passez une bonne journée !"
  r56.startup.event.01.option_yes: "Multijoueur"
  r56.startup.event.01.option_no: "Un joueur"
  
  ###---> 500K Subscribers <><> <><> <><>
- r56.startup.event.02.title: "500K Abonnés"
+ r56.startup.event.02.title: "500K abonnés"
  r56.startup.event.02.description: "Au cours du mois de septembre, nous avons officiellement atteint le nombre d'abonnements de 500K sur le Steam Workshop ! Nous aimerions remercier tout le monde pour le soutien incroyable que nous avons reçu au cours des derniers mois, en particulier nos Patrons et tous les Youtubers/streamers qui ont joué au mod. Aussi, tous nos artistes et collaborateurs très talentueux pour avoir rendu possible tout ce désordre chaotique !\n\nPour fêter ça, on va vous donner du gâteau ! Sérieusement. Un gâteau en esprit national. Celui-ci n'est pas un mensonge. Pour ceux d'entre vous qui n'aiment pas les gâteaux (ou qui ne font que jouer au jeu sérieusement), alors vous pouvez choisir de refuser cette offre !"
  r56.startup.event.02.option_yes: "J'adore le gâteau !"
  r56.startup.event.02.option_no: "Je n'aime pas les gâteaux et je veux jouer le jeu normalement, merci."
  r56.startup.event.02.option_no_lootbox: "Je n'aime pas les gâteaux. J'aime les boîtes à butin."
  
- r56_tooltip_startup_yes: "Commencez le jeu avec un esprit national appelé §YGâteau des 500k§!, qui vous offre des bonus plutôt sympas. Pourquoi ne pas vous dire quels bonus ? Ça fait partie de la surprise !"
+ r56_tooltip_startup_yes: "Commencez le jeu avec un esprit national appelé §Ygâteau des 500K§!, qui vous offre des bonus plutôt sympas. Pourquoi ne pas vous dire quels bonus ? Ça fait partie de la surprise !"
  r56_tooltip_startup_no: "Démarre le jeu normalement sans magouilles, surprises ou boîtes à butin."
  r56_tooltip_startup_no_lootbox: "Commence le jeu avec des décisions de §Yboîte à butin§!. Que les chances soient à jamais en votre faveur."
  
  ###---> Milestone Cake (Limited Time) <><> <><> <><>
- r56_milestone_cake_idea: "Gâteau des 500k"
+ r56_milestone_cake_idea: "Gâteau des 500K"
  r56_milestone_cake_idea_desc: "On aurait pu te mentir. Il est très possible que ce gâteau soit un mensonge. Alors profites-en tant que ça dure. Il contient plusieurs bonus pour continuer à étendre votre armée et causer des destructions dans le monde entier ! Maintenant, quand on y pense... on n'est peut-être pas très doués pour ce truc de « cadeau gratuit »."
  
 #####-----> End of File <><> <><> <><> <><> <><>

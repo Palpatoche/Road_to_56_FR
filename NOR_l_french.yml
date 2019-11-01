@@ -679,7 +679,7 @@
  
  naw_norway.50.t:0 "[From.GetName] proposes a Deal"
  naw_norway.50.d:0 "After Norway was separated from the Danish Kingdom in 1814, the treaty of Kiel gave us possession of their former North Atlantic islands, Greenland, Iceland, and the Faroes. While there has been disagreements on this with the temporary occupation of eastern Greenland by Norwegian irredentists, the Norwegians have now come to us diplomatically, albeit with different demands.\n\nIn return for transferring their former islands of the Faroes and Iceland back to them, the Norwegians will drop their claims on Greenland, defend us in the case of an attack from the Germans, and also help negotiate the return of Slesvig and parts of Holsten should the opportunity arrise. While the demands are quite extensive, the North Atlantic Islands are not the most economically important area of our country, and a return of Slesvig would have proven much more profitable. Should we accept or reject this proposal, or mayhaps propose a compromise, seeing the demands are quite extensive?"
- naw_norway.50.a:0 "Accept, and throw in Greenland as well. We should befriend our kindred people in the North at any cost!
+ naw_norway.50.a:0 "Accept, and throw in Greenland as well. We should befriend our kindred people in the North at any cost!"
  naw_norway.50.b:0 "Accept. The islands were Norwegian, and Slesvig-Holsten would be of more value to us"
  naw_norway.50.c:0 "Negotiate to keep Iceland. The deal is very much in Norway's favour currently"
  naw_norway.50.e:0 "Refuse such a deal, only the Norwegians would see immediate benefit here..."
@@ -1014,7 +1014,7 @@
  naw_news.101.c:0 "This is downright unbelivable!"
  
  naw_news.102.t:0 "The Fall of Helsinki"
- naw_news.102.d:0 "Reports from Southern Finland now confirm that the Finnish capital has been captured by advancing Norwegian troops.\n\nSmall arms fire can still be heard from some boroughs and the outskirts, but no significant Finnish forces have been sighted within the city.\n\nStill, a detachment of Norwegian snipers has taken up positions near the University of Helsinki, limiting the possibilities of Finnish counterattacks in the area anyways. The Finnish Government and other high ranking officials seem to have evacuated before the fighting hit Helsinki as well.\n\nNow the Finns have also seen Norwegians added to the list of foreign rulers of Helsinki, among the Swedes and Russians.
+ naw_news.102.d:0 "Reports from Southern Finland now confirm that the Finnish capital has been captured by advancing Norwegian troops.\n\nSmall arms fire can still be heard from some boroughs and the outskirts, but no significant Finnish forces have been sighted within the city.\n\nStill, a detachment of Norwegian snipers has taken up positions near the University of Helsinki, limiting the possibilities of Finnish counterattacks in the area anyways. The Finnish Government and other high ranking officials seem to have evacuated before the fighting hit Helsinki as well.\n\nNow the Finns have also seen Norwegians added to the list of foreign rulers of Helsinki, among the Swedes and Russians."
  naw_news.102.a:0 "[NOR.GetNameDefCap] can project power quite far from their home country it would seem..."
  naw_news.102.b:0 "The Finns must fall in line now."
  naw_news.102.c:0 "What do the Norwegians even want here?"
