@@ -8,6 +8,16 @@ l_french:
  AUXILIARY_ARMOR:0 "BLINDAGE AUXILIAIRE"
 ##################################################################
 
+## trying to fix base game decimetric radar tech
+  decimetric_radar:0 "Radar décimétrique"
+
+
+### Extra tech categories
+  torpedo_equipment:0 "Torpedo Technologies"  
+  refining_tech:0 "Refining Technologies"
+  naval_armor_tech:0 "Naval Armor Technologies"
+  naval_gunnery_tech:0 "Naval Gunnery Technologies"
+
 ### Extra Special Forced Tech Categories
  r56_desert_infantry_tech:0 "Infanterie du désert"
  r56_jaeger_infantry_tech:0 "Chasseur à pied"

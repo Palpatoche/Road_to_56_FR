@@ -32,6 +32,17 @@
  SOV_liberty_ethos_desc:0 ""
  SOV_strike_the_riech:0 "Frapper le Reich"
  SOV_strike_the_riech_desc:0 ""
+ 
+ SOV_reclaim_polish_overlordship:0 "Réclamer la suprématie polonaise"
+ SOV_solve_the_karelian_question:0 "Résoudre la question carélienne"
+ SOV_reclaim_bessarabia:0 "Récupérer la Bessarabie"
+ SOV_rule_over_the_mongols:0 "Régner sur les Mongols"
+ SOV_crush_our_eastern_rival:0 "Écraser notre rival de l'Est" 
+ SOV_our_american_holding:0 "Notre participation américaine" 
+ SOV_interventionism_focus:0 "Interventions à l'étranger"
+ SOV_neutrality_focus:0 "Tourner vers l'intérieur"
+ SOV_Brigades:0 "Brigades de volontaires"
+ SOV_why_we_fight:0 "Pourquoi nous combattons"
 
  #Trotsky Tree (Focuses & Desc)
  SOV_trotskyite_victory:0 "Victoire trotskiste"
@@ -299,7 +310,7 @@
  yes_politcal_people_open:0 "Des exilés politiques ont participé au coup d'État"
  SOV_five_year_punishment_fired:0 "N'a pas réussi à faire les cinq ans"
  yes_generals_open:0 "Des généraux exilés ont participé au coup d'État"
- SOV_counter_coup_tt:0 "Le régime communiste [SOV.GetAdjMS] va être §Yrenversé§! et le §Gsystème communiste démantelé.§! Une fois que nous nous sommes engagés dans le coup d'État §Ril n'y a pas de retour en arrière possible.§! "
+ SOV_counter_coup_tt:0 "Le régime communiste [SOV.GetAdjMS] va être §Yrenversé§! et le §Gsystème communiste démantelé.§!"
  SOV_mass_immunizations_happened_1:0 "Vaccinations de masse"
 
  #tags

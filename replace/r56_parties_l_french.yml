@@ -3,18 +3,48 @@
  #NEW
  corporatism:0 "Corporatisme"
  corporatism_desc:0 "Selon l'idéologie corporatiste, les travailleurs et les employeurs seraient organisés en sociétés industrielles et professionnelles représentant leurs intérêts au niveau de l'État. Le corporatisme a une démocratie fondamentale, mais le peuple est fortement séparé des dirigeants du pays par plusieurs niveaux de hiérarchie."
- centrism_democratic:0 "Centrisme Démocratique"
- centrism_democratic_desc:0 "Le centrisme est une forme de gouvernement qui veut trouver des solutions sensées qui répondent de manière appropriée aux besoins actuels et futurs, qui renforcent la confiance du public et servent le bien commun en tenant compte du risque et de la capacité compte tenu de ces besoins."
+ centrism_democratic:0 "Centrisme démocratique"
+ centrism_democratic_desc:0 "Le §Ycentrisme§! est une forme de gouvernement visant à trouver des §Ysolutions basées sur le bon sens§!, qui répondent de manière pertinente aux besoins actuels et futurs. Cela renforce la §Mconfiance du public§! et sert le §Hbien commun§! en prenant en considération les risques et les moyens en fonction des besoins."
+ absolute_monarchism:0 "Monarchisme absolu"
+ absolute_monarchism_desc:0 "Une §Ymonarchie absolue§! est une forme de monarchie dans laquelle le monarque §Ydétient l'autorité autocratique suprême§!, principalement pas limitée par des lois ou des coutumes. Ce sont souvent des monarchies héréditaires."
+ 
 
  #FIXES
- neutrality:0 "Autoritarisme"
- neutrality_noun:0 "Autoritaire"
- neutrality_desc:0 "Régime Autoritaire"
+ neutrality:0 "autoritaire"
+ neutrality_noun:0 "autoritaire"
+ neutrality_desc:0 "Régime autoritaire"
  despotism:0 "Despotisme"
- despotism_desc:0 "Le despotisme est une forme de gouvernement dans laquelle une seule personne dirige avec un pouvoir absolu."
+ despotism_desc:0 "Le §Ydespotisme§! est une forme de gouvernement dans laquelle §Mune seule personne§! dirige avec un §Rpouvoir absolu§!."
  oligarchism:0 "Oligarchisme"
- oligarchism_desc:0 "L'oligarchisme est une forme de gouvernement dans laquelle un groupe de personnes dirige avec un pouvoir absolu."
-
+ oligarchism_desc:0 "L'§Yoligarchisme§! est une forme de gouvernement dans laquelle §Mun groupe de personnes§! dirige avec un §Rpouvoir absolu§!."
+ conservatism:0 "Conservatisme"
+ conservatism_desc:0 "Considérant comme trop rapides et potentiellement dangereuses les évolutions de la société, le §Yconservatisme§! s'attache au respect des §Mtraditions et à des réformes modérées§!, prônant parfois un retour aux §Ganciennes valeurs morales§!."
+ liberalism:0 "Libéralisme"
+ liberalism_desc:0 "S'appuyant sur une longue tradition philosophique mettant l'accent sur les §Mlibertés individuelles§!, le §Ylibéralisme§! considère que le premier rôle de l'État est la sauvegarde des droits acquis."
+ socialism:0 "Socialisme"
+ socialism_desc:0 "Cherchant à établir une plus grande §Réquité et un État socialiste§! par le biais des réformes, la §Ysocial-démocratie§! vise à atténuer, voire empêcher par des moyens politiques légaux les effets du capitalisme."
+ marxism:0 "Marxisme"
+ marxism_desc:0 "S'appuyant sur un large panel de considérations économiques et historiques, le §Ymarxisme§! entend mettre en pratique les §Rthéories élaborées par Karl Marx§!. Cette idéologie se définit par la §Hlutte des classes§! et le passage à une société reposant sur la §Mpropriété commune§! des moyens de production."
+ leninism:0 "Léninisme"
+ leninism_desc:0 "Idéologie politique puisant ses racines dans le marxisme, le §Yléninisme§! entend établir un État socialiste grâce à un §Rparti avant-gardiste§! capable de mener la Révolution pour renverser la société capitaliste. Une fois arrivé au pouvoir, ce parti gouverne en soumettant les politiques à un débat interne, jusqu'à ce qu'une décision ait été prise."
+ stalinism:0 "Stalinisme"
+ stalinism_desc:0 "Se présentant comme un régime politique appliquant et développant les politiques marxistes-léninistes, le §Ystalinisme§! met l'accent sur une §Mindustrialisation§! et une §Rcollectivisation rapides§! ainsi que sur la nécessité de disposer d'un §YÉtat socialiste autoritaire§!, capable de neutraliser tous les éléments contre-révolutionnaires."
+ anti_revisionism:0 "Anti-révisionnisme"
+ anti_revisionism_desc:0 "S'opposant aux nombreuses idéologies se revendiquant du marxisme, l'§Yanti-révisionnisme§! conserve les éléments clés de la théorie révolutionnaire originelle. S'opposant en premier lieu à l'incorporation d'éléments économiques capitalistes dans les États socialistes, cette idéologie se définit autant par ce qu'elle est que par ce qu'elle n'est pas."
+ anarchist_communism:0 "Anarcho-communisme"
+ anarchist_communism_desc:0 "Considérant le communisme comme une §Rsociété sans État§!, l'§Yanarcho-communisme§!, ou communisme libertaire, refuse l'idée d'un État socialiste transitoire, lui préférant une société basée sur l'§Massociation volontaire§! et l'§Raide mutulle§! entre les individus."
+ nazism:0 "Nazisme"
+ nazism_desc:0 "Issu d'un §Gnationalisme extrémiste§!, le §Ynational-socialisme§! prône l'idée d'une §Gsuprématie germanique§!. Il promeut un §Yexpansionnisme agressif§! et un §RÉtat totalitaire§!, où le peuple est uni derrière un dirigeant disposant d'un pouvoir absolu : le §WFührer§!."
+ fascism_ideology:0 "Fascisme"
+ fascism_ideology_desc:0 "Regroupant divers §Gmouvements ultranationalistes§!, le §Yfascisme§! prône généralement le §Mdévouement envers l'État§! et l'union du peuple derrière un §Ydirigeant autoritaire§!."
+ falangism:0 "Phalangisme"
+ falangism_desc:0 "Idéologie autoritaire empruntant à la fois au fascisme et au conservatisme, le §Yphalangisme§! prône les valeur de l'identité nationale et du §Rcatholicisme§!."
+ rexism:0 "Rexisme"
+ rexism_desc:0 "S'opposant radicalement aux idéaux libéraux et communistes, le §Yrexisme§! est un mouvement fondamentalement §Mconservateur nationaliste§! en faveur de politiques économiques §Gcorporatistes§!. Usant d'une rhétorique populiste et autoritaire, ses idéaux se rapprochent d'autres mouvements fascistes."
+ moderatism:1 "Modérantisme"
+ moderatism_desc:1 "Le §Ymodérantisme§! est une forme de gouvernement qui §Mévite les extrêmes de gauche et de droite§! en adoptant une §Mposition ou des mesures modérées§!."
+ centrism:1 "Centrisme"
+ centrism_desc:1 "Le §Ycentrisme§! est une forme de gouvernement visant à trouver des §Ysolutions basées sur le bon sens§!, qui répondent de manière pertinente aux besoins actuels et futurs. Cela renforce la §Mconfiance du public§! et sert le §Hbien commun§! en prenant en considération les risques et les moyens en fonction des besoins."
  #ALB
  ALB_neutrality_party:0 "Constitutionnalistes"
  ALB_neutrality_party_long:0 "Constitutionnalistes"
@@ -71,9 +101,14 @@
  #CHL
  CHL_fascism_party:0 "VPS"
  CHL_fascism_party_long:0 "Vanguardia Popular Socialista"
- CHL_democratic_party:0 "Partido Liberal"
+ CHL_democratic_party:0 "Partido Radical"
+ CHL_democratic_party_long:0 "Partido Radical"
  CHL_communism_party:0 "PCCh"
  CHL_communism_party_long:0 "Partido Comunista de Chile"
+ 
+ # CHI
+ CHI_democratic_party:0 "Kuomintang (C)"
+ CHI_democratic_party_long:0 "Kuomintang (Civil)"
 
  #COG
  COG_neutrality_party:0 "GGC"
@@ -98,8 +133,8 @@
  CZE_national_unity_party_long:0 "Parti de l'Unité Nationale"
 
  #ECU
- ECU_democratic_party:0 "Ecuador"
- ECU_democratic_party_long:0 "República del Ecuador"
+ ECU_democratic_party:0 "Régime Páez"
+ ECU_democratic_party_long:0 "Régime Páez"
  ECU_communism_party:0 "PCE"
  ECU_communism_party_long:0 "Partido Comunista del Ecuador"
 
@@ -154,6 +189,16 @@
  #GUA
  GUA_ubico_fascist_long:0 "Régimen de Jorge Ubico"
  GUA_ubico_fascist:0 "Régimen de Jorge Ubico"
+ GUA_neutrality_party:0 "PLP"
+ GUA_neutrality_party_long:0 "Partido Liberal Progresista"
+
+ #DOM
+ DOM_neutrality_party:0 "Partido Dominicano"
+ DOM_neutrality_party_long:0 "Partido Dominicano"
+
+ #ELS
+ ELS_neutrality_party:0 "Pro-Patria"
+ ELS_neutrality_party_long:0 "Pro-Patria"
 
  #GXC
  GXC_neutrality_party:0 "Nouvelle Clique du Guangxi"
@@ -191,6 +236,10 @@
  MAN_neutrality_party:0 "Restaurateurs"
  MAN_RFP_rebelled_party:0 "RFP"
  MAN_RFP_rebelled_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ 
+ #IRQ
+ IRQ_neutrality_party:0 "Maison Hashim"
+ IRQ_neutrality_party_long:0 "Maison Hashim"
 
  #MOR
  MOR_neutrality_party:0 "Dynastie Alaouite"
@@ -215,6 +264,8 @@
  #PAR
  PAR_communism_party:0 "PRF"
  PAR_communism_party_long:0 "Partido Revolucionario Febrerista"
+ PAR_democratic_party:0 "Partido Liberal"
+ PAR_democratic_party_long:0 "Partido Liberal"
 
  #PER
  PER_democratic_party:1 "Jebhei"

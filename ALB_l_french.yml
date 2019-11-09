@@ -301,3 +301,7 @@
  albania.13.d:0 "Nos camarades du Parti du Travail d'Albanie ont fait de grands progrès. La nation albanaise est prête à rejoindre le Komintern."
  albania.13.a:0 "Laissons nos camarades nous rejoindre !"
  albania.13.b:0 "Ils ne sont pas encore prêts."
+ 
+ #Decisions
+ ALB_reintegrate_gjirokaster:0 "Réintégrer Gjirokastër"
+ ALB_reintegrate_gjirokaster_desc:0 "Nous avons enfin libéré notre patrie des griffes viles de nos anciens seigneurs supérieurs ! Avant la libération de nos frères, Gjirokastër était sous l'occupation de la Grèce et a été extrêmement réprimé et intégré artificiellement dans leur nation. Il faudra un certain temps pour renverser les effets de leur occupation, mais c'est pour le bien de tous."

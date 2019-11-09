@@ -1,5 +1,8 @@
 ﻿l_french:
 
+ #POLITICS
+ AUS_fascism_ideology_desc:0 "L'§Yaustrofascisme§! est le système autoritaire installé en Autriche avec la Constitution de mai 1934. Il est basé sur un parti au pouvoir, le §YFront patriotique§! (Vaterländische Front) et la milice paramilitaire §YHeimwehr§! (Garde nationale), et épouse le §Hcatholicisme d'État§!, §Gcorporatisme§! et §Mnationalisme autrichien§!."
+
  #FOCUS
  AUS_subsidize_STRABAG_construction:0 "Subventionner la construction de STRABAG"
  AUS_subsidize_STRABAG_construction_desc:0 "Peu importe le nombre de ressources utilisées, l’Autriche ne peut produire que rapidement de nouvelles installations militaires. Nous devons sécuriser davantage d’actifs industriels, tels que ceux que possède STRABAG SE. Leur aide sera inestimable pour que nous avancions dans l’industrie."

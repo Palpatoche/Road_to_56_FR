@@ -3,10 +3,10 @@
  #####-----> Game Rules Localization <><> <><> <><> <><> <><>
 
  ###---> Country Boosts <><> <><> <><>
- CUSTOM_DIFFICULTY_GROUP_NAME:0 "Boosts de pays (NOUVEAU)"
+ CUSTOM_DIFFICULTY_GROUP_NAME:0 "Boosts de pays"
 
  ###---> Focus Tree Selection <><> <><> <><>
- RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Sélection des arbres des priorités (NOUVEAU : @MEX)"
+ RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Sélection des arbres des priorités"
 
  RULE_OPTION_R56_TREE:0 "Arbre des priorités de Road to 56"
  RULE_OPTION_R56_TREE_DESC:0 "Utiliser l'arbre de priorités par défaut de Road to 56 qui est inclu dans le mod."
@@ -14,11 +14,11 @@
  RULE_OPTION_STANDARD_TREE_DESC:0 "Utiliser l'arbre de priorités standard. Inclut des ajustements et des changements mineurs."
 
  HOL_FOCUS_TREE_SELECTION:0 "@HOL Pays-Bas"
- MEX_FOCUS_TREE_SELECTION:0 "@MEX Mexico (NEW)"
+ MEX_FOCUS_TREE_SELECTION:0 "@MEX Mexico"
  SAF_FOCUS_TREE_SELECTION:0 "@SAF Afrique du Sud"
 
  ###---> AI Behavior <><> <><> <><>
- RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA (RAMENÉ EN ARRIÈRE : @FRA @ITA)"
+ RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA"
  RULE_OPTION_DEFAULT_AI_DESC:0 "L'IA prendra des décisions basées sur d'autres paramètres de gameplay, tels que l'option de forcer les priorités historiques et d'autres scénarios de gameplay."
  RULE_OPTION_MONARCHIST:0 "Monarchiste"
 
@@ -27,7 +27,7 @@
  RULE_OPTION_VISIT_GERMANY_ENG_AI_DESC:0 "L'IA Britannique ordonnera une Visite d'État en Allemagne et deviendra fasciste en empruntant la voie appropriée dans l'arbre des priorités."
 
  #-> FRA: France <><>
- FRA_AI_BEHAVIOR:0 "@FRA France (NOUVEAU)"
+ FRA_AI_BEHAVIOR:0 "@FRA France"
  RULE_OPTION_DEMOCRATIC_LITTLE_ENTENTE_FRA:0 "Démocratique - Petite Entente"
  RULE_OPTION_DEMOCRATIC_LITTLE_ENTENTE_FRA_AI_DESC:0 "L'IA française soutiendra Blum et établira l'alliance de la Petite Entente, en empruntant le chemin approprié dans l'arbre des priorités nationales."
  RULE_OPTION_DEMOCRATIC_HISTORICAL_FRA_AI_DESC:0 "L'IA française soutiendra Daladier, suivra le statu quo et rejoindra les Alliés, en empruntant le chemin approprié dans l'arbre des priorités nationales."
@@ -49,7 +49,7 @@
  RULE_OPTION_FASCIST_HISTORICAL_GER_AI_DESC:0 "L'IA allemande remilitarisera la Rhénanie et élargira son Lebensraum et suivra de près l'histoire, en empruntant le chemin approprié dans l'arbre des priorités nationales."
 
  #-> ITA: Italy <><>
- ITA_AI_BEHAVIOR:0 "@ITA Italie (NOUVEAU)"
+ ITA_AI_BEHAVIOR:0 "@ITA Italie"
  RULE_OPTION_FASCIST_HISTORICAL_ITA_AI_DESC:0 "L'IA italienne va (essayer de) gagner en Éthiopie et poursuivre sa lente expansion militaire en Europe avant de s'allier avec l'Allemagne, en empruntant la voie appropriée dans l'arbre des priorités nationales."
  RULE_OPTION_FASCIST_STRESA_FRONT:0 "Fasciste - Raviver le front de Stresa"
  RULE_OPTION_FASCIST_STRESA_FRONT_ITA_AI_DESC:0 "L'IA italienne tentera d'amener la Grande-Bretagne et la France à relancer le Front de Stresa en réponse à l'hostilité croissante de l'Allemagne et se concentrera sur la protection de l'Europe, en empruntant la voie appropriée dans l'arbre des priorités nationales."
@@ -57,7 +57,7 @@
  RULE_OPTION_FASCIST_ROME_PROTOCOLS_ITA_AI_DESC:0 "L'IA italienne tentera de militariser les protocoles de Rome avec l'Autriche et la Hongrie. Ceci sera suivi d'une tentative d'expansion territoriale en Europe et d'une faction croissante de membres latins, en empruntant la voie appropriée dans l'arbre des priorités nationales."
 
  #-> MEX: Mexico <><>
- MEX_AI_BEHAVIOR:0 "@MEX Mexique (RAMENÉ EN ARRIÈRE)"
+ MEX_AI_BEHAVIOR:0 "@MEX Mexique"
  
  #-> SIA: Siam <><>
  SIA_AI_BEHAVIOR:0 "@SIA Siam"

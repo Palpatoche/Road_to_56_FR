@@ -116,6 +116,7 @@
  SAF_support_kenya:0 "Soutenir le Kenya"
  SAF_support_mozambique:0 "Soutenir le Mozambique"
  SAF_support_zimbabwe:0 "Soutenir le Zimbambwe"
+ SAF_give_smuts_field_command:0 "Donner un commandement militaire à Jan Smuts"
 
 #Tooltips
 SAF_republicanism:0 "Républicanisme sud-africain"
@@ -182,3 +183,7 @@ SAF_event.5.t:0 "Référendum pour l'indépendance"
 SAF_event.5.d:0 "Même si en termes de gestion de l'État nous sommes devenus indépendants, il y a toujours la question de nos relations avec le Royaume-Uni. Nous pourrions devenir des alliés à égalité avec eux. Cependant si nous le faisons le Premier Ministre Hertzog démissionnera au profit du commandant et politicien pro-Britannique Jan Smuts."
 SAF_event.5.a:0 "Nous avons toujours besoin des Britanniques."
 SAF_event.5.b:0 "Nous n'avons pas besoin d'eux."
+
+SAF_event.6.t:0 "Jan Smuts prend sa retraite"
+SAF_event.6.desc:0 "Pressé par le gouvernement en raison de son alignement idéologique clair, Jan Smuts a été contraint de démissionner de son poste de commandement et de quitter le pays."
+SAF_event.6.a:0 "Nous ne le regretterons pas."

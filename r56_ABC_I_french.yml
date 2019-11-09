@@ -1,8 +1,5 @@
 ﻿l_french:
 
-  
-  refining_tech:0 "Technologies de raffinage"
-
   #Focues
   ABC_establish_a_general_staff:0 "L'État-major [ROOT.GetAdjMS]"
   ABC_establish_a_general_staff_desc:0 " "

@@ -1,4 +1,9 @@
 ﻿l_french:
+
+ form_prussia_category:0 "Former la Prusse"
+ form_prussia_category_desc:0 "L'histoire de Dantzig est largement mêlée à celle de la Prusse. Maintenant que nous contrôlons les territoires qui lui sont historiquement associés, il est peut-être temps pour nous d'assumer notre héritage prussien."
+ form_prussia:0 "Former la Prusse"
+ 
  DNZ_fascism:0 "Ville libre de Dantzig"
  DNZ_fascism_DEF:0 "la Ville libre de Dantzig"
  DNZ_democratic:0 "République de Dantzig"

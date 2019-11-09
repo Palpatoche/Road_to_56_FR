@@ -73,7 +73,7 @@ r56_collect_civilian_aluminium_utensils_desc:0 "L'aluminium est un matériau ess
 
  xp_conversion_carriers:0 "§H150§!£navy_experience  §H50§!£air_experience  §H10§!£pol_power"
  xp_conversion_carriers_blocked:0 "§R150§!£navy_experience  §R50§!£air_experience  §R10§!£pol_power"
- xp_conversion_carriers_tooltip:0 "Cela coûte 150§£navy_experience  50§£air_experience  et 10£pol_power de sélectionner cela."
+ xp_conversion_carriers_tooltip:0 "Cela coûte 150£navy_experience  50£air_experience  et 10£pol_power de sélectionner cela."
 
  land_combat_report_analyzed:0 "Rapports de combat terrestre analysés"
  air_combat_report_analyzed:0 "Rapports de combat aérien analysés"
