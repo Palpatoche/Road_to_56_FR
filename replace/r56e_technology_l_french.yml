@@ -13,10 +13,11 @@ l_french:
 
 
 ### Extra tech categories
-  torpedo_equipment:0 "Torpedo Technologies"  
-  refining_tech:0 "Refining Technologies"
-  naval_armor_tech:0 "Naval Armor Technologies"
-  naval_gunnery_tech:0 "Naval Gunnery Technologies"
+  torpedo_equipment:0 "Technologies de torpilles"  
+  refining_tech:0 "Technologies de raffinage"
+  refining_tech_research:0 "Vitesse de recherche sur le raffinage de carburant"
+  naval_armor_tech:0 "Technologies de blindage naval"
+  naval_gunnery_tech:0 "Technologies d'armement naval"
 
 ### Extra Special Forced Tech Categories
  r56_desert_infantry_tech:0 "Infanterie du désert"
@@ -224,6 +225,8 @@ l_french:
  rubber_plant_b_desc:0 "D'autres améliorations de notre processus de production synthétique ont permis d'obtenir des rendements encore plus élevés."
  rubber_plant_c:0 "Usine de caoutchouc avancée"
  rubber_plant_c_desc:0 "Nous pouvons maintenant produire de grandes quantités de caoutchouc à partir de nos usines de pointe, et à un prix très bon marché."
+ rubber_plant_d:0 "Usine de caoutchouc moderne"
+ rubber_plant_d_desc:0 ""Nous pouvons maintenant produire de grandes quantités de caoutchouc à partir de nos usines de pointe, et à un prix très bon marché."
  
  
 ###------> Landing Craft   <><> <><> <><> <><> <><>

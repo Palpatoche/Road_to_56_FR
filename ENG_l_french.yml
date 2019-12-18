@@ -1,6 +1,7 @@
 ﻿l_french:
 #Country Stuff
-
+ENG_establish_the_colony_of_aden:0 "Établir la colonie d'Aden"
+ENG_establish_the_colony_of_aden_desc:0 "Le port d'Aden est l'un des plus importants dans le commerce entre l'Inde, l'Europe et l'Extrême-Orient. La loi de 1935 sur le Gouvernement indien prévoyait le transfert du contrôle de ce port directement au Gouvernement de Londres, alors qu'il était auparavant administré comme une province du Commissaire en chef. Les derniers préparatifs sont maintenant terminés pour l'établissement d'Aden en tant que colonie séparée."
 #Focus
 ENG_war_with_ussr:0 "Opération impensable"
 #Custom Tooltips
@@ -32,6 +33,7 @@ ENG_blackburn_aircraft:0 "Blackburn Aircraft"
 ENG_general_aircraft_limited:0 "General Aircraft Limited"
 ENG_bristol:0 "Bristol Aeroplane Company"
 ENG_gloster_aircraft:0 "Gloster Aircraft"
+ENG_ROF_nottingham:0 "ROF Nottingham"
 #Traits
 
 #Misc

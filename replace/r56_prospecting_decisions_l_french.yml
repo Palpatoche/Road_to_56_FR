@@ -1,5 +1,6 @@
 ﻿l_french:
-
+#Maybe add Anina-Doman oil field shale oil in Romania but apparently was not exploited
+#sacel oil field
  generic_resource_extraction_effort:0 "Efforts d'extraction de ressources"
 
  SOV_replace_baku_with_volga_ural_basin:0 "Remplacer le pétrole de Bakou par le pétrole du bassin de la Volga-Oural"
@@ -56,7 +57,12 @@
  exploit_norman_wells:0 "Exploiter Norman Wells"
  exploit_virden_oil:0 "Exploiter le pétrole de Virden"
  exploit_budafapuszta_oil:0 "Exploiter le pétrole découvert à Budafapuszta"
- exploit_nagylengyel_oil:0 "Exploiter le pétrole découvert à Nagylengyel" 
+ exploit_nagylengyel_oil:0 "Exploiter le pétrole découvert à Nagylengyel"
+ exploit_nagykanizsa_oil:0 "Extraction de pétrole de Nagykanizsa"
+ expand_exploitation_of_nagykanizsa_oil:0 "Expansion de l'exploitation du champ pétrolier de Nagykanizsa"
+ exploit_derna_shale_mine:0 "Exploiter la mine de schiste de Derna"
+ exploit_ticleni_oil_field:0 "Exploiter le champ pétrolier de Ticleni"
+ exploit_sacel_oil_field:0 "Exploiter le gisement pétrolier de Sacel"
  expand_yumen_oil_field:0 "Étendre le gisement de pétrole de Yumen"
  develop_paraiba_tungsten_deposits:0 "Développer les dépôts de tungstène de Paraïba"
  develop_rio_grande_do_norte_tungsten_deposits:0 "Développer les dépôts de tungstène du Rio Grande do Norte"
@@ -128,7 +134,12 @@
  exploit_norman_wells_wtt:0 "Exploiter Norman Wells"
  exploit_virden_oil_wtt:0 "Exploiter le pétrole de Virden"
  exploit_budafapuszta_oil_wtt:0 "Exploiter le pétrole découvert à Budafapuszta"
- exploit_nagylengyel_oil_wtt:0 "Exploiter le pétrole découvert à Nagylengyel" 
+ exploit_nagylengyel_oil_wtt:0 "Exploiter le pétrole découvert à Nagylengyel"
+ exploit_nagykanizsa_oil_wtt:0 "Extraction de pétrole de Nagykanizsa"
+ expand_exploitation_of_nagykanizsa_oil_wtt:0 "Expansion de l'exploitation du champ pétrolier de Nagykanizsa"
+ exploit_derna_shale_mine_wtt:0 "Exploiter la mine de schiste de Derna"
+ exploit_ticleni_oil_field_wtt:0 "Exploiter le champ pétrolier de Ticleni"
+ exploit_sacel_oil_field_wtt:0 "Exploiter le gisement pétrolier de Sacel"
  expand_yumen_oil_field_wtt:0 "Étendre le gisement de pétrole de Yumen"
  develop_paraiba_tungsten_deposits_wtt:0 "Développer les dépôts de tungstène de Paraïba"
  develop_rio_grande_do_norte_tungsten_deposits_wtt:0 "Développer les dépôts de tungstène du Rio Grande do Norte"

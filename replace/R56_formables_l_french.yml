@@ -72,6 +72,20 @@
  CEL_UNIFIED_democratic:0 "République celtique"
  CEL_UNIFIED_neutrality:0 "République celtique"
  CEL_UNIFIED_ADJ:0 "Celtique"
+ 
+ #It went so well the first time, lets try again.
+ recreate_belgium_category:0 "Recréer la Belgique"
+ recreate_belgium_category_desc:0 "Alors que l'histoire de la Belgique a été marquée par des tensions entre Flamands et Wallons, beaucoup pensent que nous ne pourrons pas survivre seuls alors que l'Europe est divisée sur le plan idéologique. Même s'ils parlent une autre langue, beaucoup pensent que nos anciens partenaires sont en fait nos partenaires les plus proches, comparés aux protestants néerlandais et allemands ou au français toujours centralisateur."
+ recreate_belgium:0 "Recréer la Belgique"
+ BEL_REUNIFIED_fascism:0 "État belge"
+ BEL_REUNIFIED_fascism_DEF:0 "l'État belge"
+ BEL_REUNIFIED_communism:0 "République des travailleurs de Belgique"
+ BEL_REUNIFIED_communism_DEF:0 "la République des travailleurs de Belgique"
+ BEL_REUNIFIED_neutrality:0 "République belge"
+ BEL_REUNIFIED_neutrality_DEF:0 "la République belge"
+ BEL_REUNIFIED_democratic:0 "Belgique"
+ BEL_REUNIFIED_democratic_DEF:0 "la Belgique"
+ BEL_REUNIFIED_ADJ:0 "belge"
 
  #Country Names#
  CAU_fascism:1 "Empire Transcaucasien"

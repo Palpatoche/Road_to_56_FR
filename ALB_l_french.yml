@@ -301,6 +301,10 @@
  albania.13.d:0 "Nos camarades du Parti du Travail d'Albanie ont fait de grands progrès. La nation albanaise est prête à rejoindre le Komintern."
  albania.13.a:0 "Laissons nos camarades nous rejoindre !"
  albania.13.b:0 "Ils ne sont pas encore prêts."
+ albania.14.t:0 "L'Albanie demande une garantie"
+ albania.14.d:0 "Le gouvernement albanais, soucieux de maintenir son indépendance en ces temps troublés, a souhaité approfondir les relations entre nos deux nations en mettant en place un traité défensif qui assurerait le maintien des frontières de l'Albanie."
+ albania.14.a:0 "L'Albanie a notre protection"
+ albania.14.b:0 "Nous n'avons aucun intérêt à défendre l'Albanie"
  
  #Decisions
  ALB_reintegrate_gjirokaster:0 "Réintégrer Gjirokastër"

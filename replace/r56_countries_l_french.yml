@@ -537,18 +537,18 @@
  EGY_democratic_ADJ:0 "égyptien"
 
  #EHA
- EHA_fascism:0 "Conseil autonome anticommuniste de l'est de l'Hebei"
+ EHA_fascism:0 "Conseil autonome anticommuniste de l'est du Hebei"
  EHA_fascism_ADJ:0 "chinois"
- EHA_fascism_DEF:0 "le Conseil autonome anticommuniste de l'est de l'Hebei"
- EHA_neutrality:0 "Conseil anti-japonais de l'est de l'Hebei"
+ EHA_fascism_DEF:0 "le Conseil autonome anticommuniste de l'est du Hebei"
+ EHA_neutrality:0 "Conseil anti-japonais de l'est du Hebei"
  EHA_neutrality_ADJ:0 "chinois"
- EHA_neutrality_DEF:0 "le Conseil anti-japonais de l'est de l'Hebei"
- EHA_democracy:0 "État démocratique de l'est de l'Hebei"
+ EHA_neutrality_DEF:0 "le Conseil anti-japonais de l'est du Hebei"
+ EHA_democracy:0 "État démocratique de l'est du Hebei"
  EHA_democracy_ADJ:0 "chinois"
- EHA_democracy_DEF:0 "l'État démocratique de l'est de l'Hebei"
- EHA_communism:0 "Commune de l'est de l'Hebei"
+ EHA_democracy_DEF:0 "l'État démocratique de l'est du Hebei"
+ EHA_communism:0 "Commune de l'est du Hebei"
  EHA_communism_ADJ:0 "chinois"
- EHA_communism_DEF:0 "la Commune de l'est de l'Hebei"
+ EHA_communism_DEF:0 "la Commune de l'est du Hebei"
 
  #ENG
  ENG_FRA_autonomy_puppet:0 "Bretagne"
@@ -618,9 +618,9 @@
  FRI_communism:0 "République démocratique d'Indochine"
  FRI_communism_ADJ:0 "indochinois"
  FRI_communism_DEF:0 "la République démocratique d'Indochine"
- FRI_fascism:0 "Empire du grand Viêt Nam"
+ FRI_fascism:0 "Empire du grand Vietnam"
  FRI_fascism_ADJ:0 "indochinois"
- FRI_fascism_DEF:0 "l'Empire du grand Viêt Nam"
+ FRI_fascism_DEF:0 "l'Empire du grand Vietnam"
  FRI_neutrality:0 "Indochine française"
  FRI_neutrality_ADJ:0 "indochinois"
  FRI_neutrality_DEF:0 "l'Indochine française"
@@ -958,6 +958,20 @@
  MLI_neutrality_ADJ:0 "malien"
  MLI_communism_ADJ:0 "malien"
 
+ MLT_fascism:0 "État maltais"
+ MLT_fascism_DEF:2 "l'État maltais"
+ MLT_democratic:0 "Malte"
+ MLT_democratic_DEF:0 "Malte"
+ MLT_neutrality:2 "Ordre souverain militaire de Malte"
+ MLT_neutrality_DEF:2 "l'Ordre souverain militaire de Malte"
+ MLT_communism:1 "Commune de Malte"
+ MLT_communism_DEF:1 "la Commune de Malte"
+ MLT_fascism_ADJ:1 "maltais"
+ MLT_democratic_ADJ:0 "maltais"
+ MLT_neutrality_ADJ:1 "hospitalier"
+ MLT_communism_ADJ:0 "maltais"
+
+
  #MMG
  MMGmen_fascism:0 "Gouvernement militaire mongol"
  MMGmen_fascism_DEF:0 "le Gouvernement militaire mongol"
@@ -1008,15 +1022,20 @@
  NGR_neutrality_ADJ:0 "nigérien"
  NGR_communism_ADJ:0 "nigérien"
 
+#NIC
+ NIC_democratic:0 "Nicaragua"
+ NIC_democratic_DEF:0 "le Nicaragua"
+ 
+
  #NIG
- NIG_fascism:0 "Royaume du Nigeria"
- NIG_fascism_DEF:0 "le Royaume du Nigeria"
- NIG_democratic:0 "Nigeria"
- NIG_democratic_DEF:0 "le Nigeria"
- NIG_neutrality:0 "Nigeria"
- NIG_neutrality_DEF:0 "le Nigeria"
- NIG_communism:0 "République socialiste du Nigeria"
- NIG_communism_DEF:0 "la République socialiste du Nigeria"
+ NIG_fascism:0 "Royaume du Nigéria"
+ NIG_fascism_DEF:0 "le Royaume du Nigéria"
+ NIG_democratic:0 "Nigéria"
+ NIG_democratic_DEF:0 "le Nigéria"
+ NIG_neutrality:0 "Nigéria"
+ NIG_neutrality_DEF:0 "le Nigéria"
+ NIG_communism:0 "République socialiste du Nigéria"
+ NIG_communism_DEF:0 "la République socialiste du Nigéria"
  NIG_fascism_ADJ:0 "nigérian"
  NIG_democratic_ADJ:0 "nigérian"
  NIG_neutrality_ADJ:0 "nigérian"
@@ -1362,14 +1381,14 @@
 
 
  #VEN
- VEN_fascism:0 "Venezuela"
- VEN_fascism_DEF:0 "le Venezuela"
- VEN_democratic:0 "République fédérale du Venezuela"
- VEN_democratic_DEF:0 "la République fédérale du Venezuela"
- VEN_neutrality:0 "Venezuela bolivarien"
- VEN_neutrality_DEF:0 "le Venezuela bolivarien"
- VEN_communism:0 "Venezuela international gauchiste"
- VEN_communism_DEF:0 "le Venezuela international gauchiste"
+ VEN_fascism:0 "Vénézuéla"
+ VEN_fascism_DEF:0 "le Vénézuéla"
+ VEN_democratic:0 "République fédérale du Vénézuéla"
+ VEN_democratic_DEF:0 "la République fédérale du Vénézuéla"
+ VEN_neutrality:0 "Vénézuéla bolivarien"
+ VEN_neutrality_DEF:0 "le Vénézuéla bolivarien"
+ VEN_communism:0 "Vénézuéla international gauchiste"
+ VEN_communism_DEF:0 "le Vénézuéla international gauchiste"
  VEN_fascism_ADJ:0 "vénézuélien"
  VEN_democratic_ADJ:0 "vénézuélien"
  VEN_neutrality_ADJ:0 "vénézuélien"
@@ -1379,7 +1398,7 @@
  VEN_BRA_subject:0 "Nova territoire andalou"
  VEN_BRA_autonomy_colony:0 "Nova territoire andalou"
  VEN_BRA_autonomy_integrated_puppet:0 "Nova territoire andalou"
- VEN_BRA_autonomy_dominion:0 "Venezuela brésilien"
+ VEN_BRA_autonomy_dominion:0 "Vénézuéla brésilien"
 
  #VLA
 #in Bel localization
@@ -1428,6 +1447,20 @@
  YHM_democratic:0 "République de Canton"
  YHM_democratic_DEF:0 "la République de Canton"
  YHM_democratic_ADJ:0 "cantonais"
+
+ #YUG
+ YUG_fascism:0 "Yougoslavie radicale"
+ YUG_fascism_DEF:0 "la Yougoslavie radicale"
+ YUG_democratic:0 "Confédération yougoslave"
+ YUG_democratic_DEF:0 "la Confédération yougoslave"
+ YUG_neutrality:0 "Royaume de Yougoslavie"
+ YUG_neutrality_DEF:0 "le Royaume de Yougoslavie"
+ YUG_communism:0 "RSF de Yougoslavie"
+ YUG_communism_DEF:0 "la République socialiste fédérative de Yougoslavie"
+ YUG_fascism_ADJ:0 "yougoslave"
+ YUG_democratic_ADJ:0 "yougoslave"
+ YUG_neutrality_ADJ:0 "yougoslave"
+ YUG_communism_ADJ:0 "yougoslave"
 
  #YUT
  YUT_neutrality:0 "Clique du Yue"

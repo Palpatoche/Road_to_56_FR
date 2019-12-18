@@ -1,6 +1,7 @@
 ﻿l_french:
  
  CAN_support_a_synarchist_baja:0 "Soutenir les communes synarchistes"
+ CAN_reopen_the_toronto_shipyards:0 "Réouvrir les chantiers navals de Toronto"
 
  #Scarborough’s General Engineering Company: mines, ammunition factory event airports
 
@@ -19,3 +20,7 @@
  CAN_boeing_of_canada:0 "Boeing of Canada"
  CAN_victory_aircraft:0 "Victory Aircraft"
  CAN_canadair:0 "Canadair"
+ CAN_imperial_oil_idea:0 "Imperial Oil"
+
+ CAN_ernest_james_renaud:0 "Ernest James Renaud"
+

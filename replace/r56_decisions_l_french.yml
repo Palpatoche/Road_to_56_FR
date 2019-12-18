@@ -3,10 +3,15 @@
  the_return_of_the_old_guard_category:0 "Le retour de la Vieille Garde"
  hold_the_neutrality_national_referendum:0 "Former un gouvernement réactionnaire"
 
-recruit_women_pilots:0 "Recruter des femmes pilotes"
-recruit_women_pilots_desc:0 "En cette heure fatidique pour notre nation, nous ne pouvons pas nous permettre d'abuser du talent de qui que ce soit. Les aviatrices ont suscité l'étonnement du public par leurs exploits dans les années 1930. Ils doivent maintenant être mobilisés pour la cause nationale et faire leur devoir aux côtés des hommes."
-r56_collect_civilian_aluminium_utensils:0 "Collecter des ustensiles civils en aluminium"
-r56_collect_civilian_aluminium_utensils_desc:0 "L'aluminium est un matériau essentiel pour l'effort de guerre. En cette période de besoin, il est nécessaire d'organiser des points de collecte pour que les vélos, pots et autres objets puissent être réutilisés pour l'effort de guerre."
+ recruit_women_pilots:0 "Recruter des femmes pilotes"
+ recruit_women_pilots_desc:0 "En cette heure fatidique pour notre nation, nous ne pouvons pas nous permettre d'abuser du talent de qui que ce soit. Les aviatrices ont suscité l'étonnement du public par leurs exploits dans les années 1930. Ils doivent maintenant être mobilisés pour la cause nationale et faire leur devoir aux côtés des hommes."
+ r56_collect_civilian_aluminium_utensils:0 "Collecter des ustensiles civils en aluminium"
+ r56_collect_civilian_aluminium_utensils_desc:0 "L'aluminium est un matériau essentiel pour l'effort de guerre. En cette période de besoin, il est nécessaire d'organiser des points de collecte pour que les vélos, pots et autres objets puissent être réutilisés pour l'effort de guerre."
+
+ r56_coordinate_land_equipment_manufacturers:0 "Coordonner les fabricants d'équipement terrestre"
+ r56_coordinate_naval_equipment_manufacturers:0 "Coordonner les fabricants d'équipement naval"
+ r56_land_equipment_manufacturers_coordination:0 "Coordination des fabricants d'équipement terrestre"
+ r56_naval_equipment_manufacturers_coordination:0 "Coordination des fabricants d'équipement naval" 
 
 
  combat_reports:0 "Rapports de combat"
