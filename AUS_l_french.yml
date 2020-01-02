@@ -188,6 +188,9 @@
 
  AUS_recreate_the_kuk_kriegsmarine:0 "Recréer la K.u.K Kriegsmarine"
  AUS_recreate_the_kuk_kriegsmarine_desc:0 "La marine de guerre royale et impériale était la marine autrichienne jusqu'à ce que nous ayons perdu l'accès à la mer après la Grande Guerre. Nous pouvons récupérer sa gloire passée, presque sans effort."
+ 
+ AUS_acquire_skoda_naval_artillery_experience:0 "Acquérir l'expérience de l'artillerie navale Skoda"
+ AUS_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus." 
 
  AUS_rijeka_naval_academy:0 "Académie navale de Rijeka"
  AUS_rijeka_naval_academy_desc:0 "Rijeka est l’une des plus grandes villes portuaires de la région croate et l’un des principaux atouts de la marine pour la cause austro-hongroise. Ils ne sont pas étrangers à la guerre maritime et navale, et nous pouvons prendre cette expertise à bord."

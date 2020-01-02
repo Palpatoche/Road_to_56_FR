@@ -328,9 +328,14 @@
  VEN_BRA_autonomy_reichsprotectorate_DEF:0 "les États des Caraïbes"
  VEN_BRA_autonomy_satellite_DEF:0 "les Territoires fédéraux des Caraïbes"
  VEN_BRA_autonomy_dominion_DEF:0 "la République fédérée du Venezuela"
+ 
+ BUL_neutrality:0 "Tsardom de Bulgarie"
+ BUL_democratic:0 "Tsardom de Bulgarie"
+ BUL_fascism:0 "Tsardom de Bulgarie"
+ BUL_republican_democratic:0 "République de Bulgarie"
 
  #CAN
- CAN_FRA_autonomy_puppet:0 "Québec"
+ CAN_FRA_autonomy_puppet:0 "Canada"
 
  #CAR
  CAR_fascism:0 "Royaume d'Afrique"
@@ -1169,6 +1174,20 @@
 
  #SAU -missing line base game
  SAU_neutrality_ADJ:0 "saudien"
+
+ #SAM
+ SAM_fascism:0 "État de Laponie"
+ SAM_fascism_DEF:0 "l'État de Laponie"
+ SAM_democratic:0 "République de Laponie"
+ SAM_democratic_DEF:0 "la République de Laponie"
+ SAM_neutrality:0 "Union de Laponie"
+ SAM_neutrality_DEF:0 "l'Union de Laponie"
+ SAM_communism:0 "Union des communautés de Laponie"
+ SAM_communism_DEF:0 "l'Union des communautés de Laponie"
+ SAM_fascism_ADJ:0 "lapon"
+ SAM_democratic_ADJ:0 "lapon"
+ SAM_neutrality_ADJ:0 "lapon"
+ SAM_communism_ADJ:0 "lapon"
 
  #SCA
  SCA_fascism:0 "Empire nordique"

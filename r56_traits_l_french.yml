@@ -41,6 +41,8 @@
  naval_industrial_concern:0 "Préoccupation navale industrielle"
  cheap_medium_aircraft_manufacturer:0 "Fabricant d'avions moyens pas cher"
  tank_manufacturer2:0 "Fabricant de chars"
+ spare_parts_tank_manufacturer:0 "Spécialiste des pièces de rechange pour chars"
+ licensed_medium_aircraft_manufacturer:0 "Fabricant agréé d'avions moyens"
 
 ##Leaders 
  tank_enthusiast:0 "Passionné de chars"

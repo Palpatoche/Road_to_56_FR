@@ -1,6 +1,6 @@
 ﻿l_french: 
 
- HUN_form_the_mdp:0 "Form The MDP"
+ HUN_form_the_mdp:0 "Former le MDP"
  HUN_form_the_mdp_desc:0 "Une réorganisation des partis politiques doit se faire en créant un front uni et en incluant les nombreux partis de gauche, avec le Parti communiste à sa tête."
  HUN_turn_the_adriatic_red:0 "Tourner l'Adriatique en rouge"
 
@@ -8,6 +8,8 @@
 
  HUN_expand_the_levente:0 "Développer le Levente"
  HUN_expand_the_levente_desc:0 "L'association Levente est une organisation paramilitaire qui existe depuis 1921, créée à l'origine à des fins d'entraînement physique et de santé, mais qui a ensuite été militarisée pour contourner les restrictions du traité de Trianon."
+ HUN_acquire_skoda_naval_artillery_experience:0 "Acquérir l'expérience de l'artillerie navale Skoda"
+ HUN_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus." 
 
 
  HUN_john_von_neumann:0 "János Lajos Neumann"
@@ -23,6 +25,7 @@
  HUN_generic_medium_aircraft_manufacturer:0 "Repülő Muszaki Intézet"
  HUN_generic_heavy_aircraft_manufacturer:0 "Repülő Muszaki Intézet"
  HUN_diosgyor_iron_and_steelworks:0 "Diósgyőr Iron and Steelworks"
+ HUN_generic_naval_aircraft_manufacturer:0 "AVIS"
 
  #kinda easter egg
  HUN_impose_admiralty_government_GER:0 "Imposer à l'Allemagne un gouvernement dirigé par l'amirauté"

@@ -1,12 +1,23 @@
 ﻿l_french:
 
+ RAJ_premier_construction:0 "Premier Construction"
  RAJ_indian_school_of_mines:0 "Indian School of Mines"
  RAJ_tata_steel:0 "Tata Steel"
 
  india.1.t:0 "La Grande-Bretagne prend le contrôle de l'Aden"
- india.1.d:0 "Le port d'Aden est l'un des plus importants dans le commerce entre l'Inde, l'Europe et l'Extrême-Orient. La loi de 1935 sur le Gouvernement indien prévoyait le transfert du contrôle de ce port directement au Gouvernement de Londres, alors qu'il était auparavant administré comme une province du Commissaire en chef. Le gouvernement britannique a maintenant officiellement pris le contrôle du port et l'a établi comme une colonie séparée."
+ india.1.desc:0 "Le port d'Aden est l'un des plus importants dans le commerce entre l'Inde, l'Europe et l'Extrême-Orient. La loi de 1935 sur le Gouvernement indien prévoyait le transfert du contrôle de ce port directement au Gouvernement de Londres, alors qu'il était auparavant administré comme une province du Commissaire en chef. Le gouvernement britannique a maintenant officiellement pris le contrôle du port et l'a établi comme une colonie séparée."
  india.1.a:0 "Comme prévu"
  
  r56_raj.1.t:0 "Nouveau gouverneur général"
  r56_raj.1.d:0 "Après avoir été vice-roi et gouverneur général de l'Inde pendant 5 ans, de 1931 à aujourd'hui, Freeman Freeman-Thomas, Lord Willingdon, doit être remplacé par Victor Alexander John Hope, Lord Linlithgow."
  r56_raj.1.a:0 "Compris."
+ 
+ RAJ_generic_tank_manufacturer:0 "Jamalpur Locomotive Workshop"
+ RAJ_generic_motorized_equipment_manufacturer:0 "Premier Automobiles"
+ #Did not really made planes
+ RAJ_generic_medium_aircraft_manufacturer:0 "Hindustan Motors" 
+ RAJ_munger_gun_factory:0 "Munger Gun Factory"
+ RAJ_assam_oil_company:0 "Assam Oil Company"
+ 
+
+ #Hinduja 

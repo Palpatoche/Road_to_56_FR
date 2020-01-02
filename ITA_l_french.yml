@@ -1,6 +1,10 @@
 ﻿l_french:
   # Ministers
  balbo_dead:0 "Italo Balbo est mort"
+ 
+ #flags
+
+ ITA_coming_march_2020:0 "§GSera disponible dans le patch de mars 2020§!"
 
  ITA_carlo_favagrossa:0 "Carlo Favagrossa"
  ITA_dino_alfieri:0 "Dino Alfieri"
@@ -12,6 +16,9 @@
  # Traits
  soldier_king:0 "Roi soldat"
 
+ #Tooltips
+
+ ITA_royal_intervention_tt:0 "Les loyalistes monarchistes et les personnes au sein de l'armée loyales envers le roi vont commencer une §Yguerre civile§! contre le fasciste."
 
  # Decisions
  ITA_foreign_policy_fascism:0 "Politique étrangère fasciste"
@@ -527,6 +534,10 @@
  ITA_naval_guerilla_desc:0 "Face à des flottes bien plus grandes que les nôtres, nous devons recourir à des tactiques vicieuses, en utilisant des formations navales plus petites pour harceler les navires ennemies dans des combats rapides et légers."
  ITA_shift_toward_an_offensive_force:0 "Se transformer en force offensive"
  ITA_shift_toward_an_offensive_force_desc:0 "Nous devons être en mesure de frapper les premiers afin que notre infériorité numérique ne se sente pas."
+ ITA_royal_intervention:0 "Intervention royale"
+ ITA_royal_intervention_desc:0 "Nous ne pouvons pas faire confiance au régime fasciste pour mener l'Italie vers la gloire. Les revers subis au début de notre guerre en Éthiopie étaient un signe clair de l'incapacité du parti fasciste à diriger. Nous devons chasser les fascistes et placer le pays sous le contrôle de notre grand roi !"
+ ITA_defenders_of_southern_europe:0 "Les défenseurs de l'Europe du Sud"
+ ITA_defenders_of_southern_europe_desc:0 "§GSera disponible dans le patch de mars 2020§! « En raison du voyage de SpicyAlfredo en Irlande, la sortie de cette branche a été retardée. » - l'équipe de Road to 56"
 
 
 #Leaders
@@ -583,3 +594,5 @@ pirelli:0 "Pirelli"
 #Traits
 ansaldo_tank_manufacturer:0 "Concepteur de chars"
 ansaldo_navy_manufacturer:0 "Architecte naval"
+
+ITA_RSI_fascism:0 "République sociale d'Italie"

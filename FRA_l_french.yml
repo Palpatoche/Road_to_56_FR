@@ -14,6 +14,9 @@
  FRAEMPIRE_neutrality:0 "Empire français"
  FRAEMPIRE_neutrality_DEF:0 "l'Empire français"
  continental_system:0 "Blocus continental"
+ FRA_the_american_napoleon:0 "Le Napoléon américain"
+ FRA_repatriate_the_remains_of_napoleon_ii:0 "Rapatrier les restes de l'Aiglon"
+ FRA_repatriate_the_remains_of_napoleon_ii_desc:0 "Napoléon II, prince de Rome, communément appelé « l'Aiglon », était le fils unique de Napoléon Ier et de Marie-Louise d'Autriche. Il est mort en 1832 et a été enterré à Vienne. Il est maintenant temps de réunir père et fils et de lui donner la sépulture impériale qu'il mérite au dôme des Invalides."
 
  france.150.d:0 "Suite à l'énorme appel à la grève lancé par la CGT, dont l'influence au cours des derniers mois avait atteint un point tel que le gouvernement a dû faire des compromis de plus en plus drastiques, des centaines de milliers de travailleurs se sont mobilisés à Paris vers le palais Bourbon, qui a rappelé pour beaucoup les émeutes du 6 février 1934. Cette dernière a ensuite forcé l'entrée au parlement alors que dans le reste de la ville, les débordements de l'armée et une forte violence ne pouvaient être contenus par la police. Sous la direction de Léon Jouhaux, cette dernière a déclaré la fin de la troisième République et la transition vers un régime anti-capitaliste et syndicaliste."
  france.150.a:0 "Les travailleurs contrôle maintenant la situation"
@@ -678,6 +681,8 @@
  FRA_pacific_protection_desc:0 "Les théoriciens de la marine ont attiré notre attention sur nos porte-avions obsolètes. Ils ont des suggestions sur la façon d'utiliser davantage les télécommunicateurs si le développement est poussé dans la bonne direction. De réels progrès ne peuvent être réalisés sans notre plein appui. Elle assurera le contrôle du Pacifique et aidera à protéger nos colonies contre le Japon."
  FRA_darlan_doctrine:0 "Doctrine de Darlan"
  FRA_darlan_doctrine_desc:0 "Les progrès récents dans la conception des navires ont ouvert de nouvelles options en matière de manœuvres tactiques et stratégiques. L'amiral Darlan a suggéré de nouvelles théories, nous devons les tester correctement et solidifier les plans avant que la guerre n'éclate."
+ FRA_naval_gunnery:0 "Artillerie navale"
+ FRA_naval_gunnery_desc:0 "Améliorer l'efficacité de notre équipement naval pour frapper plus fort et dominer les mers." 
  FRA_mediterranean_special_measures:0 "Mesures spéciales méditerranéennes"
  FRA_mediterranean_special_measures_desc:0 "Les italiens y renforcent leur marine et veulent étendre leur domination dans la mer Méditerranée. Si nous perdons notre ligne de défense en mer, nous risquons une invasion directe de notre patrie. Nous devons nous assurer que nos navires soient construits avec les technologies les plus récentes."
  FRA_standardisation_engine:0 "Standardisation des moteurs"

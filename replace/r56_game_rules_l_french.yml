@@ -131,7 +131,12 @@
  RULE_OPTION_POL_DECENTRALIZED:0 "Pologne décentralisée"
  RULE_OPTION_POL_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Pologne sont libérées en tant que nations fantoches dès le début de la partie."
  RULE_OPTION_POL_COMMONWEALTH:0 "Commonwealth polono-lituanien"
- RULE_OPTION_POL_COMMONWEALTH_DESC:0 "Le Commonwealth polono-lituanien vit jusqu'au XXe siècle et constitue un puissant rempart contre ses voisins totalitaires."
+ RULE_OPTION_POL_COMMONWEALTH_DESC:0 "Le Commonwealth polono-lituanien vit jusqu'au XXème siècle et constitue un puissant rempart contre ses voisins totalitaires."
+ SAM_LIBERATION_STATUS:0 "@SAM Libération de la Laponie"
+ RULE_OPTION_SAM_LIBERATED:0 "Laponie libérée"
+ RULE_OPTION_SAM_LIBERATED_DESC:0 "Tous les pays contrôlant des états nationaux lapons libéreront la Laponie, la capitale sera située au Norrland norvégien."
+ RULE_OPTION_SAM_LIBERATED_NOR_SWITCH:0 "Pour jouer avec la Laponie, sélectionnez la Norvège"
+ RULE_OPTION_SAM_LIBERATED_NOR_SWITCH_DESC:0 "Pour jouer avec la Laponie, sélectionnez la Norvège."
  KUR_LIBERATION_STATUS:0 "@KUR Libération du Kurdistan"
  RULE_OPTION_KUR_LIBERATED:0 "Kurdistan libéré"
  RULE_OPTION_KUR_LIBERATED_DESC:0 "Tous les pays contrôlant des états nationaux kurdes libéreront le Kurdistan, la capitale sera située au Kurdistan irakien."
@@ -152,5 +157,9 @@
 
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Le Honduras forme l'Amérique centrale"
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Tous les pays d'Amérique centrale sont annexés par le Honduras, vous obtenez des états nationaux sur ces pays et votre nom change pour les États-Unis d'Amérique centrale."
-
+  ###---> Gameplay Rules <><> <><> <><>
+ RULE_ALLOW_NATIONAL_CHARACTERS:0 "Personnages nationaux"
+ RULE_ALLOW_NATIONAL_CHARACTERS_ALLOWED_DESC:0 "Les pays sont libres d'utiliser les personnages nationaux"
+ RULE_ALLOW_NATIONAL_CHARACTERS_BLOCKED_DESC:0 "Les pays sont empêchés d'utiliser les personnages nationaux"
+ NATIONAL_CHARACTERS_BLOCKED:0 " Désactivation des personnages nationaux"
  #####-----> End of File <><> <><> <><> <><> <><>
