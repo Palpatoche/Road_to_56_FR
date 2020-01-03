@@ -12,7 +12,7 @@ l_french:
  r56_tooltip_patreon_leaders: "Place tous les généraux et dirigeants de pays du Patreon pour une utilisation par quiconque."
    
  ###---> Patreon Events <><> <><> <><>
- r56.event.patreon.01.title: "La Liste des Soldats"
+ r56.event.patreon.01.title: "La liste des soldats"
  r56.event.patreon.01.description: "Ces braves gens ont contribué à nos efforts et doivent être remerciés ! \n\n CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev et Wei !\n\n Merci beaucoup. Vous êtes les meilleurs et nous mourrions sans vos doux amour."
  r56.event.01.default: "Très bien !"
  r56.event.01.alternate: "D'accord, mais ne plus jamais montrer ça."

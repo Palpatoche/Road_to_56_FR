@@ -40,9 +40,9 @@
  CAT_fabrica_hidroavions_tarragona:0 "Fabrica Hidroavions Tarragona"
  CAT_commisio_dindustries_de_guerra:0 "Commisio Dindustries de Guerra"
  
- CAT_motorized_equipment_manufacturer:0 "Fabricant d'Équipement Motorisé"
- CAT_infantry_equipment_manufacturer:0 "Fabricant d'Équipement d'Infanterie"
- CAT_artillery_manufacturer:0 "Fabricant d'Artillerie"
+ CAT_motorized_equipment_manufacturer:0 "Fabricant d'équipement motorisé"
+ CAT_infantry_equipment_manufacturer:0 "Fabricant d'équipement d'infanterie"
+ CAT_artillery_manufacturer:0 "Fabricant d'artillerie"
  
  CAT_electroquimica_de_flix:0 "Electroquimica de Flix"
  
@@ -55,7 +55,7 @@
  CAT_carles_botet_i_vehi:0 "Carles Botet i Vehi"
  CAT_jaume_pahissa_i_bonoms:0 "Jaume Pahissa i Bonoms"
  
- CAT_fascist_demagogue:0 "Démagogue Fasciste"
+ CAT_fascist_demagogue:0 "Démagogue fasciste"
  
  CAT_guillermo_de_la_pena_cusi:0 "Guillermo de la Peña Cusi"
  CAT_jose_villalba_rubio:0 "José Villalba Rubio"
