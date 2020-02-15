@@ -62,6 +62,34 @@
  ARG_BRA_autonomy_colony:0 "Territoire de Plata"
  ARG_BRA_autonomy_integrated_puppet:0 "Territoire de Plata"
  ARG_BRA_autonomy_dominion:0 "Argentine brésilienne"
+ 
+ #AST
+ AST_fascism:0 "Centralist Australia"
+ AST_fascism_DEF:0 "Centralist Australia"
+ AST_democratic:0 "Australia"
+ AST_democratic_DEF:0 "Australia"
+ AST_neutrality:0 "Commonwealth of Australia"
+ AST_neutrality_DEF:0 "the Commonwealth of Australia"
+ AST_communism:0 "Australian People's Republic"
+ AST_communism_DEF:0 "the Australian People's Republic"
+ AST_fascism_ADJ:0 "Australian"
+ AST_democratic_ADJ:0 "Australian"
+ AST_neutrality_ADJ:0 "Australian"
+ AST_communism_ADJ:0 "Australian"
+
+ #AST_ALT
+ AST_ALT_fascism:0 "Free Australia"
+ AST_ALT_fascism_DEF:0 "Free Australia"
+ AST_ALT_democratic:0 "Australia"
+ AST_ALT_democratic_DEF:0 "Australia"
+ AST_ALT_neutrality:0 "Commonwealth of Australia"
+ AST_ALT_neutrality_DEF:0 "the Commonwealth of Australia"
+ AST_ALT_communism:0 "Australian People's Republic"
+ AST_ALT_communism_DEF:0 "the Australian People's Republic"
+ AST_ALT_fascism_ADJ:0 "Australian"
+ AST_ALT_democratic_ADJ:0 "Australian"
+ AST_ALT_neutrality_ADJ:0 "Australian"
+ AST_ALT_communism_ADJ:0 "Australian"
 
  #AUS
  AUS_fascism:0 "Autriche"
@@ -76,22 +104,18 @@
  AUS_neutrality_ADJ:0 "autrichien"
  AUS_democratic_ADJ:0 "autrichien"
  AUS_communism_ADJ:0 "autrichien"
- DEN_fascism:0 "Empire danois"
- DEN_fascism_DEF:0 "l'Empire danois"
- DEN_democratic:0 "Danemark"
- DEN_democratic_DEF:0 "le Danemark"
- DEN_neutrality:0 "Royaume du Danemark"
- DEN_neutrality_DEF:0 "le Royaume du Danemark"
- DEN_communism:0 "Union civile danoise"
- DEN_communism_DEF:0 "l'Union civile danoise"
- DEN_fascism_ADJ:0 "danois"
- DEN_democratic_ADJ:0 "danois"
- DEN_neutrality_ADJ:0 "danois"
- DEN_communism_ADJ:0 "danois"
+ 
  BAV_communism:0 "République du conseil bavarois"
  BAV_democratic:0 "État libre de Bavière"
  BAV_neutrality:0 "Royaume de Bavière"
  BAV_fascism:0 "Bavière"
+ BAV_communism_DEF:0 "la République du conseil bavarois"
+ BAV_democratic_DEF:0 "l'État libre de Bavière"
+ BAV_neutrality_DEF:0 "le Royaume de Bavière"
+ BAV_fascism:0 "Bavière" 
+ BAV_fascism_DEF:0 "la Bavière"
+ BAV_neutrality_ADJ:0 "bavarois"
+ 
  WUR_neutrality:0 "Wurtemberg"
  WUR_neutrality_DEF:0 "le Wurtemberg"
  WUR_neutrality_ADJ:0 "wurtembergeois"
@@ -235,9 +259,11 @@
  BRA_IDB_democratic:0 "Empire du Brésil"
  BRA_IDB_democratic_ADJ:0 "brésilien"
  BRA_IDB_democratic_DEF:0 "l'Empire du Brésil"
- BRA_IDB_communism:0 "Empire du Brésil"
+ BRA_IDB_communism:0 "République populaire du Brésil"
  BRA_IDB_communism_ADJ:0 "brésilien"
- BRA_IDB_communism_DEF:0 "l'Empire du Brésil"
+ BRA_IDB_communism_DEF:0 "la République populaire du Brésil"
+ 
+ 
 
  PAR_BRA_autonomy_integrated_puppet:0 "État du Mato Grosso occidental"
  PAR_BRA_autonomy_puppet:0 "État du Mato Grosso occidental"
@@ -702,9 +728,22 @@
  GER_communism:0 "République démocratique d'Allemagne"
  GER_communism_DEF:0 "la République démocratique d'Allemagne"
  GER_FRA_autonomy_dominion:0 "Protectorat allemand"
- GER_FRA_autonomy_colony:0 "Confédération du Rhin"
- GER_FRA_autonomy_puppet:0 "Confédération du Rhin"
- GER_FRA_autonomy_integrated_puppet:0 "Confédération du Rhin"
+ GER_FRA_autonomy_colony:0 "Protectorat allemand"
+ GER_FRA_autonomy_puppet:0 "Protectorat allemand"
+ GER_FRA_autonomy_integrated_puppet:0 "Protectorat allemand"
+ #GER_FRA_autonomy_colony:0 "Confédération du Rhin"
+ #GER_FRA_autonomy_puppet:0 "Confédération du Rhin"
+ #GER_FRA_autonomy_integrated_puppet:0 "Confédération du Rhin"
+ 
+GER_REUNITED_neutrality:0 "Empire allemand"
+GER_REUNITED_neutrality_DEF:0 "l'Empire allemand"
+GER_REUNITED_democratic:0 "République fédérale d'Allemagne"
+GER_REUNITED_democratic_DEF:0 "la République fédérale d'Allemagne"
+GER_REUNITED_communism:0 "République démocratique d'Allemagne"
+GER_REUNITED_communism_DEF:0 "la République démocratique d'Allemagne"
+GER_REUNITED_fascism:0 "État populaire allemand"
+GER_REUNITED_fascism_DEF:0 "l'État populaire allemand"
+GER_REUNITED_ADJ:0 "allemand"
 
  #GHA
  GHA_fascism:0 "Royaume du Ghana"
@@ -762,6 +801,22 @@
  #HCP
  HCPC_neutrality:0 "Conseil politique d'Hebei-Tchakhar"
  HCPC_neutrality_DEF:0 "le Conseil politique d'Hebei-Tchakhar"
+ 
+ #HYD
+ HYD_fascism:0 "État d'Hyderabad"
+ HYD_fascism_DEF:0 "l'État d'Hyderabad"
+ HYD_democratic:0 "Hyderabad"
+ HYD_democratic_DEF:0 "Hyderabad"
+ HYD_neutrality:0 "Deccan d'Hyderabad"
+ HYD_neutrality_DEF:0 "le Deccan d'Hyderabad"
+ HYD_communism:0 "République populaire d'Hyderabad"
+ HYD_communism_DEF:0 "la République populaire d'Hyderabad"
+ HYD_fascism_ADJ:0 "hyderabadien"
+ HYD_democratic_ADJ:0 "hyderabadien"
+ HYD_neutrality_ADJ:0 "hyderabadien"
+ HYD_communism_ADJ:0 "hyderabadien"
+
+
 
  #ICE
  ICE_fascism:0 "Islandsveldi"
@@ -783,6 +838,9 @@
  ICE_GER_fascism_autonomy_colony:0 "Reichscollony Island"
  ICE_GER_fascism_autonomy_reichskomissariat:0 "Reichskomissariat Island"
  ICE_GER_fascism_autonomy_reichsprotectorate:0 "Reichsprotektorat Island"
+ #IRE
+ IRE_free_state_democratic:0 "État libre d'Irlande"
+ IRE_free_state_democratic_DEF:0 "l'État libre d'Irlande"
 
  #IRQ
  IRQ_democratic:0 "République d'Irak"
@@ -948,6 +1006,12 @@
  #MCP
  MongalCouncilCtag_neutrality:0 "Comité politique mongol"
  MongalCouncilCtag_neutrality_DEF:0 "le Comité politique mongol"
+ 
+ #MEN
+ MEN_communism:0 "République populaire de Mongolie intérieure"
+ MEN_communism_ADJ:0 "mongol intérieur"
+ MEN_communism_DEF:0 "la République populaire de Mongolie intérieure"
+
 
  #MLI
  MLI_fascism:0 "Royaume du Mali"
@@ -980,6 +1044,10 @@
  #MMG
  MMGmen_fascism:0 "Gouvernement militaire mongol"
  MMGmen_fascism_DEF:0 "le Gouvernement militaire mongol"
+ 
+ #MON
+ MOR_fascism:0 "État de la Grande Mongolie"
+ MOR_fascism_DEF:0 "l'État de la Grande Mongolie"
 
  #MOR
  MOR_fascism:0 "Empire maure"
@@ -1065,6 +1133,12 @@
  NWND_communism_DEF:0 "le Gouvernement de la défense nationale du nord-ouest"
  NWND_fascism:0 "Gouvernement de la défense nationale du nord-ouest"
  NWND_fascism_DEF:0 "le Gouvernement de la défense nationale du nord-ouest"
+ 
+ OMA_fascism_ADJ:0 "omanais"
+ OMA_democratic_ADJ:0 "omanais"
+ OMA_neutrality_ADJ:0 "omanais"
+ OMA_communism_ADJ:0 "omanais"
+ 
 
  #PAR
  PAR_fascism:0 "Paraguay fébrériste"

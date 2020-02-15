@@ -104,7 +104,7 @@
  SOV_Mass_Immunizations_2:0 "Vaccinations massives"
  SOV_Mass_Immunizations_2_desc:0 ""
  SOV_rocket_focus:0 "Expérimentations de fusées"
- SOV_rocket_focus_desc:0 ""
+ SOV_rocket_focus_desc:0 "Essayons d'ajouter des boosters à nos avions et voyons si cela peut nous donner un avantage. Ces nouveaux moteurs semblent difficiles à produire, mais pourraient offrir un potentiel exceptionnel."
  SOV_nuke_focus:0 "Laboratoire n° 2"
  SOV_nuke_focus_desc:0 ""
  SOV_further_the_progress_cult:0 "Promouvoir le culte du progrès"
@@ -312,6 +312,7 @@
  yes_generals_open:0 "Des généraux exilés ont participé au coup d'État"
  SOV_counter_coup_tt:0 "Le régime communiste [SOV.GetAdjMS] va être §Yrenversé§! et le §Gsystème communiste démantelé.§!"
  SOV_mass_immunizations_happened_1:0 "Vaccinations de masse"
+ relocate_industry_from_leningrad:0 "L'industrie a été délocalisée de Leningrad"
 
  #tags
 

@@ -218,7 +218,7 @@
  #### FACTIONS ####
  latin_union:0 "Union latine"
  humanite_unie:0 "Humanité unie"
- french_empire:0 "Empire français"
+ montreux_convention:0 "Convention de Montreux"
  french_union:0 "Union française"
 
 	#### TECHNOLOGY SHARING ####
@@ -556,8 +556,8 @@
  FRA_cagoule_coup_desc:0 "La Cagoule est un groupe fasciste et anticommuniste qui a utilisé la violence pour promouvoir ses activités. Le mouvement clandestin est en contact avec certains officiers d'état-major et certains industriels les financent. Nous avons entendu dire qu'un coup d'État pourrait s'ensuivre, car certains officiers militaires appuient les mouvements antiparlementaires."
  FRA_state_reorganisation:0 "Réorganisation de l'État"
  FRA_state_reorganisation_desc:0 "Il faut repenser le rôle de l'État en France. Nous devrions abandonner toutes ces idéologies parlementaires et créer un parti fort et unique."
- FRA_claim_rhinland:0 "Revendiquer la Rhénanie"
- FRA_claim_rhinland_desc:0 "La menace allemande augmente d'année en année, nous devons créer un état tampon dans la partie gauche du Rhin."
+ FRA_claim_rhineland:0 "Revendiquer la Rhénanie"
+ FRA_claim_rhineland_desc:0 "La menace allemande augmente d'année en année, nous devons créer un état tampon dans la partie gauche du Rhin."
  FRA_woo_italy:0 "Ouah, l'Italie"
  FRA_woo_italy_desc:0 "L'Italie a le potentiel de devenir une nation puissante. Grâce au leadership fort de Mussolini, le peuple italien est uni et prêt à se battre pour la bonne cause. Que cette cause soit la nôtre."
  FRA_dismantle_germany:0 "Démanteler l'Allemagne"

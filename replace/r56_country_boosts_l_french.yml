@@ -241,6 +241,6 @@ l_french:
  custom_diff_strong_europe_north:0 "Renforcer l'Europe du Nord"
  custom_diff_strong_europe_west:0 "Renforcer l'Europe occidentale"
  custom_diff_strong_asia_east:0 "Renforcer l'Asie de l'Est"
- custom_diff_strong_asia_central: "Renforcer l'Asie centrale"
+ custom_diff_strong_asia_central:0 "Renforcer l'Asie centrale"
  
 #####-----> End of File <><> <><> <><> <><> <><>

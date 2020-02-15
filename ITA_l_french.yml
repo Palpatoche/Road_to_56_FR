@@ -144,9 +144,9 @@
  r56_italy.22.b:0 "Nous n'avons pas le temps pour une guerre en Albanie."
 
  r56_italy.23.t:0 "L'Italie demande la Dalmatie"
- r56_italy.23.d:0 "Citant les populations italiennes historiques dans la région dalmate, le gouvernement italien nous a envoyé une requête pour le retour de la province de Dalmatie à l'Italie, avec l'évacuation des troupes yougoslaves dans les 72 heures suivant le transfert du territoire. Des menaces de représailles militaires ont été lancées en cas de refus."
- r56_italy.23.a:0 "Si cela peut éviter une guerre, qu'il en soit ainsi."
- r56_italy.23.b:0 "Nous ne serons jamais séparés de nos frères slaves !"
+ r56_italy.23.d:0 "Citant les populations italiennes historiques dans la région dalmate, le gouvernement italien nous a envoyé une requête pour le retour de la province de Dalmatie à l'Italie, avec l'évacuation des troupes [ROOT.GetAdjFP] dans les 72 heures suivant le transfert du territoire. Des menaces de représailles militaires ont été lancées en cas de refus."
+ r56_italy.23.a:0 "Si cela évite une guerre, qu'il en soit ainsi."
+ r56_italy.23.b:0 "La Dalmatie nous appartient de plein droit !"
 
  r56_italy.24.t:0 "La Yougoslavie refuse d'abandonner la Dalmatie !"
  r56_italy.24.d:0 "Le gouvernement yougoslave nous a annoncé qu'il n'allait pas « se mettre à genoux devant un gouvernement qui ne souhaite pas respecter les populations slaves vivant en Dalmatie », et il y a une augmentation significative de la présence militaire dans la région et le long de notre frontière commune. Que devrions-nous faire ?"
@@ -189,6 +189,25 @@
  r56_italy.32.d:0 "La Grèce a occupé l'Albanie, notre futur tête de pont dans les Balkans. Comment devons nous répondre ?"
  r56_italy.32.a:0 "La guerre, maintenant !"
  r56_italy.32.b:0 "Ne frappons pas tout de suite."
+
+ r56_italy.100.t:0 "La formalisation du Front de Stresa"
+ r56_italy.100.d:0 "Des diplomates d'Italie, de France et du Royaume-Uni se sont réunis à Stresa, en Suisse, pour le dernier cycle de négociations sur le Front de Stresa contre l'Allemagne. La proposition sur la table est de formaliser le front comme une alliance militaire contre l'agression allemande et l'influence en Europe. Si les relations entre les pouvoirs démocratiques et le gouvernement fasciste italien ont été difficiles ces dernières années, les récents pourparlers ont été positifs. Alors que la France semble prête à adhérer, on craint que ce bloc de pouvoir n'affaiblisse l'indépendance diplomatique de la Grande-Bretagne."
+ r56_italy.100.a:0 "Ensemble, nous nous opposerons à l'Allemagne."
+ r56_italy.100.b:0 "L'accord actuel nous convient."
+
+ r56_italy.101.t:0 "Les Alliés rejoignent le Front de Stresa"
+ r56_italy.101.d:0 "Les représentants du Royaume-Uni et du Commonwealth britannique ont convenu d'officialiser le Front de Stresa."
+ r56_italy.101.a:0 "Excellent."
+
+ r56_italy.102.t:0 "Les alliés refusent de rejoindre le Front de Stresa"
+ r56_italy.102.d:0 "Les représentants du Royaume-Uni et du Commonwealth britannique ont décliné notre offre d'officialiser le Front de Stresa."
+ r56_italy.102.a:0 "C'est regrettable."
+
+ r56_italy.103.t:0 "La formalisation du Front de Stresa"
+ r56_italy.103.d:0 "Des diplomates d'Italie, de France et du Royaume-Uni se sont réunis à Stresa, en Suisse, pour le dernier cycle de négociations sur le Front de Stresa, visant à contrer l'agression et l'influence croissante de l'Allemagne en Europe. Alors que les relations entre les pouvoirs démocratiques et le gouvernement fasciste italien ont été difficiles ces dernières années, la récente déclaration commune officialisant une alliance militaire entre tous les signataires du Front de Stresa s'est avérée positive."
+ r56_italy.103.a:0 "Ensemble pour la victoire !"
+ r56_italy.103.b:0 "Ils se réunissent comme des moutons effrayés par un loup."
+ r56_italy.103.c:0 "Espérons qu'ils puissent travailler ensemble pour de bon."
 
  # Ideas
  ITA_lack_of_powered_planes:0 "Manque de moteurs puissants"
@@ -240,8 +259,8 @@
  ITA_the_desillusion_of_fascism_desc:0 "§RARRIVE BIENTÔT§!"
  ITA_revive_the_stresa_front:0 "Raviver le Front de Stresa"
  ITA_revive_the_stresa_front_desc:0 "Le Front de Stresa était un accord entre l'Italie, la France et le Royaume-Uni pour préserver l'indépendance de l'Australie, ainsi que pour réaffirmer le Traité de Versailles. Il est clair que les ambitions de l'Allemagne vont finir par se confronter aux nôtres, aussi devrions-nous nous unir contre elles."
- ITA_revive_the_stresa_front_tt:0 "Nous demanderons au §YRoyaume-Uni§! et à la §YFrance§! de reformer le §YFront de Stresa§! contre l'§YAllemagne§!\nTous deux doivent accepter l'offre, sans quoi la priorité sera §Yabandonnée§!"
- ITA_stresa_front_refused_flag:0 "La reformation du Front de Stresa a été refusée"
+ ITA_revive_the_stresa_front_tt:0 "Nous demanderons au §YRoyaume-Uni§! et à la §YFrance§! de reformer le §YFront de Stresa§! contre l'§YAllemagne§!. Tous deux doivent accepter l'offre, sans quoi la priorité sera §Rabandonnée§!.\n"
+ ITA_stresa_front_refused_flag:0 "La reformation du Front de Stresa a été refusée."
  ITA_leave_the_league_of_nations:0 "Quitter la Société des Nations"
  ITA_leave_the_league_of_nations_desc:0 "La Société des Nations, dont l'impuissance n'est plus à démontrer, a cependant jugé pertinent de condamner notre invasion de l'Éthiopie. Nous n'avons pas besoin de son soutien ou de sa validation pour savoir ce qui est bon pour l'Italie, et nous devrions en conséquence la quitter."
  ITA_move_toward_autarky:0 "S'orienter vers l'autarcie"
@@ -538,6 +557,9 @@
  ITA_royal_intervention_desc:0 "Nous ne pouvons pas faire confiance au régime fasciste pour mener l'Italie vers la gloire. Les revers subis au début de notre guerre en Éthiopie étaient un signe clair de l'incapacité du parti fasciste à diriger. Nous devons chasser les fascistes et placer le pays sous le contrôle de notre grand roi !"
  ITA_defenders_of_southern_europe:0 "Les défenseurs de l'Europe du Sud"
  ITA_defenders_of_southern_europe_desc:0 "§GSera disponible dans le patch de mars 2020§! « En raison du voyage de SpicyAlfredo en Irlande, la sortie de cette branche a été retardée. » - l'équipe de Road to 56"
+ ITA_formalise_the_front:0 "Officialiser le front"
+ ITA_formalise_the_front_desc:0 "Il est temps de faire du Front de Stresa plus qu'une simple promesse, il est temps d'unir nos nations dans une alliance militaire commune pour tenir la bête allemande à distance."
+ ITA_formalise_the_front_tt:0 "§YTous les pays§! qui sont dans la faction [ENG.GetDuDelaDelNP] §Y[ENG.GetName]§! rejoindront le §YFront de Stresa§! dirigé par §Y[ITA.GetNameDef]§!."
 
 
 #Leaders
@@ -596,3 +618,10 @@ ansaldo_tank_manufacturer:0 "Concepteur de chars"
 ansaldo_navy_manufacturer:0 "Architecte naval"
 
 ITA_RSI_fascism:0 "République sociale d'Italie"
+
+#Faction
+stresa_front_faction:0 "Front de Stresa"
+
+#Avanti!
+ABILITY_avanti:0 "Avanti !"
+ABILITY_avanti_desc:0 "Avanti ! Avanti !"

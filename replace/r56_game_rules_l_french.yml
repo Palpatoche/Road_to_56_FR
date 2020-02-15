@@ -13,6 +13,7 @@
  RULE_OPTION_STANDARD_TREE:0 "Arbre des priorités standard"
  RULE_OPTION_STANDARD_TREE_DESC:0 "Utiliser l'arbre de priorités standard. Inclut des ajustements et des changements mineurs."
 
+ AST_FOCUS_TREE_SELECTION:0 "@AST Australie"
  HOL_FOCUS_TREE_SELECTION:0 "@HOL Pays-Bas"
  MEX_FOCUS_TREE_SELECTION:0 "@MEX Mexico"
  SAF_FOCUS_TREE_SELECTION:0 "@SAF Afrique du Sud"
@@ -20,8 +21,21 @@
  ###---> AI Behavior <><> <><> <><>
  RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA"
  RULE_OPTION_DEFAULT_AI_DESC:0 "L'IA prendra des décisions basées sur d'autres paramètres de gameplay, tels que l'option de forcer les priorités historiques et d'autres scénarios de gameplay."
+ 
+ #-> Generic <><>
+ RULE_OPTION_AUTHORITARIAN:0 "Autoritaire"
+ RULE_OPTION_AUTHORITARIAN_HISTORICAL:0 "Autoritaire - Historique"
  RULE_OPTION_MONARCHIST:0 "Monarchiste"
+ RULE_OPTION_MONARCHIST_HISTORICAL:0 "Monarchiste - Historique"
+ 
+ #-> ALB: Albania <><>
+ ALB_AI_BEHAVIOR:0 "@ALB Albanie"
+ RULE_OPTION_MONARCHIST_HISTORICAL_ALB_AI_DESC:0 "L'IA albanaise soutiendra le roi et s'orientera vers une monarchie constitutionnelle, en empruntant la voie appropriée dans l'arbre des priorités."
 
+ #-> AUS: Austria <><>
+ AUS_AI_BEHAVIOR:0 "@AUS Autriche"
+ RULE_OPTION_AUTHORITARIAN_HISTORICAL_AUS_AI_DESC:0 "L'IA autrichienne ne se concentrera pas sur les affaires politiques, mais développera plutôt son industrie en suivant la voie appropriée dans l'arbre des priorités."
+ 
  #-> ENG: United Kingdom <><>
  RULE_OPTION_VISIT_GERMANY:0 "Visite d'État en Allemagne"
  RULE_OPTION_VISIT_GERMANY_ENG_AI_DESC:0 "L'IA Britannique ordonnera une Visite d'État en Allemagne et deviendra fasciste en empruntant la voie appropriée dans l'arbre des priorités."
@@ -43,6 +57,32 @@
  RULE_OPTION_MONARCHIST_ORLEANISTS_FRA_AI_DESC:0 "L'IA française rétablira la monarchie, se rangera du côté des Orléanistes et formera l'alliance de l'Union latine, en empruntant le chemin approprié dans l'arbre des priorités nationales."
  RULE_OPTION_MONARCHIST_BONAPARTISTS_FRA:0 "Monarchiste - Bonapartistes"
  RULE_OPTION_MONARCHIST_BONAPARTISTS_FRA_AI_DESC:0 "L'IA française rétablira la monarchie, se rangera du côté des Bonapartistes et établira le nouveau Système Continental, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+
+ #-> BEL: Belgium <><>
+ BEL_AI_BEHAVIOR:0 "@BEL Belgique"
+ RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN:0 "Démocratique - S'allier la Grande-Bretagne"
+ RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN_AI_DESC:0 "L'IA va essayer de former une alliance avec la Grande-Bretagne dès que possible." 
+ RULE_OPTION_DEMOCRATIC_BEL_BENELUX:0 "Démocratique - Former le Benelux"
+ RULE_OPTION_DEMOCRATIC_BEL_BENELUX_AI_DESC:0 "L'IA va essayer de diriger les démocraties du Benelux."
+ RULE_OPTION_COMMUNISM_BEL_COMINTERN:0 "Communiste - Rejoindre le Komintern"
+ RULE_OPTION_COMMUNISM_BEL_COMINTERN_AI_DESC:0 "L'IA va essayer de devenir communiste et de suivre les ordres de Moscou."
+ RULE_OPTION_COMMUNISM_BEL_INDEPENDENT:0 "Communiste - Révolution indépendante"
+ RULE_OPTION_COMMUNISM_BEL_INDEPENDENT_AI_DESC:0 "L'IA va essayer de devenir communiste et d'éviter Moscou."
+ RULE_OPTION_FASCISM_BEL_VERDINASO:0 "Fasciste - Verdinaso"
+ RULE_OPTION_FASCISM_BEL_VERDINASO_AI_DESC:0 "L'IA va essayer de devenir fasciste et de mettre Joris Van Severen dirigeant."
+ RULE_OPTION_FASCISM_BEL_REX:0 "Fasciste - Rex"
+ RULE_OPTION_FASCISM_BEL_REX_AI_DESC:0 "L'IA va essayer de devenir fasciste et de mettre Léon Degrelle dirigeant."
+
+  #-> CHL Chile <><>
+ CHL_AI_BEHAVIOR:0 "@CHL Chile"
+ RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY:0 "Neutrality - Liberal Party"
+ RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY_AI_DESC:0 "The Liberal Party will keep power"
+ RULE_OPTION_FASCISM_CHL:0 "Fascist"
+ RULE_OPTION_FASCISM_CHL_AI_DESC:0 "The Prussia of the South will embrace South American Nazism"
+ RULE_OPTION_COMMUNISM_CHL:0 "Communist"
+ RULE_OPTION_COMMUNISM_CHL_AI_DESC:0 "Become communist"
+
+
 
  #-> GER: Germany <><>
  GER_AI_BEHAVIOR:0 "@GER Reich allemand"
@@ -71,6 +111,17 @@
  RULE_OPTION_COMMUNIST_PEASANT_SIA_AI_DESC:0 "L'IA siamoise établira un régime communiste en construisant un socialisme destiné à leurs paysans et tentera de former une alliance avec d'autres nations communistes asiatiques, en empruntant la voie appropriée dans l'arbre des priorités nationales."
  RULE_OPTION_FASCIST_HISTORICAL_SIA_AI_DESC:0 "L'IA siamoise consolidera le Khana Ratsadon, s'inclinera davantage vers le fascisme et pourra s'allier à l'une des puissances de l'Axe, en empruntant le chemin approprié dans l'arbre des priorités nationales."
  RULE_OPTION_MONARCHIST_SIA_AI_DESC:0 "L'IA siamoise va restaurer la monarchie en faisant revenir Rama VII, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ 
+ #-> SWE: Sweden
+ SWE_AI_BEHAVIOR:0 "@SWE Suède"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL:0 "Démocratique - Historique"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_AI_DESC:0 "La Suède va essayer de rester neutre."
+ RULE_OPTION_COMMUNIST_SWE:0 "Communiste"
+ RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "L'IA va mettre les communistes au pouvoir." 
+ RULE_OPTION_FASCIST_SWE:0 "Fasciste"
+ RULE_OPTION_FASCIST_SWE_AI_DESC:0 "L'IA va mettre les nazis suédois au pouvoir."
+ RULE_OPTION_MONARCHIST_SWE:0 "Monarchiste"
+ RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Le roi prendra les pleins pouvoirs et formera la faction des aurores boréales."
 
  ###---> Map Fragmentation <><> <><> <><>
  RULE_GROUP_GAME_SETUP:0 "Fragmentation de la carte"
@@ -157,9 +208,26 @@
 
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Le Honduras forme l'Amérique centrale"
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Tous les pays d'Amérique centrale sont annexés par le Honduras, vous obtenez des états nationaux sur ces pays et votre nom change pour les États-Unis d'Amérique centrale."
+  
+ RULE_IDEOLOGY_JOIN_FACTION:0 "Rejoindre la faction d'une idéologie différente"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_DESC:0 "Vous ne pouvez rejoindre que des factions de la même idéologie ou par le biais de priorités/événements."
+ RULE_ALLOW_JOIN_FACTION_DESC:0 "Toute idéologie peut rejoindre n'importe quelle faction, si les circonstances s'y prêtent."
+ RULE_OPTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED:0 "Même idéologie - Sauf non-alignés"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Les pays ne peuvent rejoindre une faction que si celle-ci représente 30 % de l'idéologie dominante du chef de la faction, à l'exception des pays non alignés (autoritaires) ou par le biais de priorités/événements."
+ RULE_OPTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED:0 "Même idéologie - Sauf non-alignés"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Les pays ne peuvent rejoindre une faction que si celle-ci représente 30 % de l'idéologie dominante du chef de la faction, à l'exception des pays non alignés (autoritaires) ou par le biais de priorités/événements." 
+ RULE_OPTION_EVENTS_ONLY:0 "Événements seulement"
+ RULE_IDEOLOGY_JOIN_FACTION_EVENTS_ONLY_DESC:0 "Les pays ne rejoindront les factions que grâce à des événements ou à des priorités."
+ RULE_STARTING_FACTIONS:0 "Factions de départ"
+ RULE_OPTION_DEFAULT_STARTING_FACTIONS_DESC:0 "Les factions de départ ne seront pas touchées et bénéficieront de l'habituel Axe contre Alliés (contre Komintern contre la Sphère de coprospérité de la Grande Asie orientale)."
+ RULE_OPTION_DISBANDED:0 "Démantelées"
+ RULE_OPTION_STARTING_FACTIONS_DISBANDED_DESC:0 "Les factions de départ seront dissoutes dès le départ et le monde sera certainement encore plus chaotique."
+# RULE_OPTION_POPULARITY_FACTION_LEADER_IDEOLOGY:0 "Influence de l'idéologie du chef de la faction"
+# RULE_OPTION_POPULARITY_FACTION_LEADER_IDEOLOGY_DESC:0 "Vous ne pouvez rejoindre une faction que si vous avez 30% de l'idéologie du parti au pouvoir du leader de celle-ci."
+
   ###---> Gameplay Rules <><> <><> <><>
  RULE_ALLOW_NATIONAL_CHARACTERS:0 "Caractères nationaux"
  RULE_ALLOW_NATIONAL_CHARACTERS_ALLOWED_DESC:0 "Les pays sont libres d'utiliser les caractères nationaux"
  RULE_ALLOW_NATIONAL_CHARACTERS_BLOCKED_DESC:0 "Les pays sont empêchés d'utiliser les caractères nationaux"
- NATIONAL_CHARACTERS_BLOCKED:0 " Désactivation des caractères nationaux"
+ NATIONAL_CHARACTERS_BLOCKED:0 " Désactiver les caractères nationaux"
  #####-----> End of File <><> <><> <><> <><> <><>

@@ -26,6 +26,10 @@
  HUN_generic_heavy_aircraft_manufacturer:0 "Repülő Muszaki Intézet"
  HUN_diosgyor_iron_and_steelworks:0 "Diósgyőr Iron and Steelworks"
  HUN_generic_naval_aircraft_manufacturer:0 "AVIS"
+ HUN_ikarus:0 "Usine des forges et de l'atelier automobile d'Imre Uhri"
+
+ HUN_amphibious_tank_equipment_1:0 "Straussler V–4"
+ #
 
  #kinda easter egg
  HUN_impose_admiralty_government_GER:0 "Imposer à l'Allemagne un gouvernement dirigé par l'amirauté"

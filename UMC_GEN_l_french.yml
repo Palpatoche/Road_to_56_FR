@@ -159,6 +159,8 @@
  GEN_Small_Navy_desc:0 ""
  GEN_Submarine:0 "Nouveaux sous-marins modernes"
  GEN_Submarine_desc:0 ""
+ GEN_stealth_upgrades:0 "Amélioration de la furtivité"
+ GEN_stealth_upgrades_desc:0 ""
  GEN_Sea_Dominance:0 "Focus sur la domination maritime"
  GEN_Sea_Dominance_desc:0 ""
  GEN_Study_Ships:0 "Étudier la conception des navires étrangers"

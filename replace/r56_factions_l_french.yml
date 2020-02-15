@@ -33,3 +33,12 @@
  austria_neutrality_faction:0 "Pacte de Vénétie"
  austro_hungarian_faction:0 "Pacte de Vienne"
 
+
+ R56_FACTION_NAME_COMMUNIST_1:0 "Pacte de $CAPITAL$"
+ R56_FACTION_NAME_COMMUNIST_2:0 "Ligue révolutionnaire de $CAPITAL$"
+ R56_FACTION_NAME_FASCIST_1:0 "Pacte de $CAPITAL$"
+ R56_FACTION_NAME_DEMOCRATIC_1:0 "Ligue de défense de $CAPITAL$"
+ R56_FACTION_NAME_DEMOCRATIC_2:0 "Traité d'organisation de $CAPITAL$"
+#
+#GetRulingParty
+#GetRulingIdeology

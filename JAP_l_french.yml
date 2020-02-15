@@ -51,3 +51,11 @@
  
  JAP_redesign_the_naval_guns:0 "Modifier les canons de la marine"
  JAP_redesign_the_naval_guns_desc:0 "Afin de permettre la suprématie de nos navires, des canons modernes doivent être conçus, améliorant la portée et l'efficacité de nos honorables flottes."
+ 
+
+  r56_japan.1.t:0 "L'incident du 26 février" 
+  r56_japan.1.desc:0 "Il semble qu'une tentative de coup d'État ait été faite par de jeunes officiers de l'armée. Prétendant être une « armée vertueuse », ils ont tué de nombreux politiciens et critiques qui n'étaient pas d'accord avec leur rhétorique trop nationaliste. Nous avons réagi rapidement et avons mis fin à cette rébellion. Beaucoup des membres de ce coup d'état sont de la faction Kōdōha au sein de notre gouvernement et de notre armée."
+  r56_japan.1.a:0 "L'insurrection ne sera pas tolérée"
+  r56_japan.2.t:0 "Coopération technologique japonaise"
+  r56_japan.2.desc:0 "Afin d'assurer notre supériorité militaire, le gouvernement [JAP.GetAdjMS] encourage la coopération technologique avec ses alliés. Ils préparent leurs plans dès que possible."
+  r56_japan.2.a:0 "Excellent."

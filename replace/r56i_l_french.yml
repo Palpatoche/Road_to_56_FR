@@ -141,5 +141,28 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves :§G -100%§!"
  strikes_rt56.desc:0 "Les forces de l'ordre gouvernementales ont récemment découvert un plan de grève des ouvriers de nombreuses usines à travers le pays. Heureusement, le plan a été découvert et les responsables ont été arrêtés. Espérons que cela empêchera toute interruption de production."
  strikes_rt56.a:0 "Nous avons réprimé la source de cette désobéissance."
 
- 
+ #Event to leave faction in case of revolution
+  r56i.event.10.title:0 "Une nouvelle orientation diplomatique ?"
+  r56i.event.10.description:0 "La mise en place d'un nouveau gouvernement soulève un certain nombre de questions concernant l'avenir de [ROOT.GetDuDelaDelNP] [ROOT.GetName]. [ROOT.GetLeader] se méfie de l'orientation idéologique [ROOT.GetDuDelaDelFaction] [ROOT.GetFactionName] et craint qu'une telle coopération ne conduise à une guerre contre des pays sympathisants de la cause [ROOT.GetRulingIdeology] et l'orientation politique [ROOT.GetDuDelaDelPartiPouv] [ROOT.GetRulingParty]."
+  r56i.event.10.a:0 "Ce sont les alliés du gouvernement précédent"
+  r56i.event.10.b:0 "Respecter nos engagements diplomatiques"
+
+
+  r56i.event.11.title:0 "[FROM.GetLeLaLNPCap] [FROM.GetName] quitte [ROOT.GetLeLaLFaction] [From.GetFactionName]"
+  r56i.event.11.description:0 "\nDécidé à changer radicalement sa position diplomatique, le nouveau gouvernement [FROM.GetRulingIdeology] [FROM.GetAdjMS] a choisi de se retirer [ROOT.GetDuDelaDelFaction] [FROM.GetFactionName]. Cette nouvelle a suscité des remous parmi les membres [ROOT.GetDuDelaDelFaction] [FROM.GetFactionName] car ils se demandent si d'autres départs pourraient entraîner l'effondrement de leur alliance.\n\n [FROM.GetLeader] a déclaré que la nécessité de réorienter la politique du pays en fonction du programme [ROOT.GetDuDelaDelPartiPouv] [ROOT.GetRulingParty] a motivé sa décision. Déclarant que son gouvernement fera tout pour préserver l'indépendance [From.GetAdjFS]."
+  r56i.event.11.a:0 "Le monde change."
+
+  r56i.event.12.title:0 "Une opportunité historique"
+  r56i.event.12.description:0 "La mise en place de notre gouvernement soulève des questions concernant l'avenir de [ROOT.GetDuDelaDelNP] [ROOT.GetName]. Pour la plupart d'entre nous, la réponse est claire : il est temps de gagner notre indépendance. Il est clair que notre ascension est un signe clair de la légitimité de la cause [ROOT.GetRulingIdeology] et nous devons aligner notre situation diplomatique sur le manifeste politique [ROOT.GetDuDelaDelPartiPouv] [ROOT.GetRulingParty]."
+  r56i.event.12.a:0 "Nous sommes enfin libres !"
+  r56i.event.12.b:0 "C'est trop risqué"
+
+
+  r56i.event.13.title:0 "[From.GetLeader] déclare l'indépendance [From.GetAdjFS]"
+  r56i.event.13.description:0 "\nLe nouveau gouvernement [FROM.GetRulingIdeology] [FROM.GetAdjMS] a décidé de déclarer unilatéralement son indépendance. Cette décision a été annoncée comme étant totale et sans compromis. Par conséquent, [FROM.GetLeLaLNP] [FROM.GetName] se retirera de toutes ses obligations militaires et réévaluera sa politique étrangère. Cela va certainement mettre en colère leur ancien dirigeant, car [FROM.GetLeader] a clairement indiqué qu'il n'était pas lié par les traités précédents et que ce jour marquerait le début d'une nouvelle ère dans l'histoire [FROM.GetAdjFS]."
+  r56i.event.13.a:0 "Une autre révolution."
+
+  r56i.event.14.title:0 "[FROM.GetLeLaLNP] [FROM.GetName] se rebell[FROM.GetEEntNP] !"
+  r56i.event.14.description:0 "\nLa prise de contrôle[FROM.GetRulingIdeology] a conduit à une déclaration de l'indépendance [FROM.GetAdjFS] par [FROM.GetLeader]. Peu enclins à respecter l'ordre établi, leur comportement provocateur pourrait créer un dangereux précédent."
+  r56i.event.14.a:0 "Nous devons riposter !"
 #####---------------------------------------------------------------------> End
