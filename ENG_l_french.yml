@@ -11,6 +11,8 @@ uk_naval_gunnery_desc:0 "Améliorer l'efficacité de notre équipement naval pou
 #Flags
 
 #Ideas
+ENG_crypto_bomb_idea_lar:0 "Bombe cryptologique"
+
 
 #Events
 englandmod.99.t:0 "Archibald Wavell arrive en Inde"

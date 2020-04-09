@@ -119,8 +119,8 @@
  WUR_neutrality:0 "Wurtemberg"
  WUR_neutrality_DEF:0 "le Wurtemberg"
  WUR_neutrality_ADJ:0 "wurtembergeois"
- HAN_neutrality:0 "Hanovre"
- HAN_neutrality_DEF:0 "Hanovre"
+ HAN_neutrality:0 "Royaume de Hanovre"
+ HAN_neutrality_DEF:0 "le Royaume de Hanovre"
  HAN_neutrality_ADJ:0 "hanovrien"
  AUSHUN_fascism:0 "Autriche-Hongrie"
  AUSHUN_fascism_ADJ:0 "austro-hongrois"
@@ -131,6 +131,18 @@
  HREAUS_neutrality:0 "Saint-Empire romain germanique"
  HREAUS_neutrality_ADJ:0 "allemand"
  HREAUS_neutrality_DEF:0 "le Saint-Empire romain germanique"
+ HAN_WST_fascism:1 "État de Westphalie"
+ HAN_WST_fascism_DEF:1 "l'État de Westphalie"
+ HAN_WST_democratic:1 "État libre de Westphalie"
+ HAN_WST_democratic_DEF:1 l'État libre de Westphalie"
+ HAN_WST_neutrality:0 "Royaume de Westphalie"
+ HAN_WST_neutrality_DEF:0 "le Royaume de Westphalie"
+ HAN_WST_communism:1 "République populaire de Westphalie"
+ HAN_WST_communism_DEF:1 "la République populaire de Westphalie"
+ HAN_WST_fascism_ADJ:0 "westphalien"
+ HAN_WST_democratic_ADJ:0 "westphalien"
+ HAN_WST_neutrality_ADJ:0 "westphalien"
+ HAN_WST_communism_ADJ:0 "westphalien"
 
  #BAH
  BAH_fascism:0 "Bahamas"
@@ -734,16 +746,6 @@
  #GER_FRA_autonomy_colony:0 "Confédération du Rhin"
  #GER_FRA_autonomy_puppet:0 "Confédération du Rhin"
  #GER_FRA_autonomy_integrated_puppet:0 "Confédération du Rhin"
- 
-GER_REUNITED_neutrality:0 "Empire allemand"
-GER_REUNITED_neutrality_DEF:0 "l'Empire allemand"
-GER_REUNITED_democratic:0 "République fédérale d'Allemagne"
-GER_REUNITED_democratic_DEF:0 "la République fédérale d'Allemagne"
-GER_REUNITED_communism:0 "République démocratique d'Allemagne"
-GER_REUNITED_communism_DEF:0 "la République démocratique d'Allemagne"
-GER_REUNITED_fascism:0 "État populaire allemand"
-GER_REUNITED_fascism_DEF:0 "l'État populaire allemand"
-GER_REUNITED_ADJ:0 "allemand"
 
  #GHA
  GHA_fascism:0 "Royaume du Ghana"
@@ -797,6 +799,20 @@ GER_REUNITED_ADJ:0 "allemand"
  GUN_democratic_ADJ:0 "guinéen"
  GUN_neutrality_ADJ:0 "guinéen"
  GUN_communism_ADJ:0 "guinéen"
+
+ #HES
+ HES_fascism:0 "État de Hesse"
+ HES_fascism_DEF:0 "l'État de Hesse"
+ HES_democratic:0 "Hesse"
+ HES_democratic_DEF:0 "la Hesse"
+ HES_neutrality:0 "Grand-Duché de Hesse"
+ HES_neutrality_DEF:0 "le Grand-Duché de Hesse"
+ HES_communism:0 "État populaire de Hesse"
+ HES_communism_DEF:0 "l'État populaire de Hesse"
+ HES_fascism_ADJ:0 "hessois"
+ HES_democratic_ADJ:0 "hessois"
+ HES_neutrality_ADJ:0 "hessois"
+ HES_communism_ADJ:0 "hessois"
 
  #HCP
  HCPC_neutrality:0 "Conseil politique d'Hebei-Tchakhar"
@@ -853,9 +869,6 @@ GER_REUNITED_ADJ:0 "allemand"
  IRQ_democratic_ADJ:0 "irakien"
  IRQ_neutrality_ADJ:0 "irakien"
  IRQ_communism_ADJ:0 "irakien"
-
- #ITA
- ITA_FRA_autonomy_puppet:0 "États italiens"
 
  #JAM
  JAM_fascism:0 "Empire jamaïcain"
@@ -1076,6 +1089,40 @@ GER_REUNITED_ADJ:0 "allemand"
  MOZ_democratic_ADJ:0 "mozambicain"
  MOZ_neutrality_ADJ:0 "mozambicain"
  MOZ_communism_ADJ:0 "mozambicain"
+ 
+ #NAP
+ NAP_fascism:0 "État de Naples"
+ NAP_fascism_DEF:0 "l'État de Naples"
+ NAP_democratic:0 "République de Naples"
+ NAP_democratic_DEF:0 "la République de Naples"
+ NAP_neutrality:0 "Royaume de Naples"
+ NAP_neutrality_DEF:0 "le Royaume de Naples"
+ NAP_communism:0 "République populaire de Naples"
+ NAP_communism_DEF:0 "la République populaire de Naples"
+ NAP_fascism_ADJ:0 "napolitain"
+ NAP_democratic_ADJ:0 "napolitain"
+ NAP_neutrality_ADJ:0 "napolitain"
+ NAP_communism_ADJ:0 "napolitain"
+ NAP:0 "Naples"
+ NAP_DEF:0 "Naples"
+ NAP_ADJ:0 "napolitain"
+
+ #VNZ
+ VNZ_fascism:0 "État vénitien"
+ VNZ_fascism_DEF:0 "l'État vénitien"
+ VNZ_democratic:0 "République de Venise"
+ VNZ_democratic_DEF:0 "la République de Venise"
+ VNZ_neutrality:0 "Sérénissime république de Venise"
+ VNZ_neutrality_DEF:0 "la Sérénissime république de Venise"
+ VNZ_communism:0 "République populaire de Venise"
+ VNZ_communism_DEF:0 "la République populaire de Venise"
+ VNZ_fascism_ADJ:0 "vénitien"
+ VNZ_democratic_ADJ:0 "vénitien"
+ VNZ_neutrality_ADJ:0 "vénitien"
+ VNZ_communism_ADJ:0 "vénitien"
+ VNZ:0 "Venise"
+ VNZ_DEF:0 "Venise"
+ VNZ_ADJ:0 "vénitien"
 
  #NFC
  FengClique_fascism:0 "Nouvelle clique fengtienne"
@@ -1245,9 +1292,43 @@ GER_REUNITED_ADJ:0 "allemand"
  RGR_communism:0 "État socialiste Chinois"
  RGR_communism_ADJ:0 "chinois"
  RGR_communism_DEF:0 "l'État socialiste Chinois"
+ 
+ #SAD
+ SAD_fascism:0 "État de Sardaigne"
+ SAD_fascism_DEF:0 "l'État de Sardaigne"
+ SAD_democratic:0 "Sardaigne"
+ SAD_democratic_DEF:0 "la Sardaigne"
+ SAD_neutrality:0 "Royaume de Sardaigne"
+ SAD_neutrality_DEF:0 "le Royaume de Sardaigne"
+ SAD_communism:0 "République populaire de Sardaigne"
+ SAD_communism_DEF:0 "la République populaire de Sardaigne"
+ SAD_fascism_ADJ:0 "sarde"
+ SAD_democratic_ADJ:0 "sarde"
+ SAD_neutrality_ADJ:0 "sarde"
+ SAD_communism_ADJ:0 "sarde"
+ SAD:0 "Sardaigne"
+ SAD_DEF:0 "la Sardaigne"
+ SAD_ADJ:0 "sarde"
 
  #SAU -missing line base game
  SAU_neutrality_ADJ:0 "saudien"
+ 
+ #SIC
+ SIC_fascism:0 "État de Sicile"
+ SIC_fascism_DEF:0 "l'État de Sicile"
+ SIC_democratic:0 "Sicile"
+ SIC_democratic_DEF:0 "la Sicile"
+ SIC_neutrality:0 "Royaume de Sicile"
+ SIC_neutrality_DEF:0 "le Royaume de Sicile"
+ SIC_communism:0 "République populaire de Sicile"
+ SIC_communism_DEF:0 "la République populaire de Sicile"
+ SIC_fascism_ADJ:0 "sicilien"
+ SIC_democratic_ADJ:0 "sicilien"
+ SIC_neutrality_ADJ:0 "sicilien"
+ SIC_communism_ADJ:0 "sicilien"
+ SIC:0 "Sicile"
+ SIC_DEF:0 "la Sicile"
+ SIC_ADJ:0 "sicilien"
 
  #SAM
  SAM_fascism:0 "État de Laponie"
@@ -1464,13 +1545,6 @@ GER_REUNITED_ADJ:0 "allemand"
  USA_GER_fascism_autonomy_Reichskomissariat:0 "Reich von Nordamerikanicher"
  USA_GER_fascism_autonomy_Reichsprotectorate:0 "Größeres Reich von Nordamerikanicher"
  USA_GER_fascism_autonomy_Satellite:0 "Reichskomissariats-Unis d'Amérique"
- ##Spicy's Fan service##
- USA_OMA_democratic_autonomy_integrated_puppet:0 "Michigan"
- USA_LIB_democratic_autonomy_integrated_puppet:0 "Compton"
- USA_ZIM_democratic_autonomy_integrated_puppet:0 "Spector"
- USA_LBA_democratic_autonomy_integrated_puppet:0 "Vaultord le joueur de Fortnite"
- USA_KOR_democratic_autonomy_integrated_puppet:0 "Chronos"
-
 
 
  #VEN

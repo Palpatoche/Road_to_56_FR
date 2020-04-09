@@ -126,7 +126,11 @@
 					#### IDEAS ####
 	############################
 	
- 
+    FRA_volunteers_in_the_war:0 "Volontaires dans la guerre civile espagnole"
+    FRA_public_works_idea:0 "Travaux publics"
+    FRA_decentralised_state:0 "État décentralisé"
+    FRA_counter_the_fascist_infulence_idea:0 "Lutte contre l'influence fasciste"
+
  
   	############################
 					#### TRAITS ####
@@ -495,6 +499,7 @@
  FRA_further_the_reforms_desc:0 "Les accords de Matignon ne doivent pas signer la fin des réformes sociales en France. Nous devrions poursuivre notre politique de soutien aux travailleurs, y compris maintenant les classes moyennes, afin de gagner leur soutien."
  FRA_law_against_combat_groups:0 "Loi contre les groupes paramilitaires"
  FRA_law_against_combat_groups_desc:0 "Les émeutes du 6 février 1934 prouvent qu'il faut agir contre les groupes paramilitaires, en particulier ceux d'extrême droite. Une loi donnant au président la possibilité de dissoudre certains groupes présents sur le territoire français permettra d'atténuer leur présence."
+ FRA_invest_in_our_weaker_allies_tt:0 "Nous allons construire deux usines militaires dans chacun de nos alliés, à condition qu'ils aient moins d'usines que nous."
  
 	#### COMMUNIST FOCUS ####
  
@@ -626,6 +631,62 @@
  FRA_crush_germany_desc:0 "Depuis des temps immémoriaux, la France et l'Allemagne ont été de grands rivaux en Europe. Notre victoire dans la Grande Guerre n'a évidemment pas suffi à calmer les Boshes, une nouvelle invasion de ces derniers semble donc nécessaire pour remettre l'Allemand à sa place, c'est-à-dire sous la France."
  FRA_operation_charlemagna:0 "Opération Charlemagne"
  FRA_operation_charlemagna_desc:0 "Plus d'un siècle après notre humiliation à Waterloo, l'Albion perfide continue de nous dépasser sur absolument toutes les questions possibles, surtout au niveau colonial. Il est temps que cela cesse, quand le drapeau tricolore flottera sur Londres, nous prouverons au monde que la France est la vraie puissance de ce monde."
+ FRA_disunite_germany_tt:0 "L'Allemagne sera divisée en ses royaumes d'avant l'unification. Chaque nouvelle nation nous sera loyale."
+ FRA_disunite_italy:0 "Désunifier l'Italie"
+ FRA_disunite_italy_desc:0 "L'idée d'une Italie unie était une erreur et le peuple italien devrait être placé sous notre protection. L'Italie devrait être redessinée selon les frontières de Napoléon Ier."
+ FRA_disunite_italy_tt:0 "L'Italie sera découpée, la France gardant [158.GetName], [162.GetName], et [2.GetName], et le reste étant des États fantoches sous Naples, la Sicile, la Sardaigne, et un nouveau gouvernement italien loyal."
+ FRA_secure_iberia:0 "Sécuriser l'Ibérie"
+ FRA_restore_the_mexican_monarchy:0 "Restaurer la monarchie mexicaine"
+ FRA_take_back_north_america:0 "Reprendre l'Amérique du Nord"
+ FRA_second_march_on_moscow:0 "La deuxième marche sur Moscou"
+ FRA_napoleon_iii_legacy:0 "L'héritage de Napoléon III"
+ FRA_napoleon_iii_legacy_desc:0 "Une Italie unie n'existerait pas sans l'aide de Napoléon III. Nous devrions tendre une main amicale aux Italiens et nous allier ensemble pour le plus grand bien."
+ FRA_anti_german_front:0 "Front anti-allemand"
+ FRA_anti_german_front_desc:0 "L'Allemagne a toujours été l'ennemi naturel de la France et il ne faudra pas longtemps pour qu'elle entraîne l'Europe dans une nouvelle guerre brutale. Nous devrions créer un front uni contre l'agression allemande avec d'autres nations européennes partageant les mêmes idées."
+
+ FRA_support_the_legitimatises:0 "Soutenir les Légitimistes"
+ FRA_support_the_legitimatises_desc:0 "Depuis la révolution de juillet 1830, les Légitimistes cherchent à obtenir du roi Charles X le retour de la branche masculine directe de la dynastie des Bourbons. Actuellement, cette branche appartient à l'ancien roi espagnol Alfonso XIII et à son fils l'Infante Jaime."
+ FRA_social_nationalism:0 "Nationalisme social"
+ FRA_social_nationalism_desc:0 "Dans la lutte des classes, il devrait y avoir une forme de solidarité nationale dont le roi peut constituer la clé de voûte."
+ FRA_decentralise_the_state:0 "Décentraliser l'État"
+ FRA_decentralise_the_state_desc:0 "La centralisation entraîne l'étatisme et la bureaucratie inhérents au système démocratique. La seule façon pour une monarchie de survivre contre les idéaux républicains est de revenir aux méthodes prérévolutionnaires d'un royaume décentralisé."
+ FRA_restore_ancient_reights:0 "Restaurer les droits anciens"
+ FRA_restore_ancient_reights_desc:0 "Une monarchie absolue régnant sur les domaines du royaume est le véritable modèle de la France. Le retour à l'Ancien Régime est le seul avenir de la France."
+ FRA_embrace_the_counter_revolution:0 "Embrasser la contre-révolution"
+ FRA_embrace_the_counter_revolution_desc:0 "Uni sous un monarque absolu, le Royaume de France peut à nouveau être la locomotive de l'Europe."
+ FRA_counter_the_fascist_infulence:0 "Contrer l'influence fasciste"
+ FRA_counter_the_fascist_infulence_desc:0 "Si l'Action française a contribué au retour de la monarchie, nous ne pouvons pas laisser la France tomber à l'extrême droite. Nous devons travailler avec ceux qui sympathisent à notre cause pour libérer le monarque de la foule fasciste."
+ FRA_oust_maurras:0 "Oust Maurras"
+ FRA_oust_maurras_desc:0 "Charles Maurras est un fasciste dont les idées vont détruire la France. En travaillant avec nos alliés antifascistes, nous pouvons le mettre à l'écart et le faire disparaître dans l'ombre."
+ FRA_keep_the_separation_of_church_and_state:0 "Alliance avec le centre-droit"
+ FRA_keep_the_separation_of_church_and_state_desc:0 "La monarchie n'est peut-être pas populaire auprès de tous, mais en trouvant un compromis avec les partis d'extrême droite, nous pouvons mieux protéger les valeurs traditionnelles de la France contre la tyrannie du fascisme."
+ FRA_constitutional_monarchy:0 "Une monarchie constitutionnelle"
+ FRA_constitutional_monarchy_desc:0 "L'idée d'une monarchie constitutionnelle est plus ancienne que la Révolution elle-même. Nous ne devons pas céder aux radicaux et suivre plutôt l'exemple britannique."
+ FRA_metropolitan_priority:0 "Priorité métropolitaine"
+ FRA_metropolitan_priority_desc:0 "Les villes de France sont sa force vitale. Nous devons travailler avec les industriels pour améliorer encore notre économie."
+ FRA_public_works:0 "Travaux publics"
+ FRA_public_works_desc:0 "Un projet de travaux publics de masse améliorera non seulement notre nation, mais aussi le statut de la monarchie aux yeux du peuple."
+ FRA_assist_the_carlist_cause:0 "Aider la cause carliste"
+ FRA_assist_the_carlist_cause_desc:0 "Les carlistes se battent pour le retour de la monarchie espagnole. Il serait hypocrite de notre part de ne pas les aider."
+ FRA_intervene_in_the_spanish_civil_war:0 "Intervenir dans la guerre civile espagnole"
+ FRA_intervene_in_the_spanish_civil_war_desc:0 "Nous devons aider les carlistes à lutter pour notre avenir commun en Espagne."
+ FRA_proclaim_the_dual_monarchy:0 "Proclamer la double monarchie"
+ FRA_proclaim_the_dual_monarchy_desc:0 "Nos rois sont les mêmes. Il est normal que nos nations le soient aussi."
+ FRA_support_the_spanish_nationalists:0 "Soutenir les nationalistes espagnols"
+ FRA_support_the_spanish_nationalists_desc:0 "Les nationalistes espagnols ont besoin d'aide contre les communistes et les anarchistes. Nous devons veiller à ce que notre frontière méridionale soit gardée par des alliés plus dignes de confiance."
+ FRA_ally_italy:0 "Inviter l'Italie au front"
+ FRA_ally_italy_desc:0 "L'Italie et la France sont des alliés de longue date. Nous pouvons à nouveau être solidaires."
+ FRA_pact_with_spain:0 "Pacte avec l'Espagne"
+ FRA_pact_with_spain_desc:0 "Les nationalistes espagnols sont des alliés naturels. Ensemble, nous pouvons unir l'Europe occidentale contre la menace allemande et communiste."
+ FRA_anti_communism_r56:0 "Anti-communisme"
+ FRA_anti_communism_r56_desc:0 "Le communisme est l'ennemi de la civilisation occidentale. Nous devons prendre des mesures pour libérer les peuples du monde de l'oppression communiste."
+ FRA_return_to_dalmatia:0 "Retourner en Dalmatie"
+ FRA_return_to_dalmatia_desc:0 "Les provinces illyriennes font partie intégrante de la France de Napoléon. Nous devrions les reprendre sous notre protection."
+ FRA_second_march_on_moscow_desc:0 "La Russie a été le plus grand échec de Napoléon Ier. Nous n'échouerons pas une deuxième fois."
+ FRA_secure_iberia_desc:0 "L'Ibérie devrait être placée sous notre contrôle total pour assurer la sécurité de notre pays."
+ FRA_restore_the_mexican_monarchy_desc:0 "C'est Napoléon III qui a créé le second empire mexicain. C'est Napoléon VI qui créera le troisième empire mexicain."
+ FRA_take_back_north_america_desc:0 "Haïti, la Louisiane, l'Acadie, le Québec... Toutes ces terres qui étaient autrefois les nôtres mais qui sont aujourd'hui perdues. Nous devrions corriger cette erreur."
+ FRA_proclaim_the_dual_monarchy_tt:0 "Nous allons annexer et gagner des États nationaux sur l'Espagne s'ils sont notre fantoche ou si [SPB.GetLeLaLNP] [SPB.GetName] existe et a gagné la guerre civile espagnole. Sinon, nous obtiendrons des États nationaux sur tous les États nationaux espagnols si nous possédons un États national de l'Espagne."
  
 	#### MILITARY FOCUS ####
 	
@@ -949,4 +1010,10 @@
 	############################
     
  french_research_name:0 "Les paresseux bâtards ne vérifient rien"
+ 
+  
+ ############################
+ #### MISC				####
+ ############################
+ absolute_monarch:0 "Monarque absolu"
  

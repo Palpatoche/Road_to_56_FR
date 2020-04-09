@@ -34,3 +34,10 @@
  #kinda easter egg
  HUN_impose_admiralty_government_GER:0 "Imposer à l'Allemagne un gouvernement dirigé par l'amirauté"
  HUN_impose_admiralty_government_FRA:0 "Imposer à la France un gouvernement dirigé par l'amirauté"
+
+ HUN_organize_workers_collectives:0 "Organiser les collectifs de travailleurs"
+ HUN_organize_workers_collectives_desc:0 "En organisant des collectifs de travailleurs, nous pourrons prendre le contrôle de l'économie et enfin enterrer le capitalisme."
+ HUN_new_invasion_of_slovakia:0 "Nouvelle invasion de la Slovaquie"
+ HUN_new_invasion_of_slovakia_desc:0 "Soumettons les Slovaques une fois pour toutes et prenons notre revanche sur notre échec de 1919."
+ HUN_oil_refining_infrastructure:0 "Infrastructure de raffinage du pétrole"
+ HUN_oil_refining_infrastructure_desc:0 "Afin d'assurer l'exploitation de nos champs pétroliers, nous devons équiper le pays des raffineries et des silos à carburant nécessaires."

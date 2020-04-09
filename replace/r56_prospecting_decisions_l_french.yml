@@ -80,6 +80,7 @@
  develop_kuantan_aluminium_deposits:0 "Développer les dépôts d'aluminium de Kuantan"
  develop_kamysh_burunsky_iron_deposits:0 "Développer les gisements de fer de Kamysh-Burunsky"
  exploit_amazonian_rubber:0 "Exploiter le caoutchouc amazonien"
+ develop_kolymas_tungsten_mines_in_alaskinskaya:0 "Développer les mines de tungstène de Kolyma en Alaskinskaya"
 
 
 
@@ -158,6 +159,7 @@
  develop_kamysh_burunsky_iron_deposits_wtt:0 "Développer les gisements de fer de Kamysh-Burunsky"
  exploit_amazonian_rubber_wtt:0 "Exploiter le caoutchouc amazonien"
  develop_saguenay_aluminium_industry_wtt:0 "Développer l'industrie d'aluminium au Saguenay"
+ develop_kolymas_tungsten_mines_in_alaskinskaya_wtt:0 "Développer les mines de tungstène de Kolyma en Alaskinskaya"
 
 
  #ADAPTATION OF wtt

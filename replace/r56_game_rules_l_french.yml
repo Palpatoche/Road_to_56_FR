@@ -17,6 +17,8 @@
  HOL_FOCUS_TREE_SELECTION:0 "@HOL Pays-Bas"
  MEX_FOCUS_TREE_SELECTION:0 "@MEX Mexico"
  SAF_FOCUS_TREE_SELECTION:0 "@SAF Afrique du Sud"
+ SPR_FOCUS_TREE_SELECTION:0 "@SPR Espagne"
+ POR_FOCUS_TREE_SELECTION:0 "@POR Portugal"
 
  ###---> AI Behavior <><> <><> <><>
  RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA"
@@ -27,6 +29,7 @@
  RULE_OPTION_AUTHORITARIAN_HISTORICAL:0 "Autoritaire - Historique"
  RULE_OPTION_MONARCHIST:0 "Monarchiste"
  RULE_OPTION_MONARCHIST_HISTORICAL:0 "Monarchiste - Historique"
+ RULE_OPTION_DEMOCRATIC_ALTERNATE_AI_DESC:0 "Le pays suivra une voie démocratique non historique."
  
  #-> ALB: Albania <><>
  ALB_AI_BEHAVIOR:0 "@ALB Albanie"
@@ -61,7 +64,7 @@
  #-> BEL: Belgium <><>
  BEL_AI_BEHAVIOR:0 "@BEL Belgique"
  RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN:0 "Démocratique - S'allier la Grande-Bretagne"
- RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN_AI_DESC:0 "L'IA va essayer de former une alliance avec la Grande-Bretagne dès que possible." 
+ RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN_AI_DESC:0 "L'IA va essayer de former une alliance avec la Grande-Bretagne dès que possible."
  RULE_OPTION_DEMOCRATIC_BEL_BENELUX:0 "Démocratique - Former le Benelux"
  RULE_OPTION_DEMOCRATIC_BEL_BENELUX_AI_DESC:0 "L'IA va essayer de diriger les démocraties du Benelux."
  RULE_OPTION_COMMUNISM_BEL_COMINTERN:0 "Communiste - Rejoindre le Komintern"
@@ -98,7 +101,7 @@
 
  #-> MEX: Mexico <><>
  MEX_AI_BEHAVIOR:0 "@MEX Mexique"
- 
+
  #-> SIA: Siam <><>
  SIA_AI_BEHAVIOR:0 "@SIA Siam"
  RULE_OPTION_DEMOCRATIC_LIBERAL_SIA:0 "Démocratique - Libéral"
@@ -183,6 +186,18 @@
  RULE_OPTION_POL_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Pologne sont libérées en tant que nations fantoches dès le début de la partie."
  RULE_OPTION_POL_COMMONWEALTH:0 "Commonwealth polono-lituanien"
  RULE_OPTION_POL_COMMONWEALTH_DESC:0 "Le Commonwealth polono-lituanien vit jusqu'au XXème siècle et constitue un puissant rempart contre ses voisins totalitaires."
+ ITA_FRAGMENTATION_STATUS:0 "@ITA Division de l'Italie"
+ RULE_OPTION_ITA_FRAGMENTED:0 "Italie divisée"
+ RULE_OPTION_ITA_FRAGMENTED_DESC:0 "Toutes les nations constitutives de l'Italie sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_ITA_FRAGMENTED_NEAPOLITAN_SICILY:0 "Sicile napolitaine"
+ RULE_OPTION_ITA_FRAGMENTED_NEAPOLITAN_SICILY_DESC:0 "L'Italie sera fragmentée, mais Naples possédera également la Sicile."
+ RULE_OPTION_ITA_DECENTRALIZED:0 "Italie décentralisée"
+ RULE_OPTION_ITA_DECENTRALIZED_DESC:0 "Toutes les nations constitutives de l'Italie qui peuvent être libérées sont libérées en tant que nations fantoches dès le début de la partie."
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA:0 "Sérénissime"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_DESC:0 "Venise commencera par la Dalmatie, la Crète et plus de troupes (principalement prises de l'Italie). Pour San Marco !"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_TWO_SICILES:0 "Sérénissime et Deux Siciles"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_TWO_SICILES_DESC:0 "Naples et Venise sont fortes, choisir l'Italie vous fera jouer Venise."
+
  SAM_LIBERATION_STATUS:0 "@SAM Libération de la Laponie"
  RULE_OPTION_SAM_LIBERATED:0 "Laponie libérée"
  RULE_OPTION_SAM_LIBERATED_DESC:0 "Tous les pays contrôlant des états nationaux lapons libéreront la Laponie, la capitale sera située au Norrland norvégien."
@@ -205,6 +220,10 @@
  RULE_OPTION_GER_EAST_VS_WEST_COM:0 "Le Foyer de la Révolution"
  RULE_OPTION_GER_EAST_VS_WEST_COM_DESC:0 "Jouer l'Allemagne de l'Est contre l'Allemagne de l'Ouest"
  RULE_OPTION_GER_EAST_VS_WEST_VS_BAVARIA:0 "Est vs Ouest vs Bavière"
+ RULE_OPTION_GER_GERMAN_KINGDOMS:0 "Royaumes allemands"
+ RULE_OPTION_GER_GERMAN_KINGDOMS_DESC:0 "L'Allemagne sera divisée en royaumes et en duchés."
+ RULE_OPTION_GER_GERMAN_KINGDOMS2:0 "Royaumes allemands - une faction"
+ RULE_OPTION_GER_GERMAN_KINGDOMS2_DESC:0 "L'Allemagne sera divisée en royaumes et en duchés et unie sous une faction."
 
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Le Honduras forme l'Amérique centrale"
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Tous les pays d'Amérique centrale sont annexés par le Honduras, vous obtenez des états nationaux sur ces pays et votre nom change pour les États-Unis d'Amérique centrale."

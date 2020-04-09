@@ -52,6 +52,12 @@
  SPR_spain.6.desc:0 "Le gouvernement britannique a rejeté notre demande de restitution du territoire de Gibraltar. Nous avions menacé que s'ils refusaient, des représailles militaires seraient possibles, mais peut-être serait-il plus sûr de reculer ?"
  SPR_spain.6.a:0 "Gibraltar sera espagnol, par la force si nécessaire !"
  SPR_spain.6.b:0 "Cet Ultimatum était une mauvaise idée"
+ 
+ SPR_spain.7.t:0 "Une vieille connaissance est revenue" 
+ SPR_spain.7.desc:0 "Nos services ont identifié qu'Alexandre Mikhaïlovitch Orlov (né Leïba Lazarevitch Feldbine selon nos données) est retourné aux États-Unis après la fin de la guerre civile espagnole. Nos sources indiquent qu'il était un agent du NKVD mais qu'il a refusé de revenir [SOV.GetAuEnANP] [SOV.GetName]."
+ SPR_spain.7.a:0 "S'il veut se cacher des communistes, laissez-le."
+ SPR_spain.7.b:0 "Essayons de le recruter !"
+ 
 
  spain.10.t:0 "Dissolution des Cortès"
  spain.10.d:0 "Après que le dirigeant de la Confederación Española de Derechas Autónomas, le principal parti de droite qui avait auparavant coopéré avec le gouvernement centriste d'Alejandro Lerroux, José María Gil-Robles y Quiñones, ait brigué le poste de Premier ministre, qui aurait renforcé le contrôle de la CEDA sur le gouvernement espagnol, le Président Niceto Alcalá-Zamora a décidé de dissoudre les Cortès, car il avait toujours été hostile envers la CEDA et son leader. De nouvelles élections sont prévues pour février et, dans l'intervalle, Manuel Portela restera Premier ministre."

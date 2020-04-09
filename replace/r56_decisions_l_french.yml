@@ -45,6 +45,8 @@
 
  r56_GER_decision_support_eugen_meindl:0 "Soutenir Eugen Meindl"
  r56_GER_decision_support_eugen_meindl_desc:0 "Kurt Student est peut-être le commandant de parachutistes le plus pro-éminent de l'armée, mais la Luftwaffe compte de nombreux autres dirigeants talentueux."
+ r56_HUN_decision_support_bertalan_arpad:0 "Soutenir Árpád Bertalan"
+ r56_HUN_decision_support_bertalan_arpad_desc:0 "Árpád Bertalan, le héros de guerre de la Première Guerre mondiale, a travaillé dur pour créer une unité d'élite, à partir des meilleurs soldats de Hongrie. Nous devrions utiliser ses talents."
  NOR_nortraship_category:0 "Nortraship"
  NOR_nortraship_category_desc:0 "Nortraship est la société chargée de la gestion de tous les convois norvégiens qui ne sont pas sous contrôle ennemi. S'ils sont habités par des civils, ces navires aideront grandement nos alliés à nous permettre de recouvrer notre liberté."
  NOR_nortraship_25_convoys:0 "Envoyer 25 convois [From.GetAuAlaAlNP] [From.GetName]"
@@ -71,21 +73,21 @@
  r56_send_combat_reports_to_the_capital_ship_manufacturers:0 "Rapports aux fabricants de navires capitaux"
  r56_send_combat_reports_to_the_carrier_manufacturers:0 "Rapports aux fabricants de porte-avions"
 
- xp_conversion_landxp:0 "§H150§!£army_experience  §H10§!£pol_power"
+ xp_conversion_landxp:0 "§H150§!£army_experience §H10§!£pol_power"
  xp_conversion_landxp_blocked:0 "§R150§!£army_experience  §R10§!£pol_power"
  xp_conversion_landxp_tooltip:0 "Cela coûte 150£army_experience  et 10£pol_power de sélectionner cela."
 
- xp_conversion_navyxp:0 "§H150§!£navy_experience  §H10§!£pol_power"
+ xp_conversion_navyxp:0 "§H150§!£navy_experience §H10§!£pol_power"
  xp_conversion_navyxp_blocked:0 "§R150§!£navy_experience  §R10§!£pol_power"
  xp_conversion_navyxp_tooltip:0 "Cela coûte 150£navy_experience  et 10£pol_power de sélectionner cela."
 
- xp_conversion_airxp:0 "§H150§!£air_experience  §H10§!£pol_power"
- xp_conversion_airxp_blocked:0 "§R150§!£air_experience  §R10§!£pol_power"
- xp_conversion_airxp_tooltip:0 "Cela coûte 150£air_experience  et 10£pol_power de sélectionner cela."
+ xp_conversion_airxp:0 "§H150§!£air_experience §H10§!£pol_power"
+ xp_conversion_airxp_blocked:0 "§R150§!£air_experience §R10§!£pol_power"
+ xp_conversion_airxp_tooltip:0 "Cela coûte 150£air_experience et 10£pol_power de sélectionner cela."
 
- xp_conversion_carriers:0 "§H150§!£navy_experience  §H50§!£air_experience  §H10§!£pol_power"
- xp_conversion_carriers_blocked:0 "§R150§!£navy_experience  §R50§!£air_experience  §R10§!£pol_power"
- xp_conversion_carriers_tooltip:0 "Cela coûte 150£navy_experience  50£air_experience  et 10£pol_power de sélectionner cela."
+ xp_conversion_carriers:0 "§H150§!£navy_experience §H50§!£air_experience §H10§!£pol_power"
+ xp_conversion_carriers_blocked:0 "§R150§!£navy_experience §R50§!£air_experience §R10§!£pol_power"
+ xp_conversion_carriers_tooltip:0 "Cela coûte 150£navy_experience 50£air_experience et 10£pol_power de sélectionner cela."
 
  land_combat_report_analyzed:0 "Rapports de combat terrestre analysés"
  air_combat_report_analyzed:0 "Rapports de combat aérien analysés"

@@ -223,7 +223,7 @@
  LAT_top_of_the_line_agrarianism:0 "Produits agricoles haut de gamme"
  LAT_neutral_foreign_policy:0 "Politique étrangère neutre"
  LAT_a_rejection_of_ulmanis:0 "Un rejet d'Ulmanis"
- LAT_assemble_a_new_seima:0 "Assembler une nouvelle Seima"
+ LAT_assemble_a_new_seima:0 "Assembler une nouvelle Saeima"
  LAT_liberal_economic_reforms:0 "Politiques économiques occidentales"
  LAT_redraft_the_constitution:0 "Réviser la Constitution"
  LAT_state_intervention:0 "Intervention de l'État"
@@ -285,7 +285,7 @@
  LAT_event.5.b:0 "Ulmanis va tout essayer pour gagner en puissance."
 
  LAT_event.6.t:0 "La nouvelle constitution"
- LAT_event.6.desc:0 "Maintenant qu'Ulmanis a été démis de ses fonctions, nous pouvons enfin commencer à rétablir un système démocratique fonctionnel. D'abord, nous devons réunir un nouveau Seima et voter pour notre prochain président."
+ LAT_event.6.desc:0 "Maintenant qu'Ulmanis a été démis de ses fonctions, nous pouvons enfin commencer à rétablir un système démocratique fonctionnel. D'abord, nous devons réunir une nouvelle Saeima et voter pour notre prochain président."
  LAT_event.6.a:0 "Confirmer Pauls Kalniņš, il est le président légitime selon la constitution."
  LAT_event.6.b:0 "Élire Margers Skujenieks à la place."
 

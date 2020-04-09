@@ -331,11 +331,11 @@
      LOADING_TIP_327:0 "La force est le seul langage qu'ils comprennent, comme des brutes.\n- Franklin Roosevelt"
      LOADING_TIP_328:0 "J'ai vu la guerre... Je déteste la guerre.\n- Franklin Roosevelt"
      LOADING_TIP_329:0 "À mon avis, aucun meurtre ne valait la vie d'un ailier.... Les pilotes de mon unité qui avaient perdu des ailiers à cause de cela n'avaient pas le droit de diriger une section. Ils ont été faits pour voler comme ailier, à la place.\n- Erich Hartmann"
-     LOADING_TIP_330:0 "Les dictateurs se libèrent, mais ils asservissent le peuple.\n- Charlie Chaplin"
+     LOADING_TIP_330:0 "Les dictateurs se libèrent, mais ils asservissent le peuple.\n- Charlie Chaplin dans le film « Le Dictateur »."
      LOADING_TIP_331:0 "La conscription si nécessaire, mais pas nécessairement la conscription.\n- Roi MacKenzie"
      LOADING_TIP_332:0 "Là où il y a peu ou pas d'opinion publique, il y aura probablement un mauvais gouvernement, qui tôt ou tard deviendra un gouvernement autocratique.\n- Roi MacKenzie"
      LOADING_TIP_333:0 "Il n'est jamais juste de commettre le mal, même pour éviter de plus grands maux.\n- Francisco de Vitoria"
-     LOADING_TIP_334:0 "...L'élargissement de l'empire ne peut être la cause d'une guerre juste.\n- Francisco de Vitoria"
+     LOADING_TIP_334:0 "Gloire... et l'élargissement de l'empire ne peut être la cause d'une guerre juste.\n- Francisco de Vitoria"
      LOADING_TIP_335:0 "La guerre n'est pas seulement une question d'équipement, d'artillerie, de troupes de groupe ou de force aérienne ; c'est surtout une question d'esprit ou de moral.\n- Tchang Kaï-chek"
      LOADING_TIP_341:0 "Le vieux mensonge ; Dulce et Decorum est Pro patria mori. (« Il est doux et glorieux de mourir pour sa patrie ») \n- Wilfred Owen"
      LOADING_TIP_342:0 "Et ce n'est pas nous qui avons donné l'exemple, car la loi a toujours été que les plus faibles doivent être soumis aux plus forts.\n- Attribuée à un envoyé athénien sans nom à Sparte"
@@ -358,7 +358,18 @@
      LOADING_TIP_360:0 "Laissez-les venir maintenant. Nous avons fait tout ce qui était en notre pouvoir. Je pense que nous sommes prêts pour eux.\n- Général Winkelman, 10 mai 1940"
      LOADING_TIP_361:0 "Un ordre durable ne peut pas être établi par des baïonnettes.\n- Ludwig von Mises"
      LOADING_TIP_362:0 "Essayez « Equestria at War »\n- L'équipe de Road to 56"
-     
+     LOADING_TIP_363:0 "Nous sommes tout à fait convaincus que vous êtes un espion britannique, mais nous allons vous emmener voir ce que vous faites. \n- Les émissaires de la Haganah au pilote volontaire Gordon Levett"
+    LOADING_TIP_364:0 "Je n'ai jamais préconisé la guerre, sauf comme moyen de paix \n- Ulysses S. Grant"
+    LOADING_TIP_365:0 "Il n'y a pas d'athées dans les terriers, ce n'est pas un argument contre l'athéisme, c'est un argument contre les terriers. \n- James Morrow"
+    LOADING_TIP_366:0 "Que cela vous plaise ou non, l'histoire est de notre côté. Nous allons vous enterrer ! \n- Nikita Khrouchtchev"
+    LOADING_TIP_367:0 "Je regrette seulement de n'avoir qu'une seule vie à donner pour mon pays.\n- Nathan Hale"
+    LOADING_TIP_368:0 "En temps de guerre, la vérité est si précieuse qu'elle devrait toujours être accompagnée par un garde du corps du mensonge.\n - Winston Churchill"
+    LOADING_TIP_369:0 "Vaincus aujourd'hui par la force mécanique, nous serons à l'avenir capables de vaincre par une force mécanique supérieure. Le sort du monde en dépend."\n - Charles de Gaulle"
+    LOADING_TIP_370:0 "Les sanglots longs des violons de l’automne blessent mon cœur d’une langueur monotone.\n - Transmission codée de la SOE à la résistance française"
+    LOADING_TIP_371:0 "Un État comme la Suisse, qui n'est rien d'autre qu'un bouton sur le visage de l'Europe, ne peut pas être autorisé à continuer.\n- Adolf Hitler"
+
+
+
     # Patreon
     LOADING_TIP_336:0 "La Pologne n'est pas encore perdue.\n- Mazurek Dąbrowskiego"
     LOADING_TIP_337:0 "Quand je donne à manger aux pauvres, ils me considèrent comme un saint. Quand je leur demande pourquoi ils sont pauvres, ils me considèrent communiste.\n- Hélder Câmara"

@@ -560,7 +560,8 @@
  ITA_formalise_the_front:0 "Officialiser le front"
  ITA_formalise_the_front_desc:0 "Il est temps de faire du Front de Stresa plus qu'une simple promesse, il est temps d'unir nos nations dans une alliance militaire commune pour tenir la bête allemande à distance."
  ITA_formalise_the_front_tt:0 "§YTous les pays§! qui sont dans la faction [ENG.GetDuDelaDelNP] §Y[ENG.GetName]§! rejoindront le §YFront de Stresa§! dirigé par §Y[ITA.GetNameDef]§!."
-
+ ITA_invite_croatia:0 "Inviter la Croatie"
+ ITA_invite_croatia_desc:0 "Malgré quelques frictions dues à nos revendications sur la Dalmatie, l'alliance avec la Croatie pourrait sécuriser notre flanc tandis que nous étendrions notre sphère d'influence dans les Balkans."
 
 #Leaders
 POLITICS_ITALO_BALBO:0 "Italo Balbo"
